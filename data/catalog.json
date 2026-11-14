@@ -1,7 +1,7 @@
 {
  "generated": "2026-11-14",
  "site": "fragrances.taraga.net",
- "count": 82,
+ "count": 117,
  "products": [
   {
    "id": "chanel-bleu-de-chanel-parfum",
@@ -338,11 +338,11 @@
     "status": "owned",
     "signature": false,
     "is_new": false,
-    "randy_rating": 8,
+    "randy_rating": 8.75,
     "public_rating": 8,
-    "overall_rating": 22.4,
+    "overall_rating": 23.525,
     "max_rating": 28,
-    "normalized_rating": 0.8,
+    "normalized_rating": 0.84,
     "comment": ""
    },
    "reference_link": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Percival-51037.html",
@@ -726,11 +726,11 @@
     "status": "owned",
     "signature": false,
     "is_new": false,
-    "randy_rating": 8.5,
+    "randy_rating": 9,
     "public_rating": 9,
-    "overall_rating": 24.45,
+    "overall_rating": 25.2,
     "max_rating": 28,
-    "normalized_rating": 0.873,
+    "normalized_rating": 0.9,
     "comment": ""
    },
    "reference_link": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Althair-84109.html",
@@ -857,11 +857,11 @@
     "status": "prospective",
     "signature": false,
     "is_new": false,
-    "randy_rating": 8,
+    "randy_rating": 9.25,
     "public_rating": 8,
-    "overall_rating": 22.4,
+    "overall_rating": 24.275,
     "max_rating": 28,
-    "normalized_rating": 0.8,
+    "normalized_rating": 0.867,
     "comment": "A nostalgic smell, like elementary school. Soft, though not as soft as Bal d'Afrique Absolu, with a slightly similar sensation to it."
    },
    "reference_link": "https://www.fragrantica.com/perfume/BDK-Parfums/Gris-Charnel-57038.html",
@@ -933,11 +933,11 @@
     "status": "prospective",
     "signature": false,
     "is_new": false,
-    "randy_rating": 8,
+    "randy_rating": 8.75,
     "public_rating": 9,
-    "overall_rating": 23.7,
+    "overall_rating": 24.825,
     "max_rating": 28,
-    "normalized_rating": 0.846,
+    "normalized_rating": 0.887,
     "comment": "A nostalgic smell, like elementary school. Bright, tough and supple at the same time."
    },
    "reference_link": "https://www.fragrantica.com/perfume/Amouage/Reflection-45-Man-69488.html",
@@ -2078,11 +2078,11 @@
     "status": "owned",
     "signature": false,
     "is_new": false,
-    "randy_rating": 5.75,
+    "randy_rating": 7,
     "public_rating": 8,
-    "overall_rating": 14.325,
+    "overall_rating": 15.7,
     "max_rating": 21,
-    "normalized_rating": 0.682,
+    "normalized_rating": 0.748,
     "comment": ""
    },
    "reference_link": "https://www.fragrantica.com/perfume/Afnan/Rare-Reef-106835.html",
@@ -3703,11 +3703,11 @@
     "status": "owned",
     "signature": false,
     "is_new": false,
-    "randy_rating": 8.5,
+    "randy_rating": 8,
     "public_rating": 8,
-    "overall_rating": 17.35,
+    "overall_rating": 16.8,
     "max_rating": 21,
-    "normalized_rating": 0.826,
+    "normalized_rating": 0.8,
     "comment": ""
    },
    "reference_link": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Mandarin-Sky-83132.html",
@@ -4340,7 +4340,7 @@
    "concentration": "",
    "images": {
     "bottle": "/assets/bottles/dior-sauvage-elixir.webp",
-    "card": null
+    "card": "/assets/cards/dior-sauvage-elixir.webp"
    },
    "attributes": {
     "type": "designer",
@@ -4673,7 +4673,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/creed-silver-mountain-water.webp",
-    "card": null
+    "card": "/assets/cards/creed-silver-mountain-water.webp"
    },
    "attributes": {
     "type": "niche",
@@ -4959,7 +4959,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/afnan-lynked-freedom.webp",
-    "card": null
+    "card": "/assets/cards/afnan-lynked-freedom.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -5025,7 +5025,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/ajmal-gold-vi.webp",
-    "card": null
+    "card": "/assets/cards/ajmal-gold-vi.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -5094,7 +5094,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/ajmal-song-of-oud.webp",
-    "card": null
+    "card": "/assets/cards/ajmal-song-of-oud.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -5300,7 +5300,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/coach-for-men-edp.webp",
-    "card": null
+    "card": "/assets/cards/coach-for-men-edp.webp"
    },
    "attributes": {
     "type": "designer",
@@ -5429,7 +5429,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/afnan-turathi-electric.webp",
-    "card": null
+    "card": "/assets/cards/afnan-turathi-electric.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -5552,6 +5552,2187 @@
     "comment": ""
    },
    "reference_link": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Perseus-90199.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "antonio-banderas-blue-seduction-for-men",
+   "slug": "antonio-banderas-blue-seduction-for-men",
+   "url": "/fragrances/antonio-banderas-blue-seduction-for-men/",
+   "brand": "Antonio Banderas",
+   "name": "Blue Seduction for Men Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/antonio-banderas-blue-seduction-for-men.webp",
+    "card": "/assets/cards/antonio-banderas-blue-seduction-for-men.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2007,
+    "perfumer": "Olivier Cresp",
+    "notes": {
+     "top": [
+      "melon",
+      "bergamot",
+      "mint",
+      "black currant"
+     ],
+     "heart": [
+      "sea water",
+      "green apple",
+      "cappuccino",
+      "cardamom",
+      "nutmeg"
+     ],
+     "base": [
+      "woody notes",
+      "amber"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Spicy",
+     "Woody"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Versace Man Eau Fraiche",
+     "Nautica Voyage"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 5,
+    "public_rating": 8,
+    "overall_rating": 16.1,
+    "max_rating": 25,
+    "normalized_rating": 0.644,
+    "comment": "Night Time rotation: soft enough to sleep in"
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Antonio-Banderas/Blue-Seduction-1088.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "panama-jack-for-him",
+   "slug": "panama-jack-for-him",
+   "url": "/fragrances/panama-jack-for-him/",
+   "brand": "Panama Jack",
+   "name": "Panama Jack for Him Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/panama-jack-for-him.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "bergamot",
+      "pink pepper",
+      "artemisia"
+     ],
+     "heart": [
+      "lavender",
+      "iris",
+      "sage",
+      "suede",
+      "saffron"
+     ],
+     "base": [
+      "musk",
+      "caramel",
+      "Haitian vetiver",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Woody",
+     "Spicy"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "Old Spice Original",
+     "Calvin Klein CK One"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 5.5,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": "Night Time rotation: soft enough to sleep in"
+   },
+   "reference_link": "https://www.parfumo.com/Perfumes/Panama_Jack/panama-jack-for-him",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "antonio-banderas-the-icon",
+   "slug": "antonio-banderas-the-icon",
+   "url": "/fragrances/antonio-banderas-the-icon/",
+   "brand": "Antonio Banderas",
+   "name": "The Icon Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/antonio-banderas-the-icon.webp",
+    "card": "/assets/cards/antonio-banderas-the-icon.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2020,
+    "perfumer": "Nicolas Beaulieu",
+    "notes": {
+     "top": [
+      "grapefruit",
+      "black pepper"
+     ],
+     "heart": [
+      "lavender",
+      "sage"
+     ],
+     "base": [
+      "sandalwood",
+      "oakmoss"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Aromatic",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Dior Sauvage EDT",
+     "Antonio Banderas The Icon Eau de Parfum"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 5,
+    "public_rating": 8,
+    "overall_rating": 16.1,
+    "max_rating": 25,
+    "normalized_rating": 0.644,
+    "comment": "Night Time rotation: soft enough to sleep in"
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Antonio-Banderas/The-Icon-64487.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "whiskey-and-leather-cypress-and-sage",
+   "slug": "whiskey-and-leather-cypress-and-sage",
+   "url": "/fragrances/whiskey-and-leather-cypress-and-sage/",
+   "brand": "Sand + Fog",
+   "name": "Whiskey and Leather Cypress & Sage",
+   "concentration": "",
+   "images": {
+    "bottle": null,
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "cypress"
+     ],
+     "heart": [
+      "sage"
+     ],
+     "base": [
+      "musk"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Musky"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 6,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": "Night Time rotation: soft enough to sleep in"
+   },
+   "reference_link": "https://sandandfoghome.com/collections/whiskey-and-leather",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "tuscan-vetiver-eau-de-cologne",
+   "slug": "tuscan-vetiver-eau-de-cologne",
+   "url": "/fragrances/tuscan-vetiver-eau-de-cologne/",
+   "brand": "Tru Fragrance",
+   "name": "Tuscan Vetiver Eau de Cologne",
+   "concentration": "",
+   "images": {
+    "bottle": null,
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "mint"
+     ],
+     "heart": [
+      "sage"
+     ],
+     "base": [
+      "cedarwood"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Woody"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Bvlgari Wood Neroli"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 6.5,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": "Night Time rotation: soft enough to sleep in"
+   },
+   "reference_link": "https://www.reddit.com/r/fragranceclones/comments/1lvocxa/new_items_at_marshalls/",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "nautica-voyage-edt",
+   "slug": "nautica-voyage-edt",
+   "url": "/fragrances/nautica-voyage-edt/",
+   "brand": "Nautica",
+   "name": "Nautica Voyage Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/nautica-voyage-edt.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2006,
+    "perfumer": "Maurice Roucel",
+    "notes": {
+     "top": [
+      "green leaves",
+      "apple"
+     ],
+     "heart": [
+      "lotus",
+      "mimosa"
+     ],
+     "base": [
+      "musk",
+      "cedar",
+      "oakmoss",
+      "amber"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Musky",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Antonio Banderas Blue Seduction for Men",
+     "Azzaro Chrome"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 5,
+    "public_rating": 8,
+    "overall_rating": 16.1,
+    "max_rating": 25,
+    "normalized_rating": 0.644,
+    "comment": "Night Time rotation: soft enough to sleep in"
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Nautica/Nautica-Voyage-913.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "emberforge-eau-de-cologne",
+   "slug": "emberforge-eau-de-cologne",
+   "url": "/fragrances/emberforge-eau-de-cologne/",
+   "brand": "Tru Fragrance & Beauty",
+   "name": "Emberforge Eau de Cologne",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/emberforge-eau-de-cologne.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [],
+     "heart": [],
+     "base": []
+    },
+    "families": [],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 6.5,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": "Night Time rotation: soft enough to sleep in. Bought at Marshalls."
+   },
+   "reference_link": null,
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "ministry-of-gourmand-coconut-lagoon",
+   "slug": "ministry-of-gourmand-coconut-lagoon",
+   "url": "/fragrances/ministry-of-gourmand-coconut-lagoon/",
+   "brand": "Ministry of Gourmand (Paris Corner)",
+   "name": "Coconut Lagoon Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/ministry-of-gourmand-coconut-lagoon.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2024,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "lemon",
+      "mandarin",
+      "bergamot"
+     ],
+     "heart": [
+      "apple",
+      "watermelon",
+      "caramel"
+     ],
+     "base": [
+      "coconut",
+      "vanilla"
+     ]
+    },
+    "families": [
+     "Sweet",
+     "Citrus",
+     "Fruity"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Creed Virgin Island Water",
+     "Rayhaan Aquatica"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 6.75,
+    "public_rating": 8,
+    "overall_rating": 15.425,
+    "max_rating": 21,
+    "normalized_rating": 0.735,
+    "comment": ""
+   },
+   "reference_link": "https://www.parfumo.com/Perfumes/ministry-of-gourmand/coconut-lagoon",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "armaf-club-de-nuit-precieux-i",
+   "slug": "armaf-club-de-nuit-precieux-i",
+   "url": "/fragrances/armaf-club-de-nuit-precieux-i/",
+   "brand": "Armaf",
+   "name": "Club de Nuit Précieux I Extrait de Parfum",
+   "concentration": "Extrait de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/armaf-club-de-nuit-precieux-i.webp",
+    "card": "/assets/cards/armaf-club-de-nuit-precieux-i.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2024,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "pineapple",
+      "lemon",
+      "bergamot",
+      "caramel",
+      "pink pepper",
+      "black pepper",
+      "pear"
+     ],
+     "heart": [
+      "oakmoss",
+      "white woods",
+      "jasmine",
+      "lily of the valley",
+      "anise"
+     ],
+     "base": [
+      "ambroxan",
+      "white musk",
+      "cedar",
+      "leather",
+      "patchouli",
+      "amber",
+      "vanilla"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Amber",
+     "Spicy"
+    ],
+    "seasons": [
+     "spring",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Creed Absolu Aventus",
+     "Armaf Club de Nuit Intense Man",
+     "Afnan Supremacy Not Only Intense / Collector's Edition"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 8,
+    "public_rating": 9,
+    "overall_rating": 17.8,
+    "max_rating": 21,
+    "normalized_rating": 0.848,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Precieux-I-93272.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "carolina-herrera-212-men-nyc-edt",
+   "slug": "carolina-herrera-212-men-nyc-edt",
+   "url": "/fragrances/carolina-herrera-212-men-nyc-edt/",
+   "brand": "Carolina Herrera",
+   "name": "212 Men NYC Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/carolina-herrera-212-men-nyc-edt.webp",
+    "card": "/assets/cards/carolina-herrera-212-men-nyc-edt.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 1999,
+    "perfumer": "Alberto Morillas, Rosendo Mateu, Ann Gottlieb",
+    "notes": {
+     "top": [
+      "green notes",
+      "grapefruit",
+      "spices",
+      "bergamot",
+      "lavender",
+      "petitgrain"
+     ],
+     "heart": [
+      "ginger",
+      "violet",
+      "gardenia",
+      "sage",
+      "green pepper"
+     ],
+     "base": [
+      "musk",
+      "sandalwood",
+      "vetiver",
+      "incense",
+      "guaiac wood",
+      "labdanum"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Aromatic",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Carolina Herrera Chic for Men",
+     "Giorgio Armani Acqua di Gio EDT",
+     "Calvin Klein CK One / Mugler Cologne",
+     "Casamorati Mefisto"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 7.5,
+    "public_rating": 8,
+    "overall_rating": 19.35,
+    "max_rating": 25,
+    "normalized_rating": 0.774,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-Men-297.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "prince-parfums-story-of-majestic-oudh",
+   "slug": "prince-parfums-story-of-majestic-oudh",
+   "url": "/fragrances/prince-parfums-story-of-majestic-oudh/",
+   "brand": "Prince Parfums Dubai",
+   "name": "Story of Majestic Oudh Extrait de Parfum",
+   "concentration": "Extrait de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/prince-parfums-story-of-majestic-oudh.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2024,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "bergamot",
+      "saffron"
+     ],
+     "heart": [
+      "rose",
+      "oud"
+     ],
+     "base": [
+      "amber",
+      "vanilla"
+     ]
+    },
+    "families": [
+     "Amber",
+     "Sweet",
+     "Floral"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Xerjoff Erba Pura",
+     "Parfumado Mystic Oud"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 7,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Prince-Parfums-Dubai/Majestic-Oudh-97462.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "fomo-illusion-d-un-soir",
+   "slug": "fomo-illusion-d-un-soir",
+   "url": "/fragrances/fomo-illusion-d-un-soir/",
+   "brand": "FOMO",
+   "name": "Illusion d'Un Soir Extrait de Parfum",
+   "concentration": "Extrait de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/fomo-illusion-d-un-soir.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2023,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "lavender",
+      "mandarin orange",
+      "bergamot"
+     ],
+     "heart": [
+      "benzoin",
+      "cinnamon",
+      "labdanum",
+      "tobacco",
+      "cumin"
+     ],
+     "base": [
+      "vanilla",
+      "amber",
+      "guaiac wood",
+      "musk",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Amber",
+     "Woody",
+     "Spicy"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Maison Francis Kurkdjian Grand Soir",
+     "Ard Al Zaafaran Barrakat Ambre Eve"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 5.5,
+    "public_rating": 8,
+    "overall_rating": 14.05,
+    "max_rating": 21,
+    "normalized_rating": 0.669,
+    "comment": ""
+   },
+   "reference_link": "https://www.parfumo.com/Perfumes/fomo/illusion-d-un-soir",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "fomo-garys-den-le-parfum",
+   "slug": "fomo-garys-den-le-parfum",
+   "url": "/fragrances/fomo-garys-den-le-parfum/",
+   "brand": "FOMO",
+   "name": "Gary's Den Le Parfum",
+   "concentration": "Parfum",
+   "images": {
+    "bottle": "/assets/bottles/fomo-garys-den-le-parfum.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2023,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "lavender",
+      "bergamot"
+     ],
+     "heart": [
+      "iris",
+      "labdanum",
+      "cardamom",
+      "coriander"
+     ],
+     "base": [
+      "musk",
+      "cedarwood",
+      "amber",
+      "vanilla",
+      "vetiver",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Amber",
+     "Spicy"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Dior Homme Intense",
+     "Dior Homme Parfum"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 6,
+    "public_rating": 8,
+    "overall_rating": 14.6,
+    "max_rating": 21,
+    "normalized_rating": 0.695,
+    "comment": ""
+   },
+   "reference_link": "https://www.parfumo.com/Perfumes/fomo/gary-s-den",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "police-to-be-the-king",
+   "slug": "police-to-be-the-king",
+   "url": "/fragrances/police-to-be-the-king/",
+   "brand": "Police",
+   "name": "TO BE The King Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/police-to-be-the-king.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2013,
+    "perfumer": "Pierre-Constantin Guéros",
+    "notes": {
+     "top": [
+      "cardamom",
+      "nutmeg",
+      "cedar",
+      "bay leaf",
+      "lemon"
+     ],
+     "heart": [
+      "lavender",
+      "amber",
+      "cashmere wood",
+      "artemisia"
+     ],
+     "base": [
+      "woody notes",
+      "tonka bean",
+      "resins",
+      "orange blossom"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Aromatic",
+     "Amber"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Antonio Banderas Seduction in Black",
+     "Jean Paul Gaultier Le Male / Paco Rabanne 1 Million",
+     "Princesse Marina de Bourbon Prince Noir"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 7.5,
+    "public_rating": 7,
+    "overall_rating": 18.15,
+    "max_rating": 25,
+    "normalized_rating": 0.726,
+    "comment": "Night Time rotation: soft enough to sleep in"
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Police/TO-BE-The-King-18799.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "fomo-a-fragheads-asylum",
+   "slug": "fomo-a-fragheads-asylum",
+   "url": "/fragrances/fomo-a-fragheads-asylum/",
+   "brand": "FOMO",
+   "name": "A Fraghead's Asylum Extrait de Parfum",
+   "concentration": "Extrait de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/fomo-a-fragheads-asylum.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2023,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "lemon",
+      "grapefruit",
+      "pink pepper"
+     ],
+     "heart": [
+      "jasmine",
+      "iris"
+     ],
+     "base": [
+      "vetiver",
+      "agarwood",
+      "amber"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Floral",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Roja Parfums Elysium Pour Homme Parfum Cologne",
+     "Roja Parfums Elysium Pour Homme Parfum"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 8.75,
+    "public_rating": 8,
+    "overall_rating": 17.625,
+    "max_rating": 21,
+    "normalized_rating": 0.839,
+    "comment": "Night Time rotation: soft enough to sleep in"
+   },
+   "reference_link": "https://www.parfumo.com/Perfumes/fomo/a-fraghead-s-asylum",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "jo-milano-levante-exclusive",
+   "slug": "jo-milano-levante-exclusive",
+   "url": "/fragrances/jo-milano-levante-exclusive/",
+   "brand": "Jo Milano Paris",
+   "name": "Levante Exclusive (Perfuadictos Edition)",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/jo-milano-levante-exclusive.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "grapefruit",
+      "lemon",
+      "bergamot",
+      "lime",
+      "thyme",
+      "artemisia",
+      "galbanum"
+     ],
+     "heart": [
+      "vetiver",
+      "juniper berries",
+      "black currant",
+      "apple",
+      "pink pepper",
+      "cedar",
+      "cypriol (nagarmotha)",
+      "lily-of-the-valley",
+      "rose",
+      "jasmine"
+     ],
+     "base": [
+      "ambergris",
+      "leather",
+      "vanilla",
+      "benzoin",
+      "labdanum"
+     ]
+    },
+    "families": [
+     "Amber",
+     "Citrus",
+     "Aromatic"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Roja Parfums Elysium Pour Homme Eau Intense",
+     "Roja Parfums Elysium Pour Homme",
+     "Fragrance World / Zimaya Imperium",
+     "FOMO A Fraghead's Asylum"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 8.5,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": "Night Time rotation: soft enough to sleep in"
+   },
+   "reference_link": "https://jomilanoparis.com/products/levante-exclusive-3-4-oz-eau-de-parfum-spray",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "paris-corner-emir-voux-elegante",
+   "slug": "paris-corner-emir-voux-elegante",
+   "url": "/fragrances/paris-corner-emir-voux-elegante/",
+   "brand": "Emir (Paris Corner)",
+   "name": "Voux Elegante Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/paris-corner-emir-voux-elegante.webp",
+    "card": "/assets/cards/paris-corner-emir-voux-elegante.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2022,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "lavender",
+      "bergamot",
+      "lemon"
+     ],
+     "heart": [
+      "honey",
+      "cinnamon",
+      "jasmine",
+      "cashmeran"
+     ],
+     "base": [
+      "tobacco",
+      "vanilla",
+      "tonka bean"
+     ]
+    },
+    "families": [
+     "Sweet",
+     "Citrus",
+     "Leather"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Xerjoff 1861 Naxos"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 8.75,
+    "public_rating": 8,
+    "overall_rating": 17.625,
+    "max_rating": 21,
+    "normalized_rating": 0.839,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/PARIS-CORNER/Voux-Elegante-98759.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "lattafa-pride-eternal-oud",
+   "slug": "lattafa-pride-eternal-oud",
+   "url": "/fragrances/lattafa-pride-eternal-oud/",
+   "brand": "Lattafa Pride",
+   "name": "Eternal Oud Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/lattafa-pride-eternal-oud.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2022,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "plum",
+      "grapefruit"
+     ],
+     "heart": [
+      "heliotrope",
+      "orchid"
+     ],
+     "base": [
+      "amber",
+      "benzoin",
+      "vanilla",
+      "labdanum",
+      "tonka bean",
+      "agarwood (oud)"
+     ]
+    },
+    "families": [
+     "Amber",
+     "Sweet",
+     "Fruity"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Maison Francis Kurkdjian Grand Soir",
+     "Fragrance World Soir",
+     "FOMO Illusion d'Un Soir"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 7,
+    "public_rating": 8,
+    "overall_rating": 15.7,
+    "max_rating": 21,
+    "normalized_rating": 0.748,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Eternal-Oud-78155.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "lattafa-ejaazi",
+   "slug": "lattafa-ejaazi",
+   "url": "/fragrances/lattafa-ejaazi/",
+   "brand": "Lattafa",
+   "name": "Ejaazi Eau de Parfum (Lil Rijal)",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/lattafa-ejaazi.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2018,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "orange",
+      "citruses",
+      "lavender",
+      "cardamom",
+      "myrtle"
+     ],
+     "heart": [
+      "pepper",
+      "patchouli",
+      "cinnamon leaf",
+      "lily-of-the-valley"
+     ],
+     "base": [
+      "ambroxan",
+      "woody notes",
+      "amber",
+      "cedar",
+      "oakmoss",
+      "vetiver"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Spicy",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Fragrance One Office for Men",
+     "Dior Sauvage",
+     "Arabian Oud Arabian Knight"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 8,
+    "public_rating": 8,
+    "overall_rating": 16.8,
+    "max_rating": 21,
+    "normalized_rating": 0.8,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ejaazi-68228.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "lattafa-khamrah-qahwa",
+   "slug": "lattafa-khamrah-qahwa",
+   "url": "/fragrances/lattafa-khamrah-qahwa/",
+   "brand": "Lattafa",
+   "name": "Khamrah Qahwa Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/lattafa-khamrah-qahwa.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2023,
+    "perfumer": "Jordi Fernández (Givaudan), per Parfumo",
+    "notes": {
+     "top": [
+      "cinnamon",
+      "cardamom",
+      "ginger"
+     ],
+     "heart": [
+      "praline",
+      "candied fruits",
+      "white flowers"
+     ],
+     "base": [
+      "vanilla",
+      "coffee",
+      "tonka bean",
+      "benzoin",
+      "musk"
+     ]
+    },
+    "families": [
+     "Sweet",
+     "Spicy",
+     "Fruity"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Lattafa Khamrah",
+     "Kilian Angels' Share",
+     "Gissah Savva"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 8.5,
+    "public_rating": 8,
+    "overall_rating": 17.35,
+    "max_rating": 21,
+    "normalized_rating": 0.826,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Khamrah-Qahwa-88175.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "lattafa-asad",
+   "slug": "lattafa-asad",
+   "url": "/fragrances/lattafa-asad/",
+   "brand": "Lattafa",
+   "name": "Asad Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/lattafa-asad.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2021,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "black pepper",
+      "tobacco",
+      "pineapple"
+     ],
+     "heart": [
+      "patchouli",
+      "coffee",
+      "iris"
+     ],
+     "base": [
+      "vanilla",
+      "amber",
+      "dry wood",
+      "benzoin",
+      "labdanum"
+     ]
+    },
+    "families": [
+     "Amber",
+     "Sweet",
+     "Woody"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Dior Sauvage Elixir",
+     "Gisada Ambassador Intense",
+     "Lattafa Gaith"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 8,
+    "public_rating": 8,
+    "overall_rating": 16.8,
+    "max_rating": 21,
+    "normalized_rating": 0.8,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Asad-72821.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "vince-camuto-virtu",
+   "slug": "vince-camuto-virtu",
+   "url": "/fragrances/vince-camuto-virtu/",
+   "brand": "Vince Camuto",
+   "name": "Virtu Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/vince-camuto-virtu.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2018,
+    "perfumer": "Laurent Le Guernec",
+    "notes": {
+     "top": [
+      "cardamom",
+      "pepper",
+      "papyrus"
+     ],
+     "heart": [
+      "moss",
+      "birch",
+      "haitian vetiver"
+     ],
+     "base": [
+      "cedar",
+      "leather",
+      "musk",
+      "sandalwood"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Spicy",
+     "Leather"
+    ],
+    "seasons": [
+     "spring",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Le Labo Santal 33",
+     "Cremo Palo Santo",
+     "Calvin Klein Defy Eau de Parfum"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 4.5,
+    "public_rating": 8,
+    "overall_rating": 15.45,
+    "max_rating": 25,
+    "normalized_rating": 0.618,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Vince-Camuto/Virtu-51235.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "velixir-icarus",
+   "slug": "velixir-icarus",
+   "url": "/fragrances/velixir-icarus/",
+   "brand": "Velixir",
+   "name": "Icarus Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/velixir-icarus.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2024,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "pear",
+      "mandarin orange",
+      "calabrian bergamot"
+     ],
+     "heart": [
+      "mandarin orange",
+      "ginger",
+      "orange blossom",
+      "georgywood"
+     ],
+     "base": [
+      "musk",
+      "ambrofix",
+      "akigalawood",
+      "cedarwood"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Citrus",
+     "Musky"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Ex Nihilo Blue Talisman",
+     "Lattafa Art of Universe"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 8.5,
+    "public_rating": 9,
+    "overall_rating": 18.35,
+    "max_rating": 21,
+    "normalized_rating": 0.874,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Velixir/Icarus-127589.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "khadlaj-island-dreams",
+   "slug": "khadlaj-island-dreams",
+   "url": "/fragrances/khadlaj-island-dreams/",
+   "brand": "Khadlaj",
+   "name": "Island Dreams",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/khadlaj-island-dreams.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2025,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "ginger",
+      "bergamot"
+     ],
+     "heart": [
+      "grapefruit"
+     ],
+     "base": [
+      "musk",
+      "ambroxan"
+     ]
+    },
+    "families": [
+     "Citrus",
+     "Musky",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Louis Vuitton Symphony",
+     "Khadlaj Island"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 7,
+    "public_rating": 8,
+    "overall_rating": 15.7,
+    "max_rating": 21,
+    "normalized_rating": 0.748,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Khadlaj-Perfumes/Island-Dreams-113593.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "arabiyat-prestige-marwa",
+   "slug": "arabiyat-prestige-marwa",
+   "url": "/fragrances/arabiyat-prestige-marwa/",
+   "brand": "Arabiyat Prestige",
+   "name": "Marwa Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/arabiyat-prestige-marwa.webp",
+    "card": "/assets/cards/arabiyat-prestige-marwa.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2025,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "bergamot",
+      "petitgrain",
+      "ginger"
+     ],
+     "heart": [
+      "chinese black tea",
+      "geranium",
+      "incense"
+     ],
+     "base": [
+      "guaiac wood",
+      "ambroxan",
+      "musk"
+     ]
+    },
+    "families": [
+     "Amber",
+     "Aromatic",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Louis Vuitton Imagination",
+     "Al Haramain Amber Oud Aqua Dubai",
+     "Arabiyat Prestige Marwa Extrait"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 8.75,
+    "public_rating": 9,
+    "overall_rating": 18.625,
+    "max_rating": 21,
+    "normalized_rating": 0.887,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Arabiyat-Prestige/Marwa-107084.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "prada-luna-rossa-edt",
+   "slug": "prada-luna-rossa-edt",
+   "url": "/fragrances/prada-luna-rossa-edt/",
+   "brand": "Prada",
+   "name": "Luna Rossa Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/prada-luna-rossa-edt.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2012,
+    "perfumer": "Daniela Andrier (Givaudan)",
+    "notes": {
+     "top": [
+      "lavender",
+      "bitter orange"
+     ],
+     "heart": [
+      "mint",
+      "clary sage"
+     ],
+     "base": [
+      "ambrette (musk mallow)",
+      "ambroxan"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Musky",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Prada Luna Rossa Eau Sport",
+     "Prada Luna Rossa Ocean Eau de Parfum"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 7,
+    "public_rating": 8,
+    "overall_rating": 18.7,
+    "max_rating": 25,
+    "normalized_rating": 0.748,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Prada/Luna-Rossa-15754.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "tru-fragrance-jet-set-black",
+   "slug": "tru-fragrance-jet-set-black",
+   "url": "/fragrances/tru-fragrance-jet-set-black/",
+   "brand": "Tru Fragrance & Beauty",
+   "name": "002: Jet Set Black Eau de Cologne",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/tru-fragrance-jet-set-black.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [],
+     "heart": [],
+     "base": []
+    },
+    "families": [],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Michael Malul London Jet Black",
+     "Paco Rabanne 1 Million / 1 Million Lucky"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 6,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": null,
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "manifest-fragrances-confidence",
+   "slug": "manifest-fragrances-confidence",
+   "url": "/fragrances/manifest-fragrances-confidence/",
+   "brand": "Manifest Fragrances (Tru Fragrance & Beauty)",
+   "name": "Confidence Eau de Cologne for Men",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/manifest-fragrances-confidence.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "mint"
+     ],
+     "heart": [],
+     "base": [
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Aromatic"
+    ],
+    "seasons": [],
+    "similar_to": [],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 7.5,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": null,
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "tru-fragrance-amplify",
+   "slug": "tru-fragrance-amplify",
+   "url": "/fragrances/tru-fragrance-amplify/",
+   "brand": "Tru Fragrance & Beauty",
+   "name": "Amplify Eau de Cologne",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/tru-fragrance-amplify.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [],
+     "heart": [],
+     "base": []
+    },
+    "families": [],
+    "seasons": [],
+    "similar_to": [],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 7.5,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": null,
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "guess-seductive-homme-body-spray",
+   "slug": "guess-seductive-homme-body-spray",
+   "url": "/fragrances/guess-seductive-homme-body-spray/",
+   "brand": "Guess",
+   "name": "Seductive Homme Deodorizing Body Spray",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/guess-seductive-homme-body-spray.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2011,
+    "perfumer": "Frank Voelkl and Ilias Ermenidis (Firmenich), per Parfumo, for the EDT",
+    "notes": {
+     "top": [
+      "pink pepper",
+      "mandarin orange",
+      "cardamom"
+     ],
+     "heart": [
+      "vanilla orchid",
+      "violet leaf",
+      "vetiver"
+     ],
+     "base": [
+      "amberwood",
+      "sandalwood",
+      "musk",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Spicy",
+     "Sweet"
+    ],
+    "seasons": [
+     "spring",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Salvatore Ferragamo F by Ferragamo pour Homme Black",
+     "Valentino V pour Homme",
+     "Mugler A*Men Pure Malt"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 4.5,
+    "public_rating": 7,
+    "overall_rating": 14.25,
+    "max_rating": 25,
+    "normalized_rating": 0.57,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Guess/Guess-Seductive-Homme-12953.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "ford-mustang-red-body-spray",
+   "slug": "ford-mustang-red-body-spray",
+   "url": "/fragrances/ford-mustang-red-body-spray/",
+   "brand": "Ford Mustang",
+   "name": "Mustang Red Deodorant Body Spray",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/ford-mustang-red-body-spray.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2019,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "grapefruit",
+      "tarragon",
+      "lemon zest"
+     ],
+     "heart": [
+      "lavender",
+      "mint",
+      "galbanum"
+     ],
+     "base": [
+      "musk",
+      "patchouli",
+      "sandalwood"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Woody",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 5.5,
+    "public_rating": 7,
+    "overall_rating": 15.55,
+    "max_rating": 25,
+    "normalized_rating": 0.622,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Mustang/Mustang-For-Men-Eau-de-Toilette-56900.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "tribute8-elementic-scent-01",
+   "slug": "tribute8-elementic-scent-01",
+   "url": "/fragrances/tribute8-elementic-scent-01/",
+   "brand": "TRiBUTE8",
+   "name": "Elementic Scent 01 (Iso E Super) - Layering Enhancer",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/tribute8-elementic-scent-01.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [],
+     "heart": [],
+     "base": [
+      "iso e super"
+     ]
+    },
+    "families": [
+     "Woody"
+    ],
+    "seasons": [],
+    "similar_to": [
+     "Escentric Molecules Molecule 01"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": "Enhancer / layering booster;"
+   },
+   "reference_link": "https://tribute8.com/products/elementic-scent-01-iso-e-super-100ml",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "mary-kay-domain",
+   "slug": "mary-kay-domain",
+   "url": "/fragrances/mary-kay-domain/",
+   "brand": "Mary Kay",
+   "name": "Domain Cologne Spray",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/mary-kay-domain.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2000,
+    "perfumer": "Thierry Wasser",
+    "notes": {
+     "top": [
+      "green apple",
+      "sage"
+     ],
+     "heart": [
+      "juniper berries",
+      "mint"
+     ],
+     "base": [
+      "black vanilla husk",
+      "musk"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Sweet",
+     "Musky"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 5,
+    "public_rating": 7,
+    "overall_rating": 14.9,
+    "max_rating": 25,
+    "normalized_rating": 0.596,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Mary-Kay/Domain-3451.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "aubusson-reserve-44-gunshot-bourbon",
+   "slug": "aubusson-reserve-44-gunshot-bourbon",
+   "url": "/fragrances/aubusson-reserve-44-gunshot-bourbon/",
+   "brand": "Aubusson",
+   "name": "Reserve #44 Gunshot & Bourbon Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/aubusson-reserve-44-gunshot-bourbon.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [],
+     "heart": [],
+     "base": []
+    },
+    "families": [],
+    "seasons": [],
+    "similar_to": [],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 5,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "aubusson-reserve-22-bitter-orange-rye",
+   "slug": "aubusson-reserve-22-bitter-orange-rye",
+   "url": "/fragrances/aubusson-reserve-22-bitter-orange-rye/",
+   "brand": "Aubusson",
+   "name": "Reserve Fragrance No. 22 Bitter Orange & Rye Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/aubusson-reserve-22-bitter-orange-rye.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [],
+     "heart": [],
+     "base": []
+    },
+    "families": [],
+    "seasons": [],
+    "similar_to": [],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 6,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "",
    "commerce": {
     "sellable": false,
     "variants": []
