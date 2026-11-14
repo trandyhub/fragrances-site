@@ -1,7 +1,7 @@
 {
  "generated": "2026-11-14",
  "site": "fragrances.taraga.net",
- "count": 56,
+ "count": 82,
  "products": [
   {
    "id": "chanel-bleu-de-chanel-parfum",
@@ -3669,6 +3669,1725 @@
     "comment": ""
    },
    "reference_link": "https://www.fragrantica.com/perfume/English-Laundry/London-53368.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "roja-elysium-pour-homme-parfum-cologne",
+   "slug": "roja-elysium-pour-homme-parfum-cologne",
+   "url": "/fragrances/roja-elysium-pour-homme-parfum-cologne/",
+   "brand": "Roja Parfums",
+   "name": "Elysium Pour Homme Parfum Cologne",
+   "concentration": "Parfum",
+   "images": {
+    "bottle": "/assets/bottles/roja-elysium-pour-homme-parfum-cologne.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2017,
+    "perfumer": "Roja Dove",
+    "notes": {
+     "top": [
+      "grapefruit",
+      "lemon",
+      "bergamot",
+      "lime",
+      "thyme",
+      "galbanum",
+      "artemisia"
+     ],
+     "heart": [
+      "vetiver",
+      "juniper berry",
+      "blackcurrant",
+      "apple",
+      "cedar",
+      "pink pepper",
+      "cypriol",
+      "lily of the valley",
+      "jasmine",
+      "rose"
+     ],
+     "base": [
+      "ambergris",
+      "leather",
+      "vanilla",
+      "benzoin",
+      "labdanum"
+     ]
+    },
+    "families": [
+     "Amber",
+     "Citrus",
+     "Aromatic"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Roja Elysium Pour Homme Parfum",
+     "Creed Aventus",
+     "Maison Alhambra / Zimaya Spectrum"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 9,
+    "overall_rating": null,
+    "max_rating": 28,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Roja-Dove/Elysium-Pour-Homme-Parfum-Cologne-46296.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "khadlaj-shiyaaka-sky",
+   "slug": "khadlaj-shiyaaka-sky",
+   "url": "/fragrances/khadlaj-shiyaaka-sky/",
+   "brand": "Khadlaj",
+   "name": "Shiyaaka Sky Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/khadlaj-shiyaaka-sky.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2026,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "bergamot",
+      "verbena",
+      "mandarin"
+     ],
+     "heart": [
+      "green accord",
+      "neroli",
+      "orange blossom",
+      "geranium"
+     ],
+     "base": [
+      "musk",
+      "ambroxan",
+      "vetiver",
+      "sandalwood"
+     ]
+    },
+    "families": [
+     "Citrus",
+     "Woody",
+     "Aromatic"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Guerlain Herbes Troublantes",
+     "Atralia Absolute Ice"
+    ],
+    "inspired_by": "Guerlain Herbes Troublantes"
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Khadlaj-Perfumes/Shiyaaka-Sky-137096.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "roja-elysium-noir",
+   "slug": "roja-elysium-noir",
+   "url": "/fragrances/roja-elysium-noir/",
+   "brand": "Roja Parfums",
+   "name": "Elysium Noir Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/roja-elysium-noir.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2025,
+    "perfumer": "Antoine Cotton",
+    "notes": {
+     "top": [
+      "lavender",
+      "geranium",
+      "bergamot",
+      "lemon",
+      "mandarin",
+      "orange",
+      "helvetolide",
+      "hedione"
+     ],
+     "heart": [
+      "blackberry",
+      "rose"
+     ],
+     "base": [
+      "ambroxan",
+      "juniper berry",
+      "frankincense",
+      "patchouli",
+      "cardamom",
+      "leather",
+      "pink pepper",
+      "cypriol",
+      "cypress",
+      "sandalwood"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Woody",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "Roja Elysium Pour Homme",
+     "YSL Y Eau de Parfum",
+     "Versace Dylan Blue EDT"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 7,
+    "overall_rating": null,
+    "max_rating": 28,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Roja-Dove/Elysium-Noir-114250.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "hugo-boss-the-scent-edt",
+   "slug": "hugo-boss-the-scent-edt",
+   "url": "/fragrances/hugo-boss-the-scent-edt/",
+   "brand": "Hugo Boss",
+   "name": "Boss The Scent Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/hugo-boss-the-scent-edt.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2015,
+    "perfumer": "Bruno Jovanovic and Pascal Gaurin",
+    "notes": {
+     "top": [
+      "ginger",
+      "mandarin",
+      "bergamot"
+     ],
+     "heart": [
+      "maninka fruit",
+      "lavender"
+     ],
+     "base": [
+      "leather",
+      "woody notes"
+     ]
+    },
+    "families": [
+     "Citrus",
+     "Leather",
+     "Woody"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Boss The Scent Intense",
+     "Boss The Scent Elixir / Absolute"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 7,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Hugo-Boss/Boss-The-Scent-31445.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "maison-asrar-belgravia",
+   "slug": "maison-asrar-belgravia",
+   "url": "/fragrances/maison-asrar-belgravia/",
+   "brand": "Maison Asrar",
+   "name": "Belgravia Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/maison-asrar-belgravia.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2026,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "bergamot",
+      "blackcurrant",
+      "lemon"
+     ],
+     "heart": [
+      "lily of the valley",
+      "caramel",
+      "sandalwood",
+      "freesia"
+     ],
+     "base": [
+      "musk",
+      "cedarwood",
+      "vetiver",
+      "moss"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Citrus",
+     "Musky"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "Byredo Bal d'Afrique Absolu de Parfum",
+     "Khadlaj Gold Absolu",
+     "Bujairami Too Damn Good"
+    ],
+    "inspired_by": "Byredo Bal d'Afrique Absolu de Parfum"
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 9,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/MAISON-ASRAR/Belgravia-138705.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "ysl-myslf-edp",
+   "slug": "ysl-myslf-edp",
+   "url": "/fragrances/ysl-myslf-edp/",
+   "brand": "Yves Saint Laurent",
+   "name": "MYSLF Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/ysl-myslf-edp.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2023,
+    "perfumer": "Christophe Raynaud, Daniela Andrier and Antoine Maisondieu",
+    "notes": {
+     "top": [
+      "Calabrian bergamot",
+      "bergamot leaf"
+     ],
+     "heart": [
+      "Tunisian orange blossom"
+     ],
+     "base": [
+      "Ambrofix",
+      "woods",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Citrus",
+     "Floral"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "YSL MYSLF Le Parfum",
+     "YSL MYSLF L'Absolu",
+     "Maison Alhambra Mindset"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 9,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/MYSLF-Eau-de-Parfum-84094.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "ysl-babycat-raw-bourbon",
+   "slug": "ysl-babycat-raw-bourbon",
+   "url": "/fragrances/ysl-babycat-raw-bourbon/",
+   "brand": "Yves Saint Laurent",
+   "name": "Babycat Raw Bourbon Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/ysl-babycat-raw-bourbon.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2025,
+    "perfumer": "Dominique Ropion",
+    "notes": {
+     "top": [
+      "black pepper",
+      "pink pepper"
+     ],
+     "heart": [
+      "olibanum",
+      "saffron",
+      "resins"
+     ],
+     "base": [
+      "vanilla",
+      "suede",
+      "cedarwood"
+     ]
+    },
+    "families": [
+     "Spicy",
+     "Amber",
+     "Sweet"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "YSL Babycat",
+     "Paris Corner Rifaaqat and French Avenue Fierte"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 9,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/Babycat-Raw-Bourbon-104191.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "hugo-boss-bottled-absolu",
+   "slug": "hugo-boss-bottled-absolu",
+   "url": "/fragrances/hugo-boss-bottled-absolu/",
+   "brand": "Hugo Boss",
+   "name": "Boss Bottled Absolu Parfum Intense",
+   "concentration": "Absolu de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/hugo-boss-bottled-absolu.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2024,
+    "perfumer": "Annick Ménardo and Suzy Le Helley",
+    "notes": {
+     "top": [
+      "incense",
+      "leather"
+     ],
+     "heart": [
+      "myrrh",
+      "patchouli"
+     ],
+     "base": [
+      "cedarwood",
+      "davana"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Amber",
+     "Aromatic"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Parfums de Marly Carlisle",
+     "Lattafa Asad Elixir",
+     "The Dua Brand Dua Bottled Absolu"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 9,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Hugo-Boss/Bottled-Absolu-96246.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "dior-sauvage-elixir",
+   "slug": "dior-sauvage-elixir",
+   "url": "/fragrances/dior-sauvage-elixir/",
+   "brand": "Dior",
+   "name": "Sauvage Elixir",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/dior-sauvage-elixir.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2021,
+    "perfumer": "François Demachy",
+    "notes": {
+     "top": [
+      "nutmeg",
+      "cinnamon",
+      "cardamom",
+      "grapefruit"
+     ],
+     "heart": [
+      "lavender"
+     ],
+     "base": [
+      "licorice",
+      "sandalwood",
+      "amber",
+      "patchouli",
+      "Haitian vetiver"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Spicy",
+     "Aquatic"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Lattafa Asad",
+     "French Avenue Enigma Une",
+     "Dior Sauvage EDT / EDP"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Dior/Sauvage-Elixir-68415.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "ysl-myslf-le-parfum",
+   "slug": "ysl-myslf-le-parfum",
+   "url": "/fragrances/ysl-myslf-le-parfum/",
+   "brand": "Yves Saint Laurent",
+   "name": "MYSLF Le Parfum",
+   "concentration": "Parfum",
+   "images": {
+    "bottle": "/assets/bottles/ysl-myslf-le-parfum.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2024,
+    "perfumer": "Daniela Andrier, Antoine Maisondieu and Christophe Raynaud",
+    "notes": {
+     "top": [
+      "black pepper"
+     ],
+     "heart": [
+      "orange blossom"
+     ],
+     "base": [
+      "bourbon vanilla",
+      "amber",
+      "woody notes",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Sweet",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "YSL MYSLF Eau de Parfum",
+     "YSL MYSLF L'Absolu",
+     "Zimaya Itqan Noir"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/MYSLF-Le-Parfum-94983.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "lattafa-musamam-white-intense",
+   "slug": "lattafa-musamam-white-intense",
+   "url": "/fragrances/lattafa-musamam-white-intense/",
+   "brand": "Lattafa",
+   "name": "Musamam White Intense Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/lattafa-musamam-white-intense.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2023,
+    "perfumer": "Gaël Montero",
+    "notes": {
+     "top": [
+      "spices",
+      "bergamot",
+      "orange"
+     ],
+     "heart": [
+      "coconut",
+      "ylang-ylang",
+      "ambroxan",
+      "mahonial"
+     ],
+     "base": [
+      "sandalwood",
+      "musk",
+      "benzoin"
+     ]
+    },
+    "families": [
+     "Amber",
+     "Citrus",
+     "Woody"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Rabanne Million Gold for Her Parfum",
+     "Versace Crystal Noir EDT",
+     "Lattafa Liam"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Musamam-White-Intense-85087.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "fragrance-story-deadly-men",
+   "slug": "fragrance-story-deadly-men",
+   "url": "/fragrances/fragrance-story-deadly-men/",
+   "brand": "Fragrance Story",
+   "name": "Deadly Men Parfum",
+   "concentration": "Parfum",
+   "images": {
+    "bottle": "/assets/bottles/fragrance-story-deadly-men.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "litsea cubeba",
+      "black pepper",
+      "pink pepper",
+      "grapefruit",
+      "bergamot"
+     ],
+     "heart": [
+      "orange blossom",
+      "tonka bean",
+      "lavender",
+      "geranium",
+      "oakmoss"
+     ],
+     "base": [
+      "sandalwood",
+      "ambergris",
+      "cedarwood"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Aromatic",
+     "Spicy"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "No widely cited inspiration found; peppery citrus aromatic fougère in the Sauvage / blue-fougère lane by note profile"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Fragrance-Story/Deadly-Men-132332.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "xerjoff-naxos",
+   "slug": "xerjoff-naxos",
+   "url": "/fragrances/xerjoff-naxos/",
+   "brand": "Xerjoff",
+   "name": "XJ 1861 Naxos Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/xerjoff-naxos.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2015,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "lavender",
+      "bergamot",
+      "lemon"
+     ],
+     "heart": [
+      "honey",
+      "cinnamon",
+      "cashmeran",
+      "jasmine sambac"
+     ],
+     "base": [
+      "tobacco leaf",
+      "vanilla",
+      "tonka bean"
+     ]
+    },
+    "families": [
+     "Sweet",
+     "Citrus",
+     "Leather"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Nusuk Ateeq",
+     "Mugler A*Men Pure Havane",
+     "Spicebomb Extreme"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 9,
+    "overall_rating": null,
+    "max_rating": 28,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Xerjoff/XJ-1861-Naxos-30529.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "creed-silver-mountain-water",
+   "slug": "creed-silver-mountain-water",
+   "url": "/fragrances/creed-silver-mountain-water/",
+   "brand": "Creed",
+   "name": "Silver Mountain Water Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/creed-silver-mountain-water.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 1995,
+    "perfumer": "Olivier Creed and Pierre Bourdon",
+    "notes": {
+     "top": [
+      "bergamot",
+      "mandarin"
+     ],
+     "heart": [
+      "green tea",
+      "blackcurrant"
+     ],
+     "base": [
+      "musk",
+      "petitgrain",
+      "sandalwood",
+      "galbanum"
+     ]
+    },
+    "families": [
+     "Citrus",
+     "Aromatic",
+     "Musky"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Armaf Club de Nuit Sillage",
+     "Lattafa Dynasty",
+     "Casamorati Mefisto"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 28,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Creed/Silver-Mountain-Water-472.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "roja-isola-blu-parfum",
+   "slug": "roja-isola-blu-parfum",
+   "url": "/fragrances/roja-isola-blu-parfum/",
+   "brand": "Roja Parfums",
+   "name": "Isola Blu Parfum",
+   "concentration": "Parfum",
+   "images": {
+    "bottle": "/assets/bottles/roja-isola-blu-parfum.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2022,
+    "perfumer": "Roja Dove",
+    "notes": {
+     "top": [
+      "lime",
+      "bergamot",
+      "lemon",
+      "lavender",
+      "thyme"
+     ],
+     "heart": [
+      "apple",
+      "blackcurrant",
+      "orange blossom",
+      "jasmine",
+      "champaca",
+      "coconut",
+      "lily"
+     ],
+     "base": [
+      "cedar",
+      "birch",
+      "juniper berry",
+      "grass",
+      "musk",
+      "ambergris",
+      "pink pepper",
+      "oakmoss",
+      "amber",
+      "maté",
+      "patchouli",
+      "leather",
+      "tonka bean",
+      "anise",
+      "vanilla",
+      "labdanum",
+      "orris"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Floral",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Roja Oligarch EDP",
+     "Sospiro Basso",
+     "Roja Elysium"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 9,
+    "overall_rating": null,
+    "max_rating": 28,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Roja-Dove/Isola-Blu-80177.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "tumi-19-degree",
+   "slug": "tumi-19-degree",
+   "url": "/fragrances/tumi-19-degree/",
+   "brand": "Tumi",
+   "name": "19 Degree Extrait de Parfum",
+   "concentration": "Extrait de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/tumi-19-degree.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2023,
+    "perfumer": "Catherine Selig",
+    "notes": {
+     "top": [
+      "bergamot",
+      "thyme",
+      "saffron"
+     ],
+     "heart": [
+      "raspberry",
+      "suede",
+      "birch"
+     ],
+     "base": [
+      "leather",
+      "musk",
+      "sandalwood"
+     ]
+    },
+    "families": [
+     "Leather",
+     "Woody",
+     "Musky"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Tom Ford Tuscan Leather EDP",
+     "Creed Absolu Aventus"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 9,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/TUMI/19-Degree-88381.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "sospiro-vibrato",
+   "slug": "sospiro-vibrato",
+   "url": "/fragrances/sospiro-vibrato/",
+   "brand": "Sospiro",
+   "name": "Vibrato Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/sospiro-vibrato.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2022,
+    "perfumer": "Christian Provenzano",
+    "notes": {
+     "top": [
+      "grapefruit",
+      "bergamot",
+      "jasmine",
+      "magnolia"
+     ],
+     "heart": [
+      "ginger",
+      "herbal notes",
+      "powdery notes"
+     ],
+     "base": [
+      "musk",
+      "cedar",
+      "amber",
+      "patchouli",
+      "orris"
+     ]
+    },
+    "families": [
+     "Musky",
+     "Woody",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Bvlgari Le Gemme Tygar",
+     "Afnan Turathi Blue",
+     "Widian Ginger"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 9,
+    "overall_rating": null,
+    "max_rating": 28,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Sospiro-Perfumes/Vibrato-75930.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "afnan-lynked-freedom",
+   "slug": "afnan-lynked-freedom",
+   "url": "/fragrances/afnan-lynked-freedom/",
+   "brand": "Afnan",
+   "name": "Lynked Freedom Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/afnan-lynked-freedom.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2025,
+    "perfumer": "Imran Fazlani",
+    "notes": {
+     "top": [
+      "bergamot",
+      "grapefruit",
+      "sage"
+     ],
+     "heart": [
+      "lavender",
+      "cardamom",
+      "juniper berry"
+     ],
+     "base": [
+      "caramel",
+      "oriental notes",
+      "vetiver"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Citrus",
+     "Sweet"
+    ],
+    "seasons": [
+     "spring",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Azzaro The Most Wanted Parfum",
+     "YSL MYSLF EDP"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 9,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Afnan/Lynked-Freedom-119003.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "ajmal-gold-vi",
+   "slug": "ajmal-gold-vi",
+   "url": "/fragrances/ajmal-gold-vi/",
+   "brand": "Ajmal",
+   "name": "Gold Collection VI Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/ajmal-gold-vi.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "bergamot",
+      "grapefruit",
+      "lime",
+      "orange"
+     ],
+     "heart": [
+      "gardenia",
+      "geranium",
+      "jasmine",
+      "juniper berry",
+      "lily of the valley"
+     ],
+     "base": [
+      "amber",
+      "cedarwood",
+      "moss",
+      "patchouli",
+      "vetiver"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Citrus",
+     "Aromatic"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "No widely cited comparison found; fresh citrus-floral woody profile"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.parfumo.com/Perfumes/Ajmal/vi-gold",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "ajmal-song-of-oud",
+   "slug": "ajmal-song-of-oud",
+   "url": "/fragrances/ajmal-song-of-oud/",
+   "brand": "Ajmal",
+   "name": "Song of Oud Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/ajmal-song-of-oud.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2023,
+    "perfumer": "Olaf Larsen",
+    "notes": {
+     "top": [
+      "bergamot",
+      "apple",
+      "ginger"
+     ],
+     "heart": [
+      "orris",
+      "jasmine",
+      "lily of the valley"
+     ],
+     "base": [
+      "amber",
+      "patchouli",
+      "musk"
+     ]
+    },
+    "families": [
+     "Floral",
+     "Amber",
+     "Woody"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Parfums de Marly Haltane",
+     "Initio Oud for Greatness Neo"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Ajmal/Song-of-Oud-87504.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "roja-burlington-1819",
+   "slug": "roja-burlington-1819",
+   "url": "/fragrances/roja-burlington-1819/",
+   "brand": "Roja Parfums",
+   "name": "Burlington 1819 Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/roja-burlington-1819.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2020,
+    "perfumer": "Roja Dove",
+    "notes": {
+     "top": [
+      "grapefruit",
+      "mint",
+      "lime",
+      "bitter orange",
+      "mandarin"
+     ],
+     "heart": [],
+     "base": [
+      "ambergris",
+      "oakmoss",
+      "tobacco",
+      "ginger",
+      "rum",
+      "musk",
+      "cashmere wood",
+      "cedar",
+      "cumin",
+      "patchouli",
+      "benzoin",
+      "labdanum",
+      "cinnamon",
+      "vanilla",
+      "saffron"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Spicy",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "The Dua Brand Burlington Gardens",
+     "Bvlgari Tygar and Afnan Turathi Blue"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 9,
+    "overall_rating": null,
+    "max_rating": 28,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Roja-Dove/Burlington-1819-62320.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "rasasi-hawas-tropical",
+   "slug": "rasasi-hawas-tropical",
+   "url": "/fragrances/rasasi-hawas-tropical/",
+   "brand": "Rasasi",
+   "name": "Hawas Tropical Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/rasasi-hawas-tropical.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2025,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "coconut water",
+      "fig leaf",
+      "ginger"
+     ],
+     "heart": [
+      "coconut",
+      "fig",
+      "mint"
+     ],
+     "base": [
+      "sandalwood",
+      "tonka bean",
+      "musk"
+     ]
+    },
+    "families": [
+     "Sweet",
+     "Aromatic",
+     "Woody"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Jean Paul Gaultier Le Beau Paradise Garden",
+     "Paris Corner Cosmic Giardino",
+     "Rasasi Hawas For Him / Hawas Ice"
+    ],
+    "inspired_by": "Jean Paul Gaultier Le Beau Paradise Garden"
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 9,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Tropical-108054.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "coach-for-men-edp",
+   "slug": "coach-for-men-edp",
+   "url": "/fragrances/coach-for-men-edp/",
+   "brand": "Coach",
+   "name": "Coach for Men Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/coach-for-men-edp.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2025,
+    "perfumer": "Juliette Karagueuzoglou",
+    "notes": {
+     "top": [
+      "cardamom",
+      "bergamot"
+     ],
+     "heart": [
+      "cedarwood",
+      "geranium"
+     ],
+     "base": [
+      "Saffiano leather",
+      "vetiver"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Leather",
+     "Aromatic"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "Montblanc Explorer Extreme",
+     "Coach for Men EDT"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Coach/Coach-for-Men-Eau-de-Parfum-102668.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "nishane-hacivat",
+   "slug": "nishane-hacivat",
+   "url": "/fragrances/nishane-hacivat/",
+   "brand": "Nishane",
+   "name": "Hacivat Extrait de Parfum",
+   "concentration": "Extrait de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/nishane-hacivat.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2017,
+    "perfumer": "Jorge Lee",
+    "notes": {
+     "top": [
+      "pineapple",
+      "grapefruit",
+      "bergamot"
+     ],
+     "heart": [
+      "cedar",
+      "patchouli",
+      "jasmine"
+     ],
+     "base": [
+      "oakmoss",
+      "woody notes",
+      "Clearwood"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Citrus",
+     "Floral"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Creed Aventus",
+     "Rasasi Hawas Black",
+     "Nishane Hacivat X"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 28,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Nishane/Hacivat-44174.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "afnan-turathi-electric",
+   "slug": "afnan-turathi-electric",
+   "url": "/fragrances/afnan-turathi-electric/",
+   "brand": "Afnan",
+   "name": "Turathi Electric Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/afnan-turathi-electric.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2025,
+    "perfumer": "Imran Fazlani",
+    "notes": {
+     "top": [
+      "pear",
+      "pink grapefruit",
+      "mandarin",
+      "bergamot"
+     ],
+     "heart": [
+      "orange blossom",
+      "apple",
+      "cedarwood"
+     ],
+     "base": [
+      "musk",
+      "amber",
+      "vanilla",
+      "Ambrofix"
+     ]
+    },
+    "families": [
+     "Citrus",
+     "Fruity",
+     "Musky"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Ex Nihilo Blue Talisman",
+     "Maison Asrar Legacy",
+     "Afnan Turathi Blue"
+    ],
+    "inspired_by": "Ex Nihilo Blue Talisman"
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Afnan/Turathi-Electric-108244.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "parfums-de-marly-perseus",
+   "slug": "parfums-de-marly-perseus",
+   "url": "/fragrances/parfums-de-marly-perseus/",
+   "brand": "Parfums de Marly",
+   "name": "Perseus Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/parfums-de-marly-perseus.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2024,
+    "perfumer": "Nathalie Templer",
+    "notes": {
+     "top": [
+      "grapefruit",
+      "bergamot",
+      "blackcurrant"
+     ],
+     "heart": [
+      "vetiver",
+      "green mandarin",
+      "geranium"
+     ],
+     "base": [
+      "dry woods",
+      "cashmere wood",
+      "ambergris",
+      "cedar",
+      "balsam fir",
+      "tonka bean"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Citrus",
+     "Aromatic"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "French Avenue Pierce",
+     "Hermès Terre d'Hermès Eau Givrée",
+     "Parfums de Marly Percival"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 28,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Perseus-90199.html",
    "commerce": {
     "sellable": false,
     "variants": []

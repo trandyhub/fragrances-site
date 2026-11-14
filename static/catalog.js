@@ -1,9 +1,9 @@
 (function(){
   var grid=document.getElementById('grid'); if(!grid) return;
   var cards=[].slice.call(grid.children);
-  var FACETS=['status','grade','rb','pb','family','season','house'];
+  var FACETS=['status','sig','grade','rb','pb','family','season','house'];
   var MULTI={season:1,family:1};
-  var KEY={status:'status',grade:'grade',rb:'rb',pb:'pb',family:'family',season:'season',house:'house'};
+  var KEY={status:'status',sig:'sig',grade:'grade',rb:'rb',pb:'pb',family:'family',season:'season',house:'house'};
   var sel={}; FACETS.forEach(function(f){sel[f]=new Set()});
   var q='', sortKey='r';
   var qInput=document.getElementById('q'), sortSel=document.getElementById('sort');

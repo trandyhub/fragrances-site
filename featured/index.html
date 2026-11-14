@@ -6,7 +6,7 @@
 <meta property="og:title" content="Today&#x27;s Featured · Taraga Fragrance Collection"><meta property="og:site_name" content="Taraga Fragrance Collection"><meta property="og:description" content="The fragrances Randy is wearing today.">
 <link rel="icon" href="../static/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,600;1,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../static/style.css">
 
 </head><body>
@@ -39,7 +39,7 @@
   <div class="cal-detail" id="calDetail" hidden></div>
 </section>
 </div>
-<script type="application/json" id="calData">{}</script>
+<script type="application/json" id="calData">{"2026-11-13": {"day": {"id": "lattafa-dynasty", "name": "Dynasty Eau de Parfum", "house": "Lattafa", "grade": "Gamma", "r": 8.75, "img": "assets/bottles/lattafa-dynasty.webp", "url": "fragrances/lattafa-dynasty/", "ini": "DE"}}}</script>
 
 <script>
 (function(){
@@ -60,7 +60,7 @@ function render(){
     var th='';if(rec)ORDER.forEach(function(s){var p=rec[s];if(p)th+='<span class="ct '+s+'" title="'+esc(LBL[s]+': '+p.house+' '+p.name)+'">'+(p.img?'<img src="'+ROOT+p.img+'" alt="">':esc(p.ini))+'</span>'});
     h+=rec?'<button type="button" class="'+cls+'" data-k="'+k+'"><span class="cd">'+d+'</span><span class="cts">'+th+'</span></button>':'<div class="'+cls+'"><span class="cd">'+d+'</span></div>'}
   g.innerHTML=h;
-  g.querySelectorAll('button.cal-cell').forEach(function(b){b.onclick=function(){sel=b.dataset.k;render();show(sel)}});
+  g.querySelectorAll('button.cal-cell').forEach(function(b){b.onclick=function(){sel=b.dataset.k;history.replaceState(null,'','#'+sel);render();show(sel)}});
 }
 function show(k){var rec=D[k],box=document.getElementById('calDetail');if(!rec){box.hidden=true;return}
   var dt=new Date(+k.slice(0,4),+k.slice(5,7)-1,+k.slice(8,10));
@@ -71,7 +71,9 @@ function show(k){var rec=D[k],box=document.getElementById('calDetail');if(!rec){
   box.innerHTML=h+'</div>';box.hidden=false}
 document.getElementById('calPrev').onclick=function(){cur=new Date(cur.getFullYear(),cur.getMonth()-1,1);render()};
 document.getElementById('calNext').onclick=function(){cur=new Date(cur.getFullYear(),cur.getMonth()+1,1);render()};
-render();if(D[today]){sel=today;render();show(today)}
+var h=(location.hash||'').slice(1),pick=D[h]?h:(D[today]?today:null);
+if(pick){sel=pick;cur=new Date(+pick.slice(0,4),+pick.slice(5,7)-1,1)}
+render();if(pick)show(pick);
 })();
 </script></main>
 <footer class="foot"><div class="wrap">
