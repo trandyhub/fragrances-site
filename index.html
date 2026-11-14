@@ -1,0 +1,622 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Taraga Fragrance Collection · Randy G&#x27;s fragrance catalogue</title>
+<meta name="description" content="Randy G&#x27;s fragrance collection, notes and ratings">
+<meta property="og:title" content="Taraga Fragrance Collection · Randy G&#x27;s fragrance catalogue"><meta property="og:site_name" content="Taraga Fragrance Collection"><meta property="og:description" content="Randy G&#x27;s fragrance collection, notes and ratings">
+<link rel="icon" href="./static/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./static/style.css">
+
+</head><body>
+<div class="topbar">Randy G&#x27;s fragrance collection, notes and ratings</div>
+<header class="masthead"><div class="wrap mh">
+  <a class="logo" href="./"><span class="logo-main">TARAGA</span><span class="logo-sub">Fragrance Collection</span></a>
+  <form class="search" action="./" method="get" role="search">
+    <input type="search" name="q" id="q" placeholder="Search by name, house, note or perfumer" autocomplete="off" aria-label="Search">
+    <button type="submit" aria-label="Search"><svg viewBox="0 0 24 24" width="18" height="18"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+  </form>
+</div>
+<nav class="catnav"><div class="wrap"><a href="./" data-k="catalogue" class=on>Catalogue</a><a href="./?grade=Alpha" data-k="Alpha">Niche</a><a href="./?grade=Beta" data-k="Beta">Designer</a><a href="./?grade=Gamma" data-k="Gamma">Inspired by</a><a href="./?status=prospective" data-k="prospective">Future buys</a><a href="./rating-formula/" data-k="formula">Rating formula</a></div></nav></header>
+<main>
+<div class="wrap">
+  <div class="crumbs"><a href="./">Home</a><span>/</span>Fragrances</div>
+  <div class="hero-row">
+    <div><h1>Fragrances</h1><p class="lede">53 bottles in the collection and 3 future buys, each rated by Randy and by the public.
+    Tap a bottle for its notes, card and full score breakdown.</p></div>
+  </div>
+  <div class="catalog">
+    <aside class="filters" id="filters" aria-label="Filters">
+      <div class="fhead"><h2>Filter by</h2><button type="button" class="linkbtn" id="clearAll">Clear all</button><button type="button" class="closef" id="closeF" aria-label="Close filters">×</button></div>
+      <details class="facet" data-facet="status" open><summary>Collection</summary><div class="fopts"><label class="fopt"><input type="checkbox" name="status" value="owned"><span class="ftxt">In collection</span><span class="fcount" data-for="owned">53</span></label><label class="fopt"><input type="checkbox" name="status" value="prospective"><span class="ftxt">Future buy</span><span class="fcount" data-for="prospective">3</span></label></div></details><details class="facet" data-facet="grade" open><summary>Type</summary><div class="fopts"><label class="fopt"><input type="checkbox" name="grade" value="Alpha"><span class="ftxt">Niche · α Alpha</span><span class="fcount" data-for="Alpha">9</span></label><label class="fopt"><input type="checkbox" name="grade" value="Beta"><span class="ftxt">Designer · β Beta</span><span class="fcount" data-for="Beta">25</span></label><label class="fopt"><input type="checkbox" name="grade" value="Gamma"><span class="ftxt">Inspired by · γ Gamma</span><span class="fcount" data-for="Gamma">22</span></label></div></details><details class="facet" data-facet="rb" open><summary>Randy&#x27;s rating</summary><div class="fopts"><label class="fopt"><input type="checkbox" name="rb" value="9 – 10"><span class="ftxt">9 – 10</span><span class="fcount" data-for="9 – 10">9</span></label><label class="fopt"><input type="checkbox" name="rb" value="8 – 8.99"><span class="ftxt">8 – 8.99</span><span class="fcount" data-for="8 – 8.99">24</span></label><label class="fopt"><input type="checkbox" name="rb" value="7 – 7.99"><span class="ftxt">7 – 7.99</span><span class="fcount" data-for="7 – 7.99">9</span></label><label class="fopt"><input type="checkbox" name="rb" value="6 – 6.99"><span class="ftxt">6 – 6.99</span><span class="fcount" data-for="6 – 6.99">7</span></label><label class="fopt"><input type="checkbox" name="rb" value="Below 6"><span class="ftxt">Below 6</span><span class="fcount" data-for="Below 6">7</span></label></div></details><details class="facet" data-facet="pb" open><summary>Public rating</summary><div class="fopts"><label class="fopt"><input type="checkbox" name="pb" value="9 / 10"><span class="ftxt">9 / 10</span><span class="fcount" data-for="9 / 10">14</span></label><label class="fopt"><input type="checkbox" name="pb" value="8 / 10"><span class="ftxt">8 / 10</span><span class="fcount" data-for="8 / 10">39</span></label><label class="fopt"><input type="checkbox" name="pb" value="7 / 10"><span class="ftxt">7 / 10</span><span class="fcount" data-for="7 / 10">1</span></label><label class="fopt"><input type="checkbox" name="pb" value="No public rating"><span class="ftxt">No public rating</span><span class="fcount" data-for="No public rating">2</span></label></div></details><details class="facet" data-facet="family" open><summary>Scent family</summary><div class="fopts" data-collapsible="1"><label class="fopt"><input type="checkbox" name="family" value="Woody"><span class="ftxt">Woody</span><span class="fcount" data-for="Woody">41</span></label><label class="fopt"><input type="checkbox" name="family" value="Amber"><span class="ftxt">Amber &amp; Resin</span><span class="fcount" data-for="Amber">23</span></label><label class="fopt"><input type="checkbox" name="family" value="Aromatic"><span class="ftxt">Aromatic</span><span class="fcount" data-for="Aromatic">22</span></label><label class="fopt"><input type="checkbox" name="family" value="Citrus"><span class="ftxt">Citrus</span><span class="fcount" data-for="Citrus">22</span></label><label class="fopt"><input type="checkbox" name="family" value="Spicy"><span class="ftxt">Spicy</span><span class="fcount" data-for="Spicy">18</span></label><label class="fopt"><input type="checkbox" name="family" value="Sweet"><span class="ftxt">Sweet &amp; Gourmand</span><span class="fcount" data-for="Sweet">15</span></label><label class="fopt"><input type="checkbox" name="family" value="Floral"><span class="ftxt">Floral</span><span class="fcount" data-for="Floral">10</span></label><label class="fopt"><input type="checkbox" name="family" value="Musky"><span class="ftxt">Musky &amp; Powdery</span><span class="fcount" data-for="Musky">8</span></label><label class="fopt"><input type="checkbox" name="family" value="Fruity"><span class="ftxt">Fruity</span><span class="fcount" data-for="Fruity">7</span></label><label class="fopt"><input type="checkbox" name="family" value="Aquatic"><span class="ftxt">Fresh &amp; Aquatic</span><span class="fcount" data-for="Aquatic">1</span></label><label class="fopt"><input type="checkbox" name="family" value="Leather"><span class="ftxt">Leather &amp; Tobacco</span><span class="fcount" data-for="Leather">1</span></label></div></details><details class="facet" data-facet="season" open><summary>Best season</summary><div class="fopts"><label class="fopt"><input type="checkbox" name="season" value="spring"><span class="ftxt">Spring</span><span class="fcount" data-for="spring">46</span></label><label class="fopt"><input type="checkbox" name="season" value="summer"><span class="ftxt">Summer</span><span class="fcount" data-for="summer">30</span></label><label class="fopt"><input type="checkbox" name="season" value="fall"><span class="ftxt">Fall</span><span class="fcount" data-for="fall">43</span></label><label class="fopt"><input type="checkbox" name="season" value="winter"><span class="ftxt">Winter</span><span class="fcount" data-for="winter">19</span></label></div></details><details class="facet" data-facet="house" open><summary>House</summary><div class="fopts" data-collapsible="1"><label class="fopt"><input type="checkbox" name="house" value="Acqua di Parma"><span class="ftxt">Acqua di Parma</span><span class="fcount" data-for="Acqua di Parma">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Afnan"><span class="ftxt">Afnan</span><span class="fcount" data-for="Afnan">2</span></label><label class="fopt"><input type="checkbox" name="house" value="Ahmed Al Maghribi"><span class="ftxt">Ahmed Al Maghribi</span><span class="fcount" data-for="Ahmed Al Maghribi">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Amouage"><span class="ftxt">Amouage</span><span class="fcount" data-for="Amouage">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Armaf"><span class="ftxt">Armaf</span><span class="fcount" data-for="Armaf">5</span></label><label class="fopt"><input type="checkbox" name="house" value="BDK Parfums"><span class="ftxt">BDK Parfums</span><span class="fcount" data-for="BDK Parfums">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Byredo"><span class="ftxt">Byredo</span><span class="fcount" data-for="Byredo">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Cartier"><span class="ftxt">Cartier</span><span class="fcount" data-for="Cartier">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Chanel"><span class="ftxt">Chanel</span><span class="fcount" data-for="Chanel">3</span></label><label class="fopt"><input type="checkbox" name="house" value="Coach"><span class="ftxt">Coach</span><span class="fcount" data-for="Coach">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Creed"><span class="ftxt">Creed</span><span class="fcount" data-for="Creed">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Dior"><span class="ftxt">Dior</span><span class="fcount" data-for="Dior">3</span></label><label class="fopt"><input type="checkbox" name="house" value="Dunhill"><span class="ftxt">Dunhill</span><span class="fcount" data-for="Dunhill">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Emporio Armani"><span class="ftxt">Emporio Armani</span><span class="fcount" data-for="Emporio Armani">1</span></label><label class="fopt"><input type="checkbox" name="house" value="English Laundry"><span class="ftxt">English Laundry</span><span class="fcount" data-for="English Laundry">2</span></label><label class="fopt"><input type="checkbox" name="house" value="French Avenue"><span class="ftxt">French Avenue</span><span class="fcount" data-for="French Avenue">2</span></label><label class="fopt"><input type="checkbox" name="house" value="Glenn Perri"><span class="ftxt">Glenn Perri</span><span class="fcount" data-for="Glenn Perri">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Jean Paul Gaultier"><span class="ftxt">Jean Paul Gaultier</span><span class="fcount" data-for="Jean Paul Gaultier">3</span></label><label class="fopt"><input type="checkbox" name="house" value="Jean Rish"><span class="ftxt">Jean Rish</span><span class="fcount" data-for="Jean Rish">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Jimmy Choo"><span class="ftxt">Jimmy Choo</span><span class="fcount" data-for="Jimmy Choo">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Lattafa"><span class="ftxt">Lattafa</span><span class="fcount" data-for="Lattafa">4</span></label><label class="fopt"><input type="checkbox" name="house" value="Maison Alhambra"><span class="ftxt">Maison Alhambra</span><span class="fcount" data-for="Maison Alhambra">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Mancera"><span class="ftxt">Mancera</span><span class="fcount" data-for="Mancera">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Orientica"><span class="ftxt">Orientica</span><span class="fcount" data-for="Orientica">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Parfums de Marly"><span class="ftxt">Parfums de Marly</span><span class="fcount" data-for="Parfums de Marly">2</span></label><label class="fopt"><input type="checkbox" name="house" value="Prada"><span class="ftxt">Prada</span><span class="fcount" data-for="Prada">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Rasasi"><span class="ftxt">Rasasi</span><span class="fcount" data-for="Rasasi">2</span></label><label class="fopt"><input type="checkbox" name="house" value="Roja Parfums"><span class="ftxt">Roja Parfums</span><span class="fcount" data-for="Roja Parfums">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Salvatore Ferragamo"><span class="ftxt">Salvatore Ferragamo</span><span class="fcount" data-for="Salvatore Ferragamo">3</span></label><label class="fopt"><input type="checkbox" name="house" value="Versace"><span class="ftxt">Versace</span><span class="fcount" data-for="Versace">5</span></label><label class="fopt"><input type="checkbox" name="house" value="Viktor &amp; Rolf"><span class="ftxt">Viktor &amp; Rolf</span><span class="fcount" data-for="Viktor &amp; Rolf">1</span></label><label class="fopt"><input type="checkbox" name="house" value="Yves Saint Laurent"><span class="ftxt">Yves Saint Laurent</span><span class="fcount" data-for="Yves Saint Laurent">1</span></label></div></details>
+    </aside>
+    <section class="results">
+      <div class="toolbar">
+        <button type="button" class="btn-filter" id="openF">Filters</button>
+        <div class="count"><b id="count">56</b> <span id="countLbl">fragrances</span></div>
+        <label class="sort">Sort by
+          <select id="sort">
+            <option value="r">Randy's rating: high to low</option>
+            <option value="p">Public rating: high to low</option>
+            <option value="n">Normalized score (N): high to low</option>
+            <option value="name">Name: A to Z</option>
+            <option value="house">House: A to Z</option>
+            <option value="added">Newest added</option>
+          </select></label>
+      </div>
+      <div class="chips" id="chips"></div>
+      <ul class="grid" id="grid">
+<li class="pcard" data-house="Roja Parfums" data-grade="Alpha" data-status="owned" data-season="spring|summer" data-family="Aromatic|Citrus|Floral" data-rb="9 – 10" data-pb="9 / 10" data-r="9.75" data-p="9" data-n="0.94" data-name="elysium pour homme parfum" data-housename="roja parfums elysium pour homme parfum" data-added="2026-11-06" data-search="elysium pour homme parfum roja parfums roja dove niche alpha lemon bergamot grapefruit lime lavender thyme artemisia musk lily of the valley rose de mai jasmin de grasse apple blackcurrant galbanum pink pepper cypriol vetiver cedarwood juniper berry benzoin vanilla labdanum leather ambergris musk roja elysium pour homme parfum cologne creed aventus aromatic citrus floral"><a href="./fragrances/roja-elysium-pour-homme-parfum/">
+  <div class="pimg"><img src="./assets/bottles/roja-elysium-pour-homme-parfum.webp" alt="Roja Parfums Elysium Pour Homme Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Roja Parfums</div>
+    <div class="pname">Elysium Pour Homme Parfum</div>
+    <div class="pmeta"><span class="grade g-alpha">α Alpha</span><span class="ptype">Niche</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:97.5%"></span></span><b>9.75</b></div>
+    <div class="prate2"><span>Public <b>9</b></span><span>N <b>0.940</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.940"><span style="width:94.0%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Byredo" data-grade="Alpha" data-status="prospective" data-season="spring|fall" data-family="Woody|Citrus|Amber" data-rb="9 – 10" data-pb="9 / 10" data-r="9.5" data-p="9" data-n="0.927" data-name="bal d&#x27;afrique absolu de parfum" data-housename="byredo bal d&#x27;afrique absolu de parfum" data-added="2026-11-06" data-search="bal d&#x27;afrique absolu de parfum byredo jérôme epinette niche alpha bergamot lemon blackcurrant praline musks violet black amber cedarwood vetiver byredo bal d&#x27;afrique eau de parfum initio musk therapy boadicea the victorious hanuman maison asrar belgravia / bujairami too damn good woody citrus amber"><a href="./fragrances/byredo-bal-dafrique-absolu/">
+  <div class="pimg"><img src="./assets/bottles/byredo-bal-dafrique-absolu.webp" alt="Byredo Bal d&#x27;Afrique Absolu de Parfum bottle" loading="lazy" width="400" height="400"><span class="tag tag-future">Future buy</span></div>
+  <div class="pbody">
+    <div class="phouse">Byredo</div>
+    <div class="pname">Bal d&#x27;Afrique Absolu de Parfum</div>
+    <div class="pmeta"><span class="grade g-alpha">α Alpha</span><span class="ptype">Niche</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:95.0%"></span></span><b>9.5</b></div>
+    <div class="prate2"><span>Public <b>9</b></span><span>N <b>0.927</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.927"><span style="width:92.7%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Chanel" data-grade="Beta" data-status="owned" data-season="fall|winter" data-family="Woody|Aromatic|Citrus" data-rb="9 – 10" data-pb="9 / 10" data-r="9.5" data-p="9" data-n="0.926" data-name="bleu de chanel parfum" data-housename="chanel bleu de chanel parfum" data-added="2026-11-05" data-search="bleu de chanel parfum chanel olivier polge designer beta lemon zest bergamot mint artemisia lavender pineapple geranium green notes sandalwood cedar amberwood iso e super tonka bean bleu de chanel eau de parfum bleu de chanel eau de toilette woody aromatic citrus"><a href="./fragrances/chanel-bleu-de-chanel-parfum/">
+  <div class="pimg"><img src="./assets/bottles/chanel-bleu-de-chanel-parfum.webp" alt="Chanel Bleu de Chanel Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Chanel</div>
+    <div class="pname">Bleu de Chanel Parfum</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:95.0%"></span></span><b>9.5</b></div>
+    <div class="prate2"><span>Public <b>9</b></span><span>N <b>0.926</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.926"><span style="width:92.6%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Creed" data-grade="Alpha" data-status="owned" data-season="spring|summer" data-family="Woody|Spicy|Floral" data-rb="9 – 10" data-pb="8 / 10" data-r="9.5" data-p="8" data-n="0.88" data-name="wild vetiver" data-housename="creed wild vetiver" data-added="2026-11-06" data-search="wild vetiver creed nicolas bonneville niche alpha timur berry bergamot pink pepper rose centifolia geranium blackcurrant bud vetiver cedarwood amberwood creed original vetiver armaf club de nuit élite woody spicy floral"><a href="./fragrances/creed-wild-vetiver/">
+  <div class="pimg"><img src="./assets/bottles/creed-wild-vetiver.webp" alt="Creed Wild Vetiver bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Creed</div>
+    <div class="pname">Wild Vetiver</div>
+    <div class="pmeta"><span class="grade g-alpha">α Alpha</span><span class="ptype">Niche</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:95.0%"></span></span><b>9.5</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.880</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.880"><span style="width:88.0%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Chanel" data-grade="Beta" data-status="owned" data-season="spring|summer|fall" data-family="Woody|Amber|Spicy" data-rb="9 – 10" data-pb="9 / 10" data-r="9" data-p="9" data-n="0.9" data-name="bleu de chanel eau de parfum" data-housename="chanel bleu de chanel eau de parfum" data-added="2026-11-06" data-search="bleu de chanel eau de parfum chanel jacques polge designer beta grapefruit lemon mint bergamot pink pepper aldehydes coriander ginger jasmine nutmeg melon incense amber cedar sandalwood amberwood patchouli labdanum bleu de chanel parfum bleu de chanel eau de toilette armaf club de nuit blue iconic woody amber spicy"><a href="./fragrances/chanel-bleu-de-chanel-edp/">
+  <div class="pimg"><img src="./assets/bottles/chanel-bleu-de-chanel-edp.webp" alt="Chanel Bleu de Chanel Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Chanel</div>
+    <div class="pname">Bleu de Chanel Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:90.0%"></span></span><b>9</b></div>
+    <div class="prate2"><span>Public <b>9</b></span><span>N <b>0.900</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.900"><span style="width:90.0%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Yves Saint Laurent" data-grade="Beta" data-status="owned" data-season="spring|fall|winter" data-family="Woody|Spicy|Aromatic" data-rb="9 – 10" data-pb="9 / 10" data-r="9" data-p="9" data-n="0.9" data-name="la nuit de l&#x27;homme eau de toilette" data-housename="yves saint laurent la nuit de l&#x27;homme eau de toilette" data-added="2026-11-06" data-search="la nuit de l&#x27;homme eau de toilette yves saint laurent anne flipo, pierre wargnye, and dominique ropion designer beta cardamom lavender virginia cedar bergamot vetiver caraway ysl la nuit de l&#x27;homme le parfum ysl la nuit de l&#x27;homme bleu électrique trussardi riflesso woody spicy aromatic"><a href="./fragrances/ysl-la-nuit-de-lhomme-edt/">
+  <div class="pimg"><img src="./assets/bottles/ysl-la-nuit-de-lhomme-edt.webp" alt="Yves Saint Laurent La Nuit de L&#x27;Homme Eau de Toilette bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Yves Saint Laurent</div>
+    <div class="pname">La Nuit de L&#x27;Homme Eau de Toilette</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:90.0%"></span></span><b>9</b></div>
+    <div class="prate2"><span>Public <b>9</b></span><span>N <b>0.900</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.900"><span style="width:90.0%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Dior" data-grade="Beta" data-status="owned" data-season="spring|summer|fall|winter" data-family="Spicy|Amber|Sweet" data-rb="9 – 10" data-pb="8 / 10" data-r="9" data-p="8" data-n="0.852" data-name="sauvage eau de parfum" data-housename="dior sauvage eau de parfum" data-added="2026-11-06" data-search="sauvage eau de parfum dior françois demachy designer beta bergamot sichuan pepper lavender star anise nutmeg ambroxan vanilla dior sauvage eau de toilette dior sauvage parfum prada luna rossa carbon spicy amber sweet"><a href="./fragrances/dior-sauvage-edp/">
+  <div class="pimg"><img src="./assets/bottles/dior-sauvage-edp.webp" alt="Dior Sauvage Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Dior</div>
+    <div class="pname">Sauvage Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:90.0%"></span></span><b>9</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.852</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.852"><span style="width:85.2%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Afnan" data-grade="Gamma" data-status="owned" data-season="spring|summer|fall" data-family="Woody|Citrus|Musky" data-rb="9 – 10" data-pb="8 / 10" data-r="9" data-p="8" data-n="0.852" data-name="turathi blue homme eau de parfum" data-housename="afnan turathi blue homme eau de parfum" data-added="2026-11-12" data-search="turathi blue homme eau de parfum afnan imran fazlani inspired by gamma bergamot mandarin amber woody notes musk patchouli fresh spices bvlgari le gemme tygar sospiro vibrato fragrance world théorème pour homme montabaco verano bleu de chanel edp woody citrus musky"><a href="./fragrances/afnan-turathi-blue/">
+  <div class="pimg"><img src="./assets/bottles/afnan-turathi-blue.webp" alt="Afnan Turathi Blue Homme Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Afnan</div>
+    <div class="pname">Turathi Blue Homme Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:90.0%"></span></span><b>9</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.852</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.852"><span style="width:85.2%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="French Avenue" data-grade="Gamma" data-status="owned" data-season="spring|summer" data-family="Woody|Sweet|Floral" data-rb="9 – 10" data-pb="8 / 10" data-r="9" data-p="8" data-n="0.852" data-name="vulcan feu eau de parfum" data-housename="french avenue vulcan feu eau de parfum" data-added="2026-11-06" data-search="vulcan feu eau de parfum french avenue  inspired by gamma mango lemon ginger rhubarb pink pepper jasmine violet praline tonka bean cedarwood ambergris moss stéphane humbert lucas 777 god of fire french avenue opulent dubai / malachite woody sweet floral"><a href="./fragrances/vulcan-feu/">
+  <div class="pimg"><img src="./assets/bottles/vulcan-feu.webp" alt="French Avenue Vulcan Feu Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">French Avenue</div>
+    <div class="pname">Vulcan Feu Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:90.0%"></span></span><b>9</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.852</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.852"><span style="width:85.2%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Dior" data-grade="Beta" data-status="owned" data-season="fall|winter" data-family="Woody|Floral|Musky" data-rb="8 – 8.99" data-pb="9 / 10" data-r="8.75" data-p="9" data-n="0.887" data-name="dior homme intense" data-housename="dior dior homme intense" data-added="2026-11-06" data-search="dior homme intense dior françois demachy designer beta lavender iris ambrette pear virginia cedar vetiver valentino uomo intense prada l&#x27;homme intense woody floral musky"><a href="./fragrances/dior-homme-intense/">
+  <div class="pimg"><img src="./assets/bottles/dior-homme-intense.webp" alt="Dior Dior Homme Intense bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Dior</div>
+    <div class="pname">Dior Homme Intense</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:87.5%"></span></span><b>8.75</b></div>
+    <div class="prate2"><span>Public <b>9</b></span><span>N <b>0.887</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.887"><span style="width:88.7%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Ahmed Al Maghribi" data-grade="Gamma" data-status="owned" data-season="fall|winter" data-family="Woody|Amber|Musky" data-rb="8 – 8.99" data-pb="9 / 10" data-r="8.75" data-p="9" data-n="0.887" data-name="ignite oud eau de parfum" data-housename="ahmed al maghribi ignite oud eau de parfum" data-added="2026-11-06" data-search="ignite oud eau de parfum ahmed al maghribi  inspired by gamma leather geranium patchouli cedar amber sandalwood musk moss maison crivelli oud maracujá frederic malle promise woody amber musky"><a href="./fragrances/ahmed-al-maghribi-ignite-oud/">
+  <div class="pimg"><img src="./assets/bottles/ahmed-al-maghribi-ignite-oud.webp" alt="Ahmed Al Maghribi Ignite Oud Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Ahmed Al Maghribi</div>
+    <div class="pname">Ignite Oud Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:87.5%"></span></span><b>8.75</b></div>
+    <div class="prate2"><span>Public <b>9</b></span><span>N <b>0.887</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.887"><span style="width:88.7%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Jean Paul Gaultier" data-grade="Beta" data-status="owned" data-season="fall|winter" data-family="Sweet|Amber|Aromatic" data-rb="8 – 8.99" data-pb="9 / 10" data-r="8.75" data-p="9" data-n="0.887" data-name="le male le parfum" data-housename="jean paul gaultier le male le parfum" data-added="2026-11-06" data-search="le male le parfum jean paul gaultier quentin bisch and natalie gracia-cetto designer beta cardamom lavender iris vanilla oriental notes woody notes viktor &amp; rolf spicebomb extreme jean paul gaultier le male elixir sweet amber aromatic"><a href="./fragrances/jean-paul-gaultier-le-male-le-parfum/">
+  <div class="pimg"><img src="./assets/bottles/jean-paul-gaultier-le-male-le-parfum.webp" alt="Jean Paul Gaultier Le Male Le Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Jean Paul Gaultier</div>
+    <div class="pname">Le Male Le Parfum</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:87.5%"></span></span><b>8.75</b></div>
+    <div class="prate2"><span>Public <b>9</b></span><span>N <b>0.887</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.887"><span style="width:88.7%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Viktor &amp; Rolf" data-grade="Beta" data-status="owned" data-season="fall|winter" data-family="Spicy|Amber|Sweet" data-rb="8 – 8.99" data-pb="9 / 10" data-r="8.75" data-p="9" data-n="0.887" data-name="spicebomb extreme" data-housename="viktor &amp; rolf spicebomb extreme" data-added="2026-11-06" data-search="spicebomb extreme viktor &amp; rolf carlos benaïm and jean-christophe hérault designer beta black pepper pimento grapefruit cinnamon cumin saffron vanilla tobacco amber cistus bvlgari man in black tom ford tobacco vanille spicy amber sweet"><a href="./fragrances/viktor-and-rolf-spicebomb-extreme/">
+  <div class="pimg"><img src="./assets/bottles/viktor-and-rolf-spicebomb-extreme.webp" alt="Viktor &amp; Rolf Spicebomb Extreme bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Viktor &amp; Rolf</div>
+    <div class="pname">Spicebomb Extreme</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:87.5%"></span></span><b>8.75</b></div>
+    <div class="prate2"><span>Public <b>9</b></span><span>N <b>0.887</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.887"><span style="width:88.7%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Lattafa" data-grade="Gamma" data-status="owned" data-season="spring|fall" data-family="Woody|Aromatic|Spicy" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8.75" data-p="8" data-n="0.839" data-name="dynasty eau de parfum" data-housename="lattafa dynasty eau de parfum" data-added="2026-11-12" data-search="dynasty eau de parfum lattafa alex lee inspired by gamma bergamot ginger clary sage raspberry nutmeg rooibos tea suede cedarwood cashmeran amberwood clive christian l red tea vetiver louis vuitton imagination creed silver mountain water / armaf sillage parfums de marly / essential parfums bois impérial woody aromatic spicy"><a href="./fragrances/lattafa-dynasty/">
+  <div class="pimg"><img src="./assets/bottles/lattafa-dynasty.webp" alt="Lattafa Dynasty Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Lattafa</div>
+    <div class="pname">Dynasty Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:87.5%"></span></span><b>8.75</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.839</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.839"><span style="width:83.9%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Emporio Armani" data-grade="Beta" data-status="owned" data-season="fall|winter" data-family="Sweet|Aromatic|Spicy" data-rb="8 – 8.99" data-pb="9 / 10" data-r="8.5" data-p="9" data-n="0.874" data-name="stronger with you intensely eau de parfum" data-housename="emporio armani stronger with you intensely eau de parfum" data-added="2026-11-06" data-search="stronger with you intensely eau de parfum emporio armani cécile matton designer beta pink pepper juniper violet toffee cinnamon lavender sage vanilla amber tonka bean suede emporio armani stronger with you emporio armani stronger with you absolutely azzaro the most wanted eau de parfum intense sweet aromatic spicy"><a href="./fragrances/emporio-armani-stronger-with-you-intensely/">
+  <div class="pimg"><img src="./assets/bottles/emporio-armani-stronger-with-you-intensely.webp" alt="Emporio Armani Stronger With You Intensely Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Emporio Armani</div>
+    <div class="pname">Stronger With You Intensely Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:85.0%"></span></span><b>8.5</b></div>
+    <div class="prate2"><span>Public <b>9</b></span><span>N <b>0.874</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.874"><span style="width:87.4%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Parfums de Marly" data-grade="Alpha" data-status="owned" data-season="fall|winter" data-family="Sweet|Spicy|Citrus" data-rb="8 – 8.99" data-pb="9 / 10" data-r="8.5" data-p="9" data-n="0.873" data-name="althaïr" data-housename="parfums de marly althaïr" data-added="2026-11-06" data-search="althaïr parfums de marly hamid merati-kashani and ilias ermenidis niche alpha bergamot mandarin elemi orange blossom cinnamon cardamom bourbon vanilla guaiacwood praline french avenue liquid brun parfums de marly layton sweet spicy citrus"><a href="./fragrances/parfums-de-marly-althair/">
+  <div class="pimg"><img src="./assets/bottles/parfums-de-marly-althair.webp" alt="Parfums de Marly Althaïr bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Parfums de Marly</div>
+    <div class="pname">Althaïr</div>
+    <div class="pmeta"><span class="grade g-alpha">α Alpha</span><span class="ptype">Niche</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:85.0%"></span></span><b>8.5</b></div>
+    <div class="prate2"><span>Public <b>9</b></span><span>N <b>0.873</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.873"><span style="width:87.3%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Chanel" data-grade="Beta" data-status="owned" data-season="spring|summer|fall" data-family="Woody|Spicy|Amber" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8.5" data-p="8" data-n="0.826" data-name="bleu de chanel eau de toilette" data-housename="chanel bleu de chanel eau de toilette" data-added="2026-11-06" data-search="bleu de chanel eau de toilette chanel jacques polge designer beta grapefruit lemon mint pink pepper ginger nutmeg jasmine iso e super incense cedar vetiver sandalwood patchouli labdanum white musk bleu de chanel eau de parfum bleu de chanel parfum armaf club de nuit blue iconic al haramain amber oud bleu edition woody spicy amber"><a href="./fragrances/chanel-bleu-de-chanel-edt/">
+  <div class="pimg"><img src="./assets/bottles/chanel-bleu-de-chanel-edt.webp" alt="Chanel Bleu de Chanel Eau de Toilette bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Chanel</div>
+    <div class="pname">Bleu de Chanel Eau de Toilette</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:85.0%"></span></span><b>8.5</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.826</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.826"><span style="width:82.6%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Cartier" data-grade="Beta" data-status="owned" data-season="spring|summer" data-family="Woody|Spicy|Citrus" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8.5" data-p="8" data-n="0.826" data-name="déclaration haute fraîcheur eau de toilette" data-housename="cartier déclaration haute fraîcheur eau de toilette" data-added="2026-11-06" data-search="déclaration haute fraîcheur eau de toilette cartier mathilde laurent designer beta citrus leaf cardamom cedar cartier déclaration eau de toilette mugler cologne bvlgari pour homme woody spicy citrus"><a href="./fragrances/cartier-declaration-haute-fraicheur-edt/">
+  <div class="pimg"><img src="./assets/bottles/cartier-declaration-haute-fraicheur-edt.webp" alt="Cartier Déclaration Haute Fraîcheur Eau de Toilette bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Cartier</div>
+    <div class="pname">Déclaration Haute Fraîcheur Eau de Toilette</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:85.0%"></span></span><b>8.5</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.826</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.826"><span style="width:82.6%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Rasasi" data-grade="Gamma" data-status="owned" data-season="spring|summer|fall" data-family="Woody|Spicy|Citrus" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8.5" data-p="8" data-n="0.826" data-name="hawas ice" data-housename="rasasi hawas ice" data-added="2026-11-06" data-search="hawas ice rasasi  inspired by gamma frosted apple italian lemon sicilian bergamot star anise plum orange blossom cardamom musk amber driftwood moss rasasi hawas for him paco rabanne invictus aqua paco rabanne invictus eau de toilette woody spicy citrus"><a href="./fragrances/rasasi-hawas-ice/">
+  <div class="pimg"><img src="./assets/bottles/rasasi-hawas-ice.webp" alt="Rasasi Hawas Ice bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Rasasi</div>
+    <div class="pname">Hawas Ice</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:85.0%"></span></span><b>8.5</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.826</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.826"><span style="width:82.6%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Armaf" data-grade="Gamma" data-status="owned" data-season="spring|fall|winter" data-family="Woody|Sweet|Citrus" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8.5" data-p="8" data-n="0.826" data-name="odyssey mandarin sky eau de parfum" data-housename="armaf odyssey mandarin sky eau de parfum" data-added="2026-11-12" data-search="odyssey mandarin sky eau de parfum armaf  inspired by gamma mandarin orange orange saffron sage caramel tonka bean marigold (tagetes) ambroxan cedar vetiver jean paul gaultier scandal pour homme jean paul gaultier scandal pour homme le parfum paco rabanne 1 million edt woody sweet citrus"><a href="./fragrances/armaf-odyssey-mandarin-sky/">
+  <div class="pimg"><img src="./assets/bottles/armaf-odyssey-mandarin-sky.webp" alt="Armaf Odyssey Mandarin Sky Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Armaf</div>
+    <div class="pname">Odyssey Mandarin Sky Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:85.0%"></span></span><b>8.5</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.826</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.826"><span style="width:82.6%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Dior" data-grade="Beta" data-status="owned" data-season="spring|summer|fall" data-family="Amber|Spicy|Woody" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8.5" data-p="8" data-n="0.826" data-name="sauvage eau de toilette" data-housename="dior sauvage eau de toilette" data-added="2026-11-12" data-search="sauvage eau de toilette dior françois demachy designer beta calabrian bergamot pepper sichuan pepper lavender pink pepper vetiver patchouli geranium elemi ambroxan cedar labdanum dior sauvage eau de parfum prada luna rossa carbon aromara savage essence amber spicy woody"><a href="./fragrances/dior-sauvage-edt/">
+  <div class="pimg"><img src="./assets/bottles/dior-sauvage-edt.webp" alt="Dior Sauvage Eau de Toilette bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Dior</div>
+    <div class="pname">Sauvage Eau de Toilette</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:85.0%"></span></span><b>8.5</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.826</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.826"><span style="width:82.6%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Salvatore Ferragamo" data-grade="Beta" data-status="owned" data-season="spring|summer|fall" data-family="Woody|Amber|Citrus" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8.25" data-p="8" data-n="0.813" data-name="acqua essenziale blu eau de toilette" data-housename="salvatore ferragamo acqua essenziale blu eau de toilette" data-added="2026-11-06" data-search="acqua essenziale blu eau de toilette salvatore ferragamo alberto morillas designer beta lemon calabrian bergamot cardamom lavender cypriol atlas cedar tonka bean ambroxan benzoin patchouli versace pour homme dylan blue edt bleu de chanel eau de toilette salvatore ferragamo acqua essenziale edt woody amber citrus"><a href="./fragrances/ferragamo-acqua-essenziale-blu-edt/">
+  <div class="pimg"><img src="./assets/bottles/ferragamo-acqua-essenziale-blu-edt.webp" alt="Salvatore Ferragamo Acqua Essenziale Blu Eau de Toilette bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Salvatore Ferragamo</div>
+    <div class="pname">Acqua Essenziale Blu Eau de Toilette</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:82.5%"></span></span><b>8.25</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.813</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.813"><span style="width:81.3%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Jean Paul Gaultier" data-grade="Beta" data-status="owned" data-season="spring|summer" data-family="Woody|Aromatic|Citrus" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8.25" data-p="8" data-n="0.813" data-name="le beau flower edition eau de parfum" data-housename="jean paul gaultier le beau flower edition eau de parfum" data-added="2026-11-06" data-search="le beau flower edition eau de parfum jean paul gaultier quentin bisch, natalie gracia-cetto, and amélie jacquin designer beta kumquat lemon violet leaf geranium cashmeran tonka bean patchouli jean paul gaultier le beau paradise garden jean paul gaultier le beau le parfum calvin klein eternity for men edt woody aromatic citrus"><a href="./fragrances/jpg-le-beau-flower-edition/">
+  <div class="pimg"><img src="./assets/bottles/jpg-le-beau-flower-edition.webp" alt="Jean Paul Gaultier Le Beau Flower Edition Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Jean Paul Gaultier</div>
+    <div class="pname">Le Beau Flower Edition Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:82.5%"></span></span><b>8.25</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.813</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.813"><span style="width:81.3%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Jean Paul Gaultier" data-grade="Beta" data-status="owned" data-season="spring|summer|fall" data-family="Sweet|Musky|Woody" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8.25" data-p="8" data-n="0.813" data-name="le beau narcisse eau de parfum" data-housename="jean paul gaultier le beau narcisse eau de parfum" data-added="2026-11-06" data-search="le beau narcisse eau de parfum jean paul gaultier quentin bisch designer beta bergamot coconut musk orange blossom vanilla tonka bean vetiver le beau flower edition le beau paradise garden le beau le parfum sweet musky woody"><a href="./fragrances/jpg-le-beau-narcisse/">
+  <div class="pimg"><img src="./assets/bottles/jpg-le-beau-narcisse.webp" alt="Jean Paul Gaultier Le Beau Narcisse Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Jean Paul Gaultier</div>
+    <div class="pname">Le Beau Narcisse Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:82.5%"></span></span><b>8.25</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.813</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.813"><span style="width:81.3%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Armaf" data-grade="Gamma" data-status="owned" data-season="fall|winter" data-family="Amber|Sweet|Fruity" data-rb="8 – 8.99" data-pb="9 / 10" data-r="8" data-p="9" data-n="0.848" data-name="king checkmate" data-housename="armaf king checkmate" data-added="2026-11-05" data-search="king checkmate armaf  inspired by gamma mirabelle fruity notes spices chestnut gourmand accord powdery notes sandalwood amber balsamic notes jean paul gaultier scandal pour homme absolu armaf odyssey mandarin sky jean paul gaultier scandal pour homme amber sweet fruity"><a href="./fragrances/armaf-king-checkmate/">
+  <div class="pimg"><img src="./assets/bottles/armaf-king-checkmate.webp" alt="Armaf King Checkmate bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Armaf</div>
+    <div class="pname">King Checkmate</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:80.0%"></span></span><b>8</b></div>
+    <div class="prate2"><span>Public <b>9</b></span><span>N <b>0.848</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.848"><span style="width:84.8%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Amouage" data-grade="Alpha" data-status="prospective" data-season="spring|fall" data-family="Woody|Amber|Aromatic" data-rb="8 – 8.99" data-pb="9 / 10" data-r="8" data-p="9" data-n="0.846" data-name="reflection 45 man" data-housename="amouage reflection 45 man" data-added="2026-11-06" data-search="reflection 45 man amouage lucas sieuzac niche alpha benzoin pink peppercorn clary sage lavender cardamom juniper berry neroli orris jasmine angelica tonka bean vanilla vetiver patchouli sandalwood cedarwood myrrh frankincense opoponax amouage reflection man gucci guilty elixir de parfum pour homme gulf orchid perfection woody amber aromatic"><a href="./fragrances/amouage-reflection-45/">
+  <div class="pimg"><img src="./assets/bottles/amouage-reflection-45.webp" alt="Amouage Reflection 45 Man bottle" loading="lazy" width="400" height="400"><span class="tag tag-future">Future buy</span></div>
+  <div class="pbody">
+    <div class="phouse">Amouage</div>
+    <div class="pname">Reflection 45 Man</div>
+    <div class="pmeta"><span class="grade g-alpha">α Alpha</span><span class="ptype">Niche</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:80.0%"></span></span><b>8</b></div>
+    <div class="prate2"><span>Public <b>9</b></span><span>N <b>0.846</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.846"><span style="width:84.6%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Versace" data-grade="Beta" data-status="owned" data-season="spring|fall|winter" data-family="Woody|Aromatic|Sweet" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8" data-p="8" data-n="0.8" data-name="eros eau de toilette" data-housename="versace eros eau de toilette" data-added="2026-11-06" data-search="eros eau de toilette versace aurélien guichard designer beta mint green apple lemon tonka bean ambroxan geranium madagascar vanilla virginian cedar atlas cedar vetiver oakmoss versace eros eau de parfum versace eros flame english laundry oxford bleu woody aromatic sweet"><a href="./fragrances/versace-eros-edt/">
+  <div class="pimg"><img src="./assets/bottles/versace-eros-edt.webp" alt="Versace Eros Eau de Toilette bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Versace</div>
+    <div class="pname">Eros Eau de Toilette</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:80.0%"></span></span><b>8</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.800</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.800"><span style="width:80.0%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Versace" data-grade="Beta" data-status="owned" data-season="spring|summer" data-family="Citrus|Woody|Musky" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8" data-p="8" data-n="0.8" data-name="eros energy eau de parfum" data-housename="versace eros energy eau de parfum" data-added="2026-11-06" data-search="eros energy eau de parfum versace jordi fernández designer beta italian bergamot blood orange lime lemon grapefruit mandarin orange pink pepper blackcurrant white amber patchouli musk oakmoss creed aventus cologne creed aventus montblanc explorer citrus woody musky"><a href="./fragrances/versace-eros-energy-edp/">
+  <div class="pimg"><img src="./assets/bottles/versace-eros-energy-edp.webp" alt="Versace Eros Energy Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Versace</div>
+    <div class="pname">Eros Energy Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:80.0%"></span></span><b>8</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.800</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.800"><span style="width:80.0%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="BDK Parfums" data-grade="Alpha" data-status="prospective" data-season="fall|winter" data-family="Woody|Sweet|Floral" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8" data-p="8" data-n="0.8" data-name="gris charnel eau de parfum" data-housename="bdk parfums gris charnel eau de parfum" data-added="2026-11-06" data-search="gris charnel eau de parfum bdk parfums mathilde bijaoui niche alpha fig black tea cardamom essence iris absolute bourbon vetiver indian sandalwood tonka bean absolute bdk parfums gris charnel extrait lattafa liam lattafa niche emarati antique woody sweet floral"><a href="./fragrances/bdk-gris-charnel/">
+  <div class="pimg"><img src="./assets/bottles/bdk-gris-charnel.webp" alt="BDK Parfums Gris Charnel Eau de Parfum bottle" loading="lazy" width="400" height="400"><span class="tag tag-future">Future buy</span></div>
+  <div class="pbody">
+    <div class="phouse">BDK Parfums</div>
+    <div class="pname">Gris Charnel Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-alpha">α Alpha</span><span class="ptype">Niche</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:80.0%"></span></span><b>8</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.800</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.800"><span style="width:80.0%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Rasasi" data-grade="Gamma" data-status="owned" data-season="spring|summer|fall" data-family="Woody|Fruity|Citrus" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8" data-p="8" data-n="0.8" data-name="hawas for him" data-housename="rasasi hawas for him" data-added="2026-11-06" data-search="hawas for him rasasi  inspired by gamma apple bergamot lemon cinnamon watery notes plum orange blossom cardamom ambergris musk patchouli driftwood paco rabanne invictus paco rabanne invictus aqua hawas ice woody fruity citrus"><a href="./fragrances/rasasi-hawas-for-him/">
+  <div class="pimg"><img src="./assets/bottles/rasasi-hawas-for-him.webp" alt="Rasasi Hawas For Him bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Rasasi</div>
+    <div class="pname">Hawas For Him</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:80.0%"></span></span><b>8</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.800</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.800"><span style="width:80.0%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Prada" data-grade="Beta" data-status="owned" data-season="spring|fall|winter" data-family="Amber|Sweet|Woody" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8" data-p="8" data-n="0.8" data-name="luna rossa ocean eau de parfum" data-housename="prada luna rossa ocean eau de parfum" data-added="2026-11-06" data-search="luna rossa ocean eau de parfum prada anne flipo and carlos benaïm designer beta grapefruit woody notes frankincense vanilla amber xtreme prada luna rossa ocean le parfum paco rabanne invictus victory parfums de marly layton amber sweet woody"><a href="./fragrances/prada-luna-rossa-ocean-edp/">
+  <div class="pimg"><img src="./assets/bottles/prada-luna-rossa-ocean-edp.webp" alt="Prada Luna Rossa Ocean Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Prada</div>
+    <div class="pname">Luna Rossa Ocean Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:80.0%"></span></span><b>8</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.800</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.800"><span style="width:80.0%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Parfums de Marly" data-grade="Alpha" data-status="owned" data-season="spring|summer|fall" data-family="Aromatic|Citrus|Spicy" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8" data-p="8" data-n="0.8" data-name="percival" data-housename="parfums de marly percival" data-added="2026-11-06" data-search="percival parfums de marly hamid merati-kashani niche alpha bergamot mandarin pink peppercorn lavender iris cardamom fir balsam tonka bean ambrox white musks abercrombie &amp; fitch fierce montblanc legend aromatic citrus spicy"><a href="./fragrances/parfums-de-marly-percival/">
+  <div class="pimg"><img src="./assets/bottles/parfums-de-marly-percival.webp" alt="Parfums de Marly Percival bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Parfums de Marly</div>
+    <div class="pname">Percival</div>
+    <div class="pmeta"><span class="grade g-alpha">α Alpha</span><span class="ptype">Niche</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:80.0%"></span></span><b>8</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.800</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.800"><span style="width:80.0%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Jimmy Choo" data-grade="Beta" data-status="owned" data-season="spring|fall" data-family="Woody|Aromatic|Fruity" data-rb="8 – 8.99" data-pb="7 / 10" data-r="8" data-p="7" data-n="0.752" data-name="jimmy choo man blue eau de toilette" data-housename="jimmy choo jimmy choo man blue eau de toilette" data-added="2026-11-06" data-search="jimmy choo man blue eau de toilette jimmy choo nathalie lorson designer beta lavender black pepper clary sage bergamot ambergris leather cypress apple pineapple vanilla sandalwood vetiver patchouli dior sauvage ysl la nuit de l&#x27;homme edt woody aromatic fruity"><a href="./fragrances/jimmy-choo-man-blue-edt/">
+  <div class="pimg"><img src="./assets/bottles/jimmy-choo-man-blue-edt.webp" alt="Jimmy Choo Jimmy Choo Man Blue Eau de Toilette bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Jimmy Choo</div>
+    <div class="pname">Jimmy Choo Man Blue Eau de Toilette</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:80.0%"></span></span><b>8</b></div>
+    <div class="prate2"><span>Public <b>7</b></span><span>N <b>0.752</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.752"><span style="width:75.2%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Coach" data-grade="Beta" data-status="owned" data-season="spring|fall" data-family="Woody|Aromatic|Sweet" data-rb="7 – 7.99" data-pb="8 / 10" data-r="7.5" data-p="8" data-n="0.774" data-name="coach platinum eau de parfum" data-housename="coach coach platinum eau de parfum" data-added="2026-11-12" data-search="coach platinum eau de parfum coach bruno jovanovic designer beta pineapple black pepper juniper berries cashmeran sage geranium vanilla leather sandalwood patchouli dior sauvage edp armaf club de nuit urban man elixir creed aventus rabanne phantom woody aromatic sweet"><a href="./fragrances/coach-platinum/">
+  <div class="pimg"><img src="./assets/bottles/coach-platinum.webp" alt="Coach Coach Platinum Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Coach</div>
+    <div class="pname">Coach Platinum Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:75.0%"></span></span><b>7.5</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.774</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.774"><span style="width:77.4%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Lattafa" data-grade="Gamma" data-status="owned" data-season="spring|summer|fall" data-family="Woody|Aromatic|Amber" data-rb="7 – 7.99" data-pb="8 / 10" data-r="7.5" data-p="8" data-n="0.774" data-name="emeer eau de parfum" data-housename="lattafa emeer eau de parfum" data-added="2026-11-06" data-search="emeer eau de parfum lattafa  inspired by gamma lemon bergamot clary sage juniper berries white tea sandalwood cardamom olibanum ambergris cedarwood cashmeran patchouli clive christian town &amp; country french avenue viola / lucius woody aromatic amber"><a href="./fragrances/lattafa-emeer/">
+  <div class="pimg"><img src="./assets/bottles/lattafa-emeer.webp" alt="Lattafa Emeer Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Lattafa</div>
+    <div class="pname">Emeer Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:75.0%"></span></span><b>7.5</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.774</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.774"><span style="width:77.4%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Salvatore Ferragamo" data-grade="Beta" data-status="owned" data-season="fall|winter" data-family="Spicy|Sweet|Citrus" data-rb="7 – 7.99" data-pb="8 / 10" data-r="7.5" data-p="8" data-n="0.774" data-name="uomo signature eau de parfum" data-housename="salvatore ferragamo uomo signature eau de parfum" data-added="2026-11-06" data-search="uomo signature eau de parfum salvatore ferragamo alberto morillas designer beta italian mandarin pink pepper grapefruit cinnamon cardamom cypress tonka bean leather roasted coffee beans patchouli salvatore ferragamo uomo edt parfums de marly layton ch men privé spicy sweet citrus"><a href="./fragrances/ferragamo-uomo-signature-edp/">
+  <div class="pimg"><img src="./assets/bottles/ferragamo-uomo-signature-edp.webp" alt="Salvatore Ferragamo Uomo Signature Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Salvatore Ferragamo</div>
+    <div class="pname">Uomo Signature Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:75.0%"></span></span><b>7.5</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.774</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.774"><span style="width:77.4%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Versace" data-grade="Beta" data-status="owned" data-season="spring|summer|fall" data-family="Amber|Aromatic|Spicy" data-rb="7 – 7.99" data-pb="8 / 10" data-r="7.5" data-p="8" data-n="0.774" data-name="versace pour homme dylan blue eau de toilette" data-housename="versace versace pour homme dylan blue eau de toilette" data-added="2026-11-06" data-search="versace pour homme dylan blue eau de toilette versace alberto morillas designer beta calabrian bergamot water notes grapefruit fig leaf ambroxan black pepper patchouli violet leaf papyrus incense musk tonka bean saffron dior sauvage eau de parfum bvlgari aqva pour homme atlantiqve bleu de chanel eau de parfum amber aromatic spicy"><a href="./fragrances/versace-dylan-blue-edt/">
+  <div class="pimg"><img src="./assets/bottles/versace-dylan-blue-edt.webp" alt="Versace Versace Pour Homme Dylan Blue Eau de Toilette bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Versace</div>
+    <div class="pname">Versace Pour Homme Dylan Blue Eau de Toilette</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:75.0%"></span></span><b>7.5</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.774</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.774"><span style="width:77.4%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="French Avenue" data-grade="Gamma" data-status="owned" data-season="spring|summer" data-family="Woody|Citrus|Musky" data-rb="7 – 7.99" data-pb="8 / 10" data-r="7" data-p="8" data-n="0.748" data-name="aether extrait" data-housename="french avenue aether extrait" data-added="2026-11-06" data-search="aether extrait french avenue  inspired by gamma green apple bergamot mandarin orange cedar petitgrain cashmeran violet oakmoss musk amberwood parfums de marly greenley lattafa sherif woody citrus musky"><a href="./fragrances/french-avenue-aether/">
+  <div class="pimg"><img src="./assets/bottles/french-avenue-aether.webp" alt="French Avenue Aether Extrait bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">French Avenue</div>
+    <div class="pname">Aether Extrait</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:70.0%"></span></span><b>7</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.748</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.748"><span style="width:74.8%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="English Laundry" data-grade="Gamma" data-status="owned" data-season="spring|summer|fall" data-family="Fruity|Woody|Musky" data-rb="7 – 7.99" data-pb="8 / 10" data-r="7" data-p="8" data-n="0.748" data-name="london eau de parfum" data-housename="english laundry london eau de parfum" data-added="2026-11-13" data-search="london eau de parfum english laundry christopher wicks inspired by gamma pineapple blackberry apple juniper patchouli bergamot ambergris oakmoss musk jasmine vanilla creed aventus armaf club de nuit intense man eau de toilette montblanc explorer al haramain l&#x27;aventure fruity woody musky"><a href="./fragrances/english-laundry-london/">
+  <div class="pimg"><img src="./assets/bottles/english-laundry-london.webp" alt="English Laundry London Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">English Laundry</div>
+    <div class="pname">London Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:70.0%"></span></span><b>7</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.748</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.748"><span style="width:74.8%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Lattafa" data-grade="Gamma" data-status="owned" data-season="spring|summer" data-family="Aromatic|Woody|Amber" data-rb="7 – 7.99" data-pb="8 / 10" data-r="7.0" data-p="8" data-n="0.748" data-name="maahir legacy eau de parfum" data-housename="lattafa maahir legacy eau de parfum" data-added="2026-11-12" data-search="maahir legacy eau de parfum lattafa  inspired by gamma lime mint grapefruit lavender pineapple black pepper rosemary juniper berry geranium frankincense ambroxan vetiver oakmoss cashmeran tonka bean parfums de marly sedley yves saint laurent y iced cologne xerjoff torino21 aromatic woody amber"><a href="./fragrances/lattafa-maahir-legacy/">
+  <div class="pimg"><img src="./assets/bottles/lattafa-maahir-legacy.webp" alt="Lattafa Maahir Legacy Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Lattafa</div>
+    <div class="pname">Maahir Legacy Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:70.0%"></span></span><b>7</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.748</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.748"><span style="width:74.8%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Acqua di Parma" data-grade="Alpha" data-status="owned" data-season="spring|summer" data-family="Citrus|Sweet|Musky" data-rb="7 – 7.99" data-pb="8 / 10" data-r="7" data-p="8" data-n="0.746" data-name="arancia di capri" data-housename="acqua di parma arancia di capri" data-added="2026-11-06" data-search="arancia di capri acqua di parma  niche alpha italian sweet orange italian mandarin italian lemon petitgrain cardamom caramel musk acqua di parma arancia di capri la riserva atelier cologne orange sanguine citrus sweet musky"><a href="./fragrances/acqua-di-parma-arancia-di-capri/">
+  <div class="pimg"><img src="./assets/bottles/acqua-di-parma-arancia-di-capri.webp" alt="Acqua di Parma Arancia di Capri bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Acqua di Parma</div>
+    <div class="pname">Arancia di Capri</div>
+    <div class="pmeta"><span class="grade g-alpha">α Alpha</span><span class="ptype">Niche</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:70.0%"></span></span><b>7</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.746</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.746"><span style="width:74.6%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Mancera" data-grade="Alpha" data-status="owned" data-season="spring|summer|fall" data-family="Woody|Fruity|Citrus" data-rb="7 – 7.99" data-pb="8 / 10" data-r="7" data-p="8" data-n="0.746" data-name="cedrat boise" data-housename="mancera cedrat boise" data-added="2026-11-06" data-search="cedrat boise mancera pierre montale niche alpha sicilian lemon bergamot blackcurrant spicy notes fruity notes patchouli leaf water jasmine cedar leather sandalwood vanilla white musk moss creed aventus mancera cedrat boise intense woody fruity citrus"><a href="./fragrances/mancera-cedrat-boise/">
+  <div class="pimg"><img src="./assets/bottles/mancera-cedrat-boise.webp" alt="Mancera Cedrat Boise bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Mancera</div>
+    <div class="pname">Cedrat Boise</div>
+    <div class="pmeta"><span class="grade g-alpha">α Alpha</span><span class="ptype">Niche</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:70.0%"></span></span><b>7</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.746</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.746"><span style="width:74.6%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Orientica" data-grade="Gamma" data-status="owned" data-season="spring|fall|winter" data-family="Woody|Amber|Spicy" data-rb="6 – 6.99" data-pb="8 / 10" data-r="6.75" data-p="8" data-n="0.735" data-name="amber rouge eau de parfum" data-housename="orientica amber rouge eau de parfum" data-added="2026-11-06" data-search="amber rouge eau de parfum orientica  inspired by gamma jasmine orange saffron praline oakmoss amber seaweed maison francis kurkdjian baccarat rouge 540 eau de parfum maison francis kurkdjian baccarat rouge 540 extrait de parfum club de nuit untold la rouge baroque woody amber spicy"><a href="./fragrances/orientica-amber-rouge/">
+  <div class="pimg"><img src="./assets/bottles/orientica-amber-rouge.webp" alt="Orientica Amber Rouge Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Orientica</div>
+    <div class="pname">Amber Rouge Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:67.5%"></span></span><b>6.75</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.735</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.735"><span style="width:73.5%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Armaf" data-grade="Gamma" data-status="owned" data-season="spring|summer|fall" data-family="Woody|Fruity|Floral" data-rb="6 – 6.99" data-pb="8 / 10" data-r="6.75" data-p="8" data-n="0.735" data-name="club de nuit intense man eau de toilette" data-housename="armaf club de nuit intense man eau de toilette" data-added="2026-11-06" data-search="club de nuit intense man eau de toilette armaf  inspired by gamma lemon pineapple bergamot blackcurrant apple birch jasmine rose musk ambergris patchouli vanilla creed aventus armaf club de nuit intense man eau de parfum montblanc explorer woody fruity floral"><a href="./fragrances/armaf-club-de-nuit-intense-man-edt/">
+  <div class="pimg"><img src="./assets/bottles/armaf-club-de-nuit-intense-man-edt.webp" alt="Armaf Club de Nuit Intense Man Eau de Toilette bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Armaf</div>
+    <div class="pname">Club de Nuit Intense Man Eau de Toilette</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:67.5%"></span></span><b>6.75</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.735</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.735"><span style="width:73.5%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Dunhill" data-grade="Beta" data-status="owned" data-season="spring|fall" data-family="Aromatic|Woody|Citrus" data-rb="6 – 6.99" data-pb="8 / 10" data-r="6.75" data-p="8" data-n="0.735" data-name="icon eau de parfum" data-housename="dunhill icon eau de parfum" data-added="2026-11-06" data-search="icon eau de parfum dunhill carlos benaïm designer beta neroli bergamot black pepper petitgrain lavender cardamom juniper berries sage vetiver oakmoss iris leather oud hermès terre d&#x27;hermès eau de toilette dunhill icon racing / icon elite maison crivelli kalan aromatic woody citrus"><a href="./fragrances/dunhill-icon-edp/">
+  <div class="pimg"><img src="./assets/bottles/dunhill-icon-edp.webp" alt="Dunhill Icon Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Dunhill</div>
+    <div class="pname">Icon Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:67.5%"></span></span><b>6.75</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.735</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.735"><span style="width:73.5%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Salvatore Ferragamo" data-grade="Beta" data-status="owned" data-season="spring|fall" data-family="Amber|Leather|Spicy" data-rb="6 – 6.99" data-pb="8 / 10" data-r="6.5" data-p="8" data-n="0.722" data-name="f by ferragamo pour homme eau de toilette" data-housename="salvatore ferragamo f by ferragamo pour homme eau de toilette" data-added="2026-11-06" data-search="f by ferragamo pour homme eau de toilette salvatore ferragamo olivier polge designer beta lavender apple black pepper labdanum leather amber f by ferragamo pour homme black ysl l&#x27;homme edt hermès terre d&#x27;hermès edt amber leather spicy"><a href="./fragrances/ferragamo-f-by-ferragamo-pour-homme/">
+  <div class="pimg"><img src="./assets/bottles/ferragamo-f-by-ferragamo-pour-homme.webp" alt="Salvatore Ferragamo F by Ferragamo Pour Homme Eau de Toilette bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Salvatore Ferragamo</div>
+    <div class="pname">F by Ferragamo Pour Homme Eau de Toilette</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:65.0%"></span></span><b>6.5</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.722</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.722"><span style="width:72.2%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Maison Alhambra" data-grade="Gamma" data-status="owned" data-season="spring|fall|winter" data-family="Floral|Amber|Woody" data-rb="6 – 6.99" data-pb="8 / 10" data-r="6.5" data-p="8" data-n="0.721" data-name="la rouge baroque eau de parfum" data-housename="maison alhambra la rouge baroque eau de parfum" data-added="2026-11-06" data-search="la rouge baroque eau de parfum maison alhambra  inspired by gamma saffron pear mandarin orange jasmine ylang-ylang lily amber cashmere wood musk maison francis kurkdjian baccarat rouge 540 eau de parfum club de nuit untold al haramain amber oud ruby edition floral amber woody"><a href="./fragrances/maison-alhambra-la-rouge-baroque/">
+  <div class="pimg"><img src="./assets/bottles/maison-alhambra-la-rouge-baroque.webp" alt="Maison Alhambra La Rouge Baroque Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Maison Alhambra</div>
+    <div class="pname">La Rouge Baroque Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:65.0%"></span></span><b>6.5</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.721</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.721"><span style="width:72.1%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Armaf" data-grade="Gamma" data-status="owned" data-season="spring|summer" data-family="Aromatic|Citrus|Amber" data-rb="6 – 6.99" data-pb="9 / 10" data-r="6" data-p="9" data-n="0.743" data-name="odyssey aqua edition eau de parfum" data-housename="armaf odyssey aqua edition eau de parfum" data-added="2026-11-12" data-search="odyssey aqua edition eau de parfum armaf  inspired by gamma orange grapefruit artemisia mint lavender ambroxan cypress patchouli paco rabanne invictus platinum rasasi hawas ice aromatic citrus amber"><a href="./fragrances/armaf-odyssey-aqua/">
+  <div class="pimg"><img src="./assets/bottles/armaf-odyssey-aqua.webp" alt="Armaf Odyssey Aqua Edition Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Armaf</div>
+    <div class="pname">Odyssey Aqua Edition Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:60.0%"></span></span><b>6</b></div>
+    <div class="prate2"><span>Public <b>9</b></span><span>N <b>0.743</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.743"><span style="width:74.3%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="English Laundry" data-grade="Gamma" data-status="owned" data-season="spring|summer" data-family="Woody|Floral|Aromatic" data-rb="6 – 6.99" data-pb="8 / 10" data-r="6" data-p="8" data-n="0.695" data-name="cambridge knight eau de parfum" data-housename="english laundry cambridge knight eau de parfum" data-added="2026-11-06" data-search="cambridge knight eau de parfum english laundry christopher wicks inspired by gamma blackcurrant sea notes grapefruit musk lily bay leaf guaiac wood jasmine cedar oakmoss patchouli fresh fruity woody-marine colognes woody floral aromatic"><a href="./fragrances/english-laundry-cambridge-knight/">
+  <div class="pimg"><img src="./assets/bottles/english-laundry-cambridge-knight.webp" alt="English Laundry Cambridge Knight Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">English Laundry</div>
+    <div class="pname">Cambridge Knight Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:60.0%"></span></span><b>6</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.695</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.695"><span style="width:69.5%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Versace" data-grade="Beta" data-status="owned" data-season="spring|fall|winter" data-family="Woody|Floral|Citrus" data-rb="Below 6" data-pb="8 / 10" data-r="5.75" data-p="8" data-n="0.683" data-name="versace l&#x27;homme eau de toilette" data-housename="versace versace l&#x27;homme eau de toilette" data-added="2026-11-06" data-search="versace l&#x27;homme eau de toilette versace roger pellegrino designer beta lemon basil bergamot green notes petitgrain carnation cinnamon patchouli sandalwood rose cedar jasmine leather oakmoss musk vanilla labdanum amber tonka bean classic 1980s woody citrus chypres distinct from dylan blue, eros eau de toilette, and eros energy woody floral citrus"><a href="./fragrances/versace-lhomme-edt/">
+  <div class="pimg"><img src="./assets/bottles/versace-lhomme-edt.webp" alt="Versace Versace L&#x27;Homme Eau de Toilette bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Versace</div>
+    <div class="pname">Versace L&#x27;Homme Eau de Toilette</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:57.5%"></span></span><b>5.75</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.683</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.683"><span style="width:68.3%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Afnan" data-grade="Gamma" data-status="owned" data-season="spring|summer" data-family="Fruity|Aromatic|Citrus" data-rb="Below 6" data-pb="8 / 10" data-r="5.75" data-p="8" data-n="0.682" data-name="rare reef extrait de parfum" data-housename="afnan rare reef extrait de parfum" data-added="2026-11-06" data-search="rare reef extrait de parfum afnan lucas sieuzac inspired by gamma orange mint citron grapefruit blackcurrant coriander apricot basil violet leaf rose fig ambrette amberwood dates louis vuitton pacific chill game of spades bonus / pacific aura fruity aromatic citrus"><a href="./fragrances/afnan-rare-reef/">
+  <div class="pimg"><img src="./assets/bottles/afnan-rare-reef.webp" alt="Afnan Rare Reef Extrait de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Afnan</div>
+    <div class="pname">Rare Reef Extrait de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:57.5%"></span></span><b>5.75</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.682</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.682"><span style="width:68.2%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Versace" data-grade="Beta" data-status="owned" data-season="spring|fall" data-family="Floral|Aromatic|Amber" data-rb="Below 6" data-pb="8 / 10" data-r="5.5" data-p="8" data-n="0.67" data-name="the dreamer eau de toilette" data-housename="versace the dreamer eau de toilette" data-added="2026-11-06" data-search="the dreamer eau de toilette versace jean-pierre béthouart designer beta juniper tarragon artemisia iris lily flax tobacco blossom amber 1990s floral-tobacco fougères distinct from dylan blue, eros eau de toilette, eros energy, and versace l&#x27;homme floral aromatic amber"><a href="./fragrances/versace-the-dreamer-edt/">
+  <div class="pimg"><img src="./assets/bottles/versace-the-dreamer-edt.webp" alt="Versace The Dreamer Eau de Toilette bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Versace</div>
+    <div class="pname">The Dreamer Eau de Toilette</div>
+    <div class="pmeta"><span class="grade g-beta">β Beta</span><span class="ptype">Designer</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:55.0%"></span></span><b>5.5</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.670</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.670"><span style="width:67.0%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Lattafa" data-grade="Gamma" data-status="owned" data-season="spring|summer" data-family="Woody|Aquatic|Amber" data-rb="Below 6" data-pb="8 / 10" data-r="5.5" data-p="8" data-n="0.669" data-name="atlas eau de parfum" data-housename="lattafa atlas eau de parfum" data-added="2026-11-12" data-search="atlas eau de parfum lattafa  inspired by gamma sea notes salt lemon davana iris ambergris oakmoss sandalwood orto parisi megamare jo malone wood sage &amp; sea salt d&amp;g light blue pour homme woody aquatic amber"><a href="./fragrances/lattafa-atlas/">
+  <div class="pimg"><img src="./assets/bottles/lattafa-atlas.webp" alt="Lattafa Atlas Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Lattafa</div>
+    <div class="pname">Atlas Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:55.0%"></span></span><b>5.5</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.669</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.669"><span style="width:66.9%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Armaf" data-grade="Gamma" data-status="owned" data-season="spring|fall|winter" data-family="Woody|Aromatic|Amber" data-rb="Below 6" data-pb="8 / 10" data-r="5.5" data-p="8" data-n="0.669" data-name="club de nuit untold eau de parfum" data-housename="armaf club de nuit untold eau de parfum" data-added="2026-11-06" data-search="club de nuit untold eau de parfum armaf  inspired by gamma saffron jasmine amberwood ambergris fir resin cedar maison francis kurkdjian baccarat rouge 540 eau de parfum maison francis kurkdjian baccarat rouge 540 extrait de parfum al haramain amber oud ruby edition woody aromatic amber"><a href="./fragrances/armaf-club-de-nuit-untold/">
+  <div class="pimg"><img src="./assets/bottles/armaf-club-de-nuit-untold.webp" alt="Armaf Club de Nuit Untold Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Armaf</div>
+    <div class="pname">Club de Nuit Untold Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:55.0%"></span></span><b>5.5</b></div>
+    <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.669</b></span></div>
+    <div class="nbar" title="Normalized score N = 0.669"><span style="width:66.9%"></span></div>
+  </div></a></li>
+<li class="pcard" data-house="Glenn Perri" data-grade="Gamma" data-status="owned" data-season="spring|summer|fall" data-family="Woody|Amber|Aromatic" data-rb="Below 6" data-pb="No public rating" data-r="5.5" data-p="-1" data-n="-1" data-name="unpredictable pure eau de parfum" data-housename="glenn perri unpredictable pure eau de parfum" data-added="2026-11-06" data-search="unpredictable pure eau de parfum glenn perri  inspired by gamma lime patchouli absinthe black pepper ozonic notes cedar amber other glenn perri unpredictable flankers — different juices woody amber fresh-spicy colognes with lime, pepper, and cedar woody amber aromatic"><a href="./fragrances/glenn-perri-unpredictable-pure/">
+  <div class="pimg"><img src="./assets/bottles/glenn-perri-unpredictable-pure.webp" alt="Glenn Perri Unpredictable Pure Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Glenn Perri</div>
+    <div class="pname">Unpredictable Pure Eau de Parfum</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:55.0%"></span></span><b>5.5</b></div>
+    <div class="prate2"><span>Public <b>—</b></span><span>N <b>—</b></span></div>
+    
+  </div></a></li>
+<li class="pcard" data-house="Jean Rish" data-grade="Gamma" data-status="owned" data-season="spring|summer|fall" data-family="Spicy|Woody|Citrus" data-rb="Below 6" data-pb="No public rating" data-r="5" data-p="-1" data-n="-1" data-name="azul pour homme eau de toilette" data-housename="jean rish azul pour homme eau de toilette" data-added="2026-11-06" data-search="azul pour homme eau de toilette jean rish  inspired by gamma grapefruit lemon mint pink pepper ginger jasmine nutmeg incense sandalwood patchouli white musk bleu de chanel eau de toilette bleu de chanel eau de parfum bleu de chanel parfum spicy woody citrus"><a href="./fragrances/jean-rish-azul-pour-homme/">
+  <div class="pimg"><img src="./assets/bottles/jean-rish-azul-pour-homme.webp" alt="Jean Rish Azul Pour Homme Eau de Toilette bottle" loading="lazy" width="400" height="400"></div>
+  <div class="pbody">
+    <div class="phouse">Jean Rish</div>
+    <div class="pname">Azul Pour Homme Eau de Toilette</div>
+    <div class="pmeta"><span class="grade g-gamma">γ Gamma</span><span class="ptype">Inspired by</span></div>
+    <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:50.0%"></span></span><b>5</b></div>
+    <div class="prate2"><span>Public <b>—</b></span><span>N <b>—</b></span></div>
+    
+  </div></a></li>
+      </ul>
+      <p class="empty" id="empty" hidden>No fragrances match these filters. <button type="button" class="linkbtn" id="clearAll2">Clear all filters</button></p>
+    </section>
+  </div>
+</div>
+<div class="scrim" id="scrim"></div>
+<script src="./static/catalog.js" defer></script></main>
+<footer class="foot"><div class="wrap">
+  <div><span class="logo-main sm">TARAGA</span> <span class="muted">Fragrance Collection</span></div>
+  <p class="muted">Randy G&#x27;s fragrance collection, notes and ratings. Notes and public ratings are drawn from Fragrantica and Parfumo; personal ratings are Randy's own.
+  Bottle photos belong to their brands and retailers.</p>
+</div></footer>
+</body></html>

@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Rating formula · Taraga Fragrance Collection</title>
+<meta name="description" content="How Randy&#x27;s fragrance ratings are combined and normalized.">
+<meta property="og:title" content="Rating formula · Taraga Fragrance Collection"><meta property="og:site_name" content="Taraga Fragrance Collection"><meta property="og:description" content="How Randy&#x27;s fragrance ratings are combined and normalized.">
+<link rel="icon" href="../static/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../static/style.css">
+
+</head><body>
+<div class="topbar">Randy G&#x27;s fragrance collection, notes and ratings</div>
+<header class="masthead"><div class="wrap mh">
+  <a class="logo" href="../"><span class="logo-main">TARAGA</span><span class="logo-sub">Fragrance Collection</span></a>
+  <form class="search" action="../" method="get" role="search">
+    <input type="search" name="q" id="q" placeholder="Search by name, house, note or perfumer" autocomplete="off" aria-label="Search">
+    <button type="submit" aria-label="Search"><svg viewBox="0 0 24 24" width="18" height="18"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+  </form>
+</div>
+<nav class="catnav"><div class="wrap"><a href="../" data-k="catalogue">Catalogue</a><a href="../?grade=Alpha" data-k="Alpha">Niche</a><a href="../?grade=Beta" data-k="Beta">Designer</a><a href="../?grade=Gamma" data-k="Gamma">Inspired by</a><a href="../?status=prospective" data-k="prospective">Future buys</a><a href="../rating-formula/" data-k="formula" class=on>Rating formula</a></div></nav></header>
+<main>
+<div class="wrap narrow">
+  <div class="crumbs"><a href="../">Home</a><span>/</span>Rating formula</div>
+  <h1>How the scores work</h1>
+  <p class="lede">Every fragrance carries two ratings out of 10: Randy's own (<i>r</i>) and a public rating (<i>p</i>).
+  They are combined into an overall rating <i>R</i>, weighted by the fragrance's grade, then normalized so that bottles of
+  different grades can be compared on one scale.</p>
+
+  <div class="formula-grid">
+    <div class="fcard"><h3>Overall rating</h3><div class="math">R<sub>g</sub> = r · w<sub>r</sub><sup>(g)</sup> + p · w<sub>p</sub><sup>(g)</sup></div></div>
+    <div class="fcard"><h3>Grade ceiling</h3><div class="math">R<sub>max</sub><sup>(g)</sup> = 10 · (w<sub>r</sub><sup>(g)</sup> + w<sub>p</sub><sup>(g)</sup>)</div></div>
+    <div class="fcard"><h3>Normalized rating</h3><div class="math">N<sub>g</sub> = R<sub>g</sub> ÷ R<sub>max</sub><sup>(g)</sup></div></div>
+  </div>
+
+  <h2 class="sec">Weights by grade</h2>
+  <table class="spec wide"><thead><tr><th>Grade</th><th>Type</th><th>Randy's weight w<sub>r</sub></th><th>Public weight w<sub>p</sub></th><th>Ceiling R<sub>max</sub></th></tr></thead><tbody><tr><td><span class="grade g-alpha">α Alpha</span></td><td>Niche</td><td>1.5</td><td>1.3</td><td><b>28</b></td></tr><tr><td><span class="grade g-beta">β Beta</span></td><td>Designer</td><td>1.3</td><td>1.2</td><td><b>25</b></td></tr><tr><td><span class="grade g-gamma">γ Gamma</span></td><td>Inspired by</td><td>1.1</td><td>1</td><td><b>21</b></td></tr></tbody></table>
+  <p class="muted small">Niche houses get the highest weights and designers sit in the middle. Inspired-by and other value houses use the lightest weights, so their ceiling is lower.</p>
+
+  <h2 class="sec">Definitions</h2>
+  <ul class="defs">
+    <li><b>r</b>: Randy's personal rating, out of 10.</li>
+    <li><b>p</b>: the public rating, out of 10. It combines Fragrantica (converted from /5) and Parfumo (/10), weighted toward the larger sample and rounded to a whole number.</li>
+    <li><b>w<sub>r</sub>, w<sub>p</sub></b>: Randy's weight and the public's weight for the grade.</li>
+    <li><b>R<sub>g</sub></b>: overall rating for grade <i>g</i>. <b>N<sub>g</sub></b>: normalized rating from 0 to 1, shown to three decimals.</li>
+    <li><b>Grades</b>: α Alpha for niche, β Beta for designer, γ Gamma for inspired-by and other houses.</li>
+  </ul>
+  <p class="muted">R and N are left blank when either rating is missing.</p>
+
+  <h2 class="sec">Worked example</h2>
+  <p>Bleu de Chanel Parfum is a designer (Beta) fragrance with r = 9.5 and p = 9:</p>
+  <div class="math block">R = 9.5 × 1.3 + 9 × 1.2 = 23.15 &nbsp;&nbsp; R<sub>max</sub> = 25 &nbsp;&nbsp; N = 23.15 ÷ 25 = 0.926</div>
+
+  <figure class="plaque"><img src="../assets/rating_formula_plaque.webp" alt="Fragrance evaluation equation plaque" loading="lazy"></figure>
+</div></main>
+<footer class="foot"><div class="wrap">
+  <div><span class="logo-main sm">TARAGA</span> <span class="muted">Fragrance Collection</span></div>
+  <p class="muted">Randy G&#x27;s fragrance collection, notes and ratings. Notes and public ratings are drawn from Fragrantica and Parfumo; personal ratings are Randy's own.
+  Bottle photos belong to their brands and retailers.</p>
+</div></footer>
+</body></html>

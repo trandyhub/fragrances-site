@@ -1,0 +1,3678 @@
+{
+ "generated": "2026-11-14",
+ "site": "fragrances.taraga.net",
+ "count": 56,
+ "products": [
+  {
+   "id": "chanel-bleu-de-chanel-parfum",
+   "slug": "chanel-bleu-de-chanel-parfum",
+   "url": "/fragrances/chanel-bleu-de-chanel-parfum/",
+   "brand": "Chanel",
+   "name": "Bleu de Chanel Parfum",
+   "concentration": "Parfum",
+   "images": {
+    "bottle": "/assets/bottles/chanel-bleu-de-chanel-parfum.webp",
+    "card": "/assets/cards/chanel-bleu-de-chanel-parfum.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2018,
+    "perfumer": "Olivier Polge",
+    "notes": {
+     "top": [
+      "lemon zest",
+      "bergamot",
+      "mint",
+      "artemisia"
+     ],
+     "heart": [
+      "lavender",
+      "pineapple",
+      "geranium",
+      "green notes"
+     ],
+     "base": [
+      "sandalwood",
+      "cedar",
+      "amberwood",
+      "Iso E Super",
+      "tonka bean"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Aromatic",
+     "Citrus"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Bleu de Chanel Eau de Parfum",
+     "Bleu de Chanel Eau de Toilette"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 9.5,
+    "public_rating": 9,
+    "overall_rating": 23.15,
+    "max_rating": 25,
+    "normalized_rating": 0.926,
+    "comment": "A collector's piece."
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Chanel/Bleu-de-Chanel-Parfum-49912.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "armaf-king-checkmate",
+   "slug": "armaf-king-checkmate",
+   "url": "/fragrances/armaf-king-checkmate/",
+   "brand": "Armaf",
+   "name": "King Checkmate",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/armaf-king-checkmate.webp",
+    "card": "/assets/cards/armaf-king-checkmate.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2024,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "mirabelle",
+      "fruity notes"
+     ],
+     "heart": [
+      "spices",
+      "chestnut",
+      "gourmand accord"
+     ],
+     "base": [
+      "powdery notes",
+      "sandalwood",
+      "amber",
+      "balsamic notes"
+     ]
+    },
+    "families": [
+     "Amber",
+     "Sweet",
+     "Fruity"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Jean Paul Gaultier Scandal Pour Homme Absolu",
+     "Armaf Odyssey Mandarin Sky",
+     "Jean Paul Gaultier Scandal Pour Homme"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8,
+    "public_rating": 9,
+    "overall_rating": 17.8,
+    "max_rating": 21,
+    "normalized_rating": 0.848,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Armaf/King-98725.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "roja-elysium-pour-homme-parfum",
+   "slug": "roja-elysium-pour-homme-parfum",
+   "url": "/fragrances/roja-elysium-pour-homme-parfum/",
+   "brand": "Roja Parfums",
+   "name": "Elysium Pour Homme Parfum",
+   "concentration": "Parfum",
+   "images": {
+    "bottle": "/assets/bottles/roja-elysium-pour-homme-parfum.webp",
+    "card": "/assets/cards/roja-elysium-pour-homme-parfum.webp"
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2017,
+    "perfumer": "Roja Dove",
+    "notes": {
+     "top": [
+      "lemon",
+      "bergamot",
+      "grapefruit",
+      "lime",
+      "lavender",
+      "thyme",
+      "artemisia",
+      "musk"
+     ],
+     "heart": [
+      "lily of the valley",
+      "Rose de Mai",
+      "Jasmin de Grasse",
+      "apple",
+      "blackcurrant"
+     ],
+     "base": [
+      "galbanum",
+      "pink pepper",
+      "cypriol",
+      "vetiver",
+      "cedarwood",
+      "juniper berry",
+      "benzoin",
+      "vanilla",
+      "labdanum",
+      "leather",
+      "ambergris",
+      "musk"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Citrus",
+     "Floral"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Roja Elysium Pour Homme Parfum Cologne",
+     "Creed Aventus"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 9.75,
+    "public_rating": 9,
+    "overall_rating": 26.325,
+    "max_rating": 28,
+    "normalized_rating": 0.94,
+    "comment": "Current all-time favourite and signature scent #1. Soft enough to wear everywhere."
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Roja-Dove/Elysium-Pour-Homme-Parfum-47480.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "creed-wild-vetiver",
+   "slug": "creed-wild-vetiver",
+   "url": "/fragrances/creed-wild-vetiver/",
+   "brand": "Creed",
+   "name": "Wild Vetiver",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/creed-wild-vetiver.webp",
+    "card": "/assets/cards/creed-wild-vetiver.webp"
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2026,
+    "perfumer": "Nicolas Bonneville",
+    "notes": {
+     "top": [
+      "Timur berry",
+      "bergamot",
+      "pink pepper"
+     ],
+     "heart": [
+      "rose centifolia",
+      "geranium",
+      "blackcurrant bud"
+     ],
+     "base": [
+      "vetiver",
+      "cedarwood",
+      "amberwood"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Spicy",
+     "Floral"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Creed Original Vetiver",
+     "Armaf Club de Nuit Élite"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 9.5,
+    "public_rating": 8,
+    "overall_rating": 24.65,
+    "max_rating": 28,
+    "normalized_rating": 0.88,
+    "comment": "A signature scent with a near-perfect rating. Not quite the everyday wearability of Roja Elysium Pour Homme Parfum, which is soft enough to wear everywhere."
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Creed/Wild-Vetiver-125485.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "parfums-de-marly-percival",
+   "slug": "parfums-de-marly-percival",
+   "url": "/fragrances/parfums-de-marly-percival/",
+   "brand": "Parfums de Marly",
+   "name": "Percival",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/parfums-de-marly-percival.webp",
+    "card": "/assets/cards/parfums-de-marly-percival.webp"
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2018,
+    "perfumer": "Hamid Merati-Kashani",
+    "notes": {
+     "top": [
+      "bergamot",
+      "mandarin",
+      "pink peppercorn"
+     ],
+     "heart": [
+      "lavender",
+      "iris",
+      "cardamom"
+     ],
+     "base": [
+      "fir balsam",
+      "tonka bean",
+      "ambrox",
+      "white musks"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Citrus",
+     "Spicy"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Abercrombie & Fitch Fierce",
+     "Montblanc Legend"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8,
+    "public_rating": 8,
+    "overall_rating": 22.4,
+    "max_rating": 28,
+    "normalized_rating": 0.8,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Percival-51037.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "dior-homme-intense",
+   "slug": "dior-homme-intense",
+   "url": "/fragrances/dior-homme-intense/",
+   "brand": "Dior",
+   "name": "Dior Homme Intense",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/dior-homme-intense.webp",
+    "card": "/assets/cards/dior-homme-intense.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2011,
+    "perfumer": "François Demachy",
+    "notes": {
+     "top": [
+      "lavender"
+     ],
+     "heart": [
+      "iris",
+      "ambrette",
+      "pear"
+     ],
+     "base": [
+      "Virginia cedar",
+      "vetiver"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Floral",
+     "Musky"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Valentino Uomo Intense",
+     "Prada L'Homme Intense"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8.75,
+    "public_rating": 9,
+    "overall_rating": 22.175,
+    "max_rating": 25,
+    "normalized_rating": 0.887,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Dior/Dior-Homme-Intense-2011-13016.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "viktor-and-rolf-spicebomb-extreme",
+   "slug": "viktor-and-rolf-spicebomb-extreme",
+   "url": "/fragrances/viktor-and-rolf-spicebomb-extreme/",
+   "brand": "Viktor & Rolf",
+   "name": "Spicebomb Extreme",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/viktor-and-rolf-spicebomb-extreme.webp",
+    "card": "/assets/cards/viktor-and-rolf-spicebomb-extreme.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2015,
+    "perfumer": "Carlos Benaïm and Jean-Christophe Hérault",
+    "notes": {
+     "top": [
+      "black pepper",
+      "pimento",
+      "grapefruit"
+     ],
+     "heart": [
+      "cinnamon",
+      "cumin",
+      "saffron"
+     ],
+     "base": [
+      "vanilla",
+      "tobacco",
+      "amber",
+      "cistus"
+     ]
+    },
+    "families": [
+     "Spicy",
+     "Amber",
+     "Sweet"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Bvlgari Man in Black",
+     "Tom Ford Tobacco Vanille"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8.75,
+    "public_rating": 9,
+    "overall_rating": 22.175,
+    "max_rating": 25,
+    "normalized_rating": 0.887,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Viktor-Rolf/Spicebomb-Extreme-30499.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "jean-paul-gaultier-le-male-le-parfum",
+   "slug": "jean-paul-gaultier-le-male-le-parfum",
+   "url": "/fragrances/jean-paul-gaultier-le-male-le-parfum/",
+   "brand": "Jean Paul Gaultier",
+   "name": "Le Male Le Parfum",
+   "concentration": "Parfum",
+   "images": {
+    "bottle": "/assets/bottles/jean-paul-gaultier-le-male-le-parfum.webp",
+    "card": "/assets/cards/jean-paul-gaultier-le-male-le-parfum.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2020,
+    "perfumer": "Quentin Bisch and Natalie Gracia-Cetto",
+    "notes": {
+     "top": [
+      "cardamom"
+     ],
+     "heart": [
+      "lavender",
+      "iris"
+     ],
+     "base": [
+      "vanilla",
+      "oriental notes",
+      "woody notes"
+     ]
+    },
+    "families": [
+     "Sweet",
+     "Amber",
+     "Aromatic"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Viktor & Rolf Spicebomb Extreme",
+     "Jean Paul Gaultier Le Male Elixir"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8.75,
+    "public_rating": 9,
+    "overall_rating": 22.175,
+    "max_rating": 25,
+    "normalized_rating": 0.887,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Male-Le-Parfum-61856.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "mancera-cedrat-boise",
+   "slug": "mancera-cedrat-boise",
+   "url": "/fragrances/mancera-cedrat-boise/",
+   "brand": "Mancera",
+   "name": "Cedrat Boise",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/mancera-cedrat-boise.webp",
+    "card": "/assets/cards/mancera-cedrat-boise.webp"
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2011,
+    "perfumer": "Pierre Montale",
+    "notes": {
+     "top": [
+      "Sicilian lemon",
+      "bergamot",
+      "blackcurrant",
+      "spicy notes"
+     ],
+     "heart": [
+      "fruity notes",
+      "patchouli leaf",
+      "water jasmine"
+     ],
+     "base": [
+      "cedar",
+      "leather",
+      "sandalwood",
+      "vanilla",
+      "white musk",
+      "moss"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Fruity",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Creed Aventus",
+     "Mancera Cedrat Boise Intense"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 7,
+    "public_rating": 8,
+    "overall_rating": 20.9,
+    "max_rating": 28,
+    "normalized_rating": 0.746,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Mancera/Cedrat-Boise-15211.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "acqua-di-parma-arancia-di-capri",
+   "slug": "acqua-di-parma-arancia-di-capri",
+   "url": "/fragrances/acqua-di-parma-arancia-di-capri/",
+   "brand": "Acqua di Parma",
+   "name": "Arancia di Capri",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/acqua-di-parma-arancia-di-capri.webp",
+    "card": "/assets/cards/acqua-di-parma-arancia-di-capri.webp"
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 1999,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "Italian sweet orange",
+      "Italian mandarin",
+      "Italian lemon"
+     ],
+     "heart": [
+      "petitgrain",
+      "cardamom"
+     ],
+     "base": [
+      "caramel",
+      "musk"
+     ]
+    },
+    "families": [
+     "Citrus",
+     "Sweet",
+     "Musky"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Acqua di Parma Arancia di Capri La Riserva",
+     "Atelier Cologne Orange Sanguine"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 7,
+    "public_rating": 8,
+    "overall_rating": 20.9,
+    "max_rating": 28,
+    "normalized_rating": 0.746,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Acqua-di-Parma/Acqua-di-Parma-Blu-Mediterraneo-Arancia-di-Capri-1685.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "parfums-de-marly-althair",
+   "slug": "parfums-de-marly-althair",
+   "url": "/fragrances/parfums-de-marly-althair/",
+   "brand": "Parfums de Marly",
+   "name": "Althaïr",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/parfums-de-marly-althair.webp",
+    "card": "/assets/cards/parfums-de-marly-althair.webp"
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2023,
+    "perfumer": "Hamid Merati-Kashani and Ilias Ermenidis",
+    "notes": {
+     "top": [
+      "bergamot",
+      "mandarin",
+      "elemi"
+     ],
+     "heart": [
+      "orange blossom",
+      "cinnamon",
+      "cardamom"
+     ],
+     "base": [
+      "Bourbon vanilla",
+      "guaiacwood",
+      "praline"
+     ]
+    },
+    "families": [
+     "Sweet",
+     "Spicy",
+     "Citrus"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "French Avenue Liquid Brun",
+     "Parfums de Marly Layton"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8.5,
+    "public_rating": 9,
+    "overall_rating": 24.45,
+    "max_rating": 28,
+    "normalized_rating": 0.873,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Parfums-de-Marly/Althair-84109.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "byredo-bal-dafrique-absolu",
+   "slug": "byredo-bal-dafrique-absolu",
+   "url": "/fragrances/byredo-bal-dafrique-absolu/",
+   "brand": "Byredo",
+   "name": "Bal d'Afrique Absolu de Parfum",
+   "concentration": "Absolu de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/byredo-bal-dafrique-absolu.webp",
+    "card": "/assets/cards/byredo-bal-dafrique-absolu.webp"
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2025,
+    "perfumer": "Jérôme Epinette",
+    "notes": {
+     "top": [
+      "bergamot",
+      "lemon",
+      "blackcurrant"
+     ],
+     "heart": [
+      "praline",
+      "musks",
+      "violet"
+     ],
+     "base": [
+      "black amber",
+      "cedarwood",
+      "vetiver"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Citrus",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "Byredo Bal d'Afrique Eau de Parfum",
+     "Initio Musk Therapy",
+     "Boadicea the Victorious Hanuman",
+     "Maison Asrar Belgravia / Bujairami Too Damn Good"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": 9.5,
+    "public_rating": 9,
+    "overall_rating": 25.95,
+    "max_rating": 28,
+    "normalized_rating": 0.927,
+    "comment": "Very nostalgic feeling, with notes that bring back kindergarten."
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Byredo/Bal-d-Afrique-Absolu-108421.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "bdk-gris-charnel",
+   "slug": "bdk-gris-charnel",
+   "url": "/fragrances/bdk-gris-charnel/",
+   "brand": "BDK Parfums",
+   "name": "Gris Charnel Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/bdk-gris-charnel.webp",
+    "card": "/assets/cards/bdk-gris-charnel.webp"
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2019,
+    "perfumer": "Mathilde Bijaoui",
+    "notes": {
+     "top": [
+      "fig",
+      "black tea",
+      "cardamom essence"
+     ],
+     "heart": [
+      "iris absolute",
+      "bourbon vetiver"
+     ],
+     "base": [
+      "Indian sandalwood",
+      "tonka bean absolute"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Sweet",
+     "Floral"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "BDK Parfums Gris Charnel Extrait",
+     "Lattafa Liam",
+     "Lattafa Niche Emarati Antique"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": 8,
+    "public_rating": 8,
+    "overall_rating": 22.4,
+    "max_rating": 28,
+    "normalized_rating": 0.8,
+    "comment": "A nostalgic smell, like elementary school. Soft, though not as soft as Bal d'Afrique Absolu, with a slightly similar sensation to it."
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/BDK-Parfums/Gris-Charnel-57038.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "amouage-reflection-45",
+   "slug": "amouage-reflection-45",
+   "url": "/fragrances/amouage-reflection-45/",
+   "brand": "Amouage",
+   "name": "Reflection 45 Man",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/amouage-reflection-45.webp",
+    "card": "/assets/cards/amouage-reflection-45.webp"
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2021,
+    "perfumer": "Lucas Sieuzac",
+    "notes": {
+     "top": [
+      "benzoin",
+      "pink peppercorn",
+      "clary sage",
+      "lavender",
+      "cardamom",
+      "juniper berry"
+     ],
+     "heart": [
+      "neroli",
+      "orris",
+      "jasmine",
+      "angelica",
+      "tonka bean",
+      "vanilla"
+     ],
+     "base": [
+      "vetiver",
+      "patchouli",
+      "sandalwood",
+      "cedarwood",
+      "myrrh",
+      "frankincense",
+      "opoponax"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Amber",
+     "Aromatic"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "Amouage Reflection Man",
+     "Gucci Guilty Elixir de Parfum pour Homme",
+     "Gulf Orchid Perfection"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "randy_rating": 8,
+    "public_rating": 9,
+    "overall_rating": 23.7,
+    "max_rating": 28,
+    "normalized_rating": 0.846,
+    "comment": "A nostalgic smell, like elementary school. Bright, tough and supple at the same time."
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Amouage/Reflection-45-Man-69488.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "prada-luna-rossa-ocean-edp",
+   "slug": "prada-luna-rossa-ocean-edp",
+   "url": "/fragrances/prada-luna-rossa-ocean-edp/",
+   "brand": "Prada",
+   "name": "Luna Rossa Ocean Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/prada-luna-rossa-ocean-edp.webp",
+    "card": "/assets/cards/prada-luna-rossa-ocean-edp.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2023,
+    "perfumer": "Anne Flipo and Carlos Benaïm",
+    "notes": {
+     "top": [
+      "grapefruit"
+     ],
+     "heart": [
+      "woody notes",
+      "frankincense"
+     ],
+     "base": [
+      "vanilla",
+      "Amber Xtreme"
+     ]
+    },
+    "families": [
+     "Amber",
+     "Sweet",
+     "Woody"
+    ],
+    "seasons": [
+     "spring",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Prada Luna Rossa Ocean Le Parfum",
+     "Paco Rabanne Invictus Victory",
+     "Parfums de Marly Layton"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8,
+    "public_rating": 8,
+    "overall_rating": 20,
+    "max_rating": 25,
+    "normalized_rating": 0.8,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Prada/Luna-Rossa-Ocean-Eau-de-Parfum-81280.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "lattafa-emeer",
+   "slug": "lattafa-emeer",
+   "url": "/fragrances/lattafa-emeer/",
+   "brand": "Lattafa",
+   "name": "Emeer Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/lattafa-emeer.webp",
+    "card": "/assets/cards/lattafa-emeer.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2024,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "lemon",
+      "bergamot",
+      "clary sage",
+      "juniper berries"
+     ],
+     "heart": [
+      "white tea",
+      "sandalwood",
+      "cardamom",
+      "olibanum"
+     ],
+     "base": [
+      "ambergris",
+      "cedarwood",
+      "cashmeran",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Aromatic",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Clive Christian Town & Country",
+     "French Avenue Viola / Lucius"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 7.5,
+    "public_rating": 8,
+    "overall_rating": 16.25,
+    "max_rating": 21,
+    "normalized_rating": 0.774,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Emeer-89761.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "dior-sauvage-edp",
+   "slug": "dior-sauvage-edp",
+   "url": "/fragrances/dior-sauvage-edp/",
+   "brand": "Dior",
+   "name": "Sauvage Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/dior-sauvage-edp.webp",
+    "card": "/assets/cards/dior-sauvage-edp.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2018,
+    "perfumer": "François Demachy",
+    "notes": {
+     "top": [
+      "bergamot"
+     ],
+     "heart": [
+      "Sichuan pepper",
+      "lavender",
+      "star anise",
+      "nutmeg"
+     ],
+     "base": [
+      "ambroxan",
+      "vanilla"
+     ]
+    },
+    "families": [
+     "Spicy",
+     "Amber",
+     "Sweet"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Dior Sauvage Eau de Toilette",
+     "Dior Sauvage Parfum",
+     "Prada Luna Rossa Carbon"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 9,
+    "public_rating": 8,
+    "overall_rating": 21.3,
+    "max_rating": 25,
+    "normalized_rating": 0.852,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Dior/Sauvage-Eau-de-Parfum-48100.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "ysl-la-nuit-de-lhomme-edt",
+   "slug": "ysl-la-nuit-de-lhomme-edt",
+   "url": "/fragrances/ysl-la-nuit-de-lhomme-edt/",
+   "brand": "Yves Saint Laurent",
+   "name": "La Nuit de L'Homme Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/ysl-la-nuit-de-lhomme-edt.webp",
+    "card": "/assets/cards/ysl-la-nuit-de-lhomme-edt.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2009,
+    "perfumer": "Anne Flipo, Pierre Wargnye, and Dominique Ropion",
+    "notes": {
+     "top": [
+      "cardamom"
+     ],
+     "heart": [
+      "lavender",
+      "Virginia cedar",
+      "bergamot"
+     ],
+     "base": [
+      "vetiver",
+      "caraway"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Spicy",
+     "Aromatic"
+    ],
+    "seasons": [
+     "spring",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "YSL La Nuit de L'Homme Le Parfum",
+     "YSL La Nuit de L'Homme Bleu Électrique",
+     "Trussardi Riflesso"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 9,
+    "public_rating": 9,
+    "overall_rating": 22.5,
+    "max_rating": 25,
+    "normalized_rating": 0.9,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Yves-Saint-Laurent/La-Nuit-de-l-Homme-5521.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "versace-dylan-blue-edt",
+   "slug": "versace-dylan-blue-edt",
+   "url": "/fragrances/versace-dylan-blue-edt/",
+   "brand": "Versace",
+   "name": "Versace Pour Homme Dylan Blue Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/versace-dylan-blue-edt.webp",
+    "card": "/assets/cards/versace-dylan-blue-edt.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2016,
+    "perfumer": "Alberto Morillas",
+    "notes": {
+     "top": [
+      "Calabrian bergamot",
+      "water notes",
+      "grapefruit",
+      "fig leaf"
+     ],
+     "heart": [
+      "ambroxan",
+      "black pepper",
+      "patchouli",
+      "violet leaf",
+      "papyrus"
+     ],
+     "base": [
+      "incense",
+      "musk",
+      "tonka bean",
+      "saffron"
+     ]
+    },
+    "families": [
+     "Amber",
+     "Aromatic",
+     "Spicy"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Dior Sauvage Eau de Parfum",
+     "Bvlgari Aqva Pour Homme Atlantiqve",
+     "Bleu de Chanel Eau de Parfum"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 7.5,
+    "public_rating": 8,
+    "overall_rating": 19.35,
+    "max_rating": 25,
+    "normalized_rating": 0.774,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Versace/Versace-Pour-Homme-Dylan-Blue-40031.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "versace-eros-edt",
+   "slug": "versace-eros-edt",
+   "url": "/fragrances/versace-eros-edt/",
+   "brand": "Versace",
+   "name": "Eros Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/versace-eros-edt.webp",
+    "card": "/assets/cards/versace-eros-edt.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2012,
+    "perfumer": "Aurélien Guichard",
+    "notes": {
+     "top": [
+      "mint",
+      "green apple",
+      "lemon"
+     ],
+     "heart": [
+      "tonka bean",
+      "ambroxan",
+      "geranium"
+     ],
+     "base": [
+      "Madagascar vanilla",
+      "Virginian cedar",
+      "Atlas cedar",
+      "vetiver",
+      "oakmoss"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Aromatic",
+     "Sweet"
+    ],
+    "seasons": [
+     "spring",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Versace Eros Eau de Parfum",
+     "Versace Eros Flame",
+     "English Laundry Oxford Bleu"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8,
+    "public_rating": 8,
+    "overall_rating": 20,
+    "max_rating": 25,
+    "normalized_rating": 0.8,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Versace/Eros-16657.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "versace-eros-energy-edp",
+   "slug": "versace-eros-energy-edp",
+   "url": "/fragrances/versace-eros-energy-edp/",
+   "brand": "Versace",
+   "name": "Eros Energy Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/versace-eros-energy-edp.webp",
+    "card": "/assets/cards/versace-eros-energy-edp.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2024,
+    "perfumer": "Jordi Fernández",
+    "notes": {
+     "top": [
+      "Italian bergamot",
+      "blood orange",
+      "lime",
+      "lemon",
+      "grapefruit",
+      "mandarin orange"
+     ],
+     "heart": [
+      "pink pepper",
+      "blackcurrant",
+      "white amber"
+     ],
+     "base": [
+      "patchouli",
+      "musk",
+      "oakmoss"
+     ]
+    },
+    "families": [
+     "Citrus",
+     "Woody",
+     "Musky"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Creed Aventus Cologne",
+     "Creed Aventus",
+     "Montblanc Explorer"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8,
+    "public_rating": 8,
+    "overall_rating": 20,
+    "max_rating": 25,
+    "normalized_rating": 0.8,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Versace/Eros-Energy-92647.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "versace-lhomme-edt",
+   "slug": "versace-lhomme-edt",
+   "url": "/fragrances/versace-lhomme-edt/",
+   "brand": "Versace",
+   "name": "Versace L'Homme Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/versace-lhomme-edt.webp",
+    "card": "/assets/cards/versace-lhomme-edt.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 1984,
+    "perfumer": "Roger Pellegrino",
+    "notes": {
+     "top": [
+      "lemon",
+      "basil",
+      "bergamot",
+      "green notes",
+      "petitgrain"
+     ],
+     "heart": [
+      "carnation",
+      "cinnamon",
+      "patchouli",
+      "sandalwood",
+      "rose",
+      "cedar",
+      "jasmine"
+     ],
+     "base": [
+      "leather",
+      "oakmoss",
+      "musk",
+      "vanilla",
+      "labdanum",
+      "amber",
+      "tonka bean"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Floral",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "classic 1980s woody citrus chypres",
+     "distinct from Dylan Blue, Eros Eau de Toilette, and Eros Energy"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 5.75,
+    "public_rating": 8,
+    "overall_rating": 17.075,
+    "max_rating": 25,
+    "normalized_rating": 0.683,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Versace/Versace-L-Homme-647.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "versace-the-dreamer-edt",
+   "slug": "versace-the-dreamer-edt",
+   "url": "/fragrances/versace-the-dreamer-edt/",
+   "brand": "Versace",
+   "name": "The Dreamer Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/versace-the-dreamer-edt.webp",
+    "card": "/assets/cards/versace-the-dreamer-edt.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 1996,
+    "perfumer": "Jean-Pierre Béthouart",
+    "notes": {
+     "top": [
+      "juniper",
+      "tarragon",
+      "artemisia"
+     ],
+     "heart": [
+      "iris",
+      "lily",
+      "flax"
+     ],
+     "base": [
+      "tobacco blossom",
+      "amber"
+     ]
+    },
+    "families": [
+     "Floral",
+     "Aromatic",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "1990s floral-tobacco fougères",
+     "distinct from Dylan Blue, Eros Eau de Toilette, Eros Energy, and Versace L'Homme"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 5.5,
+    "public_rating": 8,
+    "overall_rating": 16.75,
+    "max_rating": 25,
+    "normalized_rating": 0.67,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Versace/The-Dreamer-59417.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "jpg-le-beau-flower-edition",
+   "slug": "jpg-le-beau-flower-edition",
+   "url": "/fragrances/jpg-le-beau-flower-edition/",
+   "brand": "Jean Paul Gaultier",
+   "name": "Le Beau Flower Edition Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/jpg-le-beau-flower-edition.webp",
+    "card": "/assets/cards/jpg-le-beau-flower-edition.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2025,
+    "perfumer": "Quentin Bisch, Natalie Gracia-Cetto, and Amélie Jacquin",
+    "notes": {
+     "top": [
+      "kumquat",
+      "lemon"
+     ],
+     "heart": [
+      "violet leaf",
+      "geranium"
+     ],
+     "base": [
+      "cashmeran",
+      "tonka bean",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Aromatic",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Jean Paul Gaultier Le Beau Paradise Garden",
+     "Jean Paul Gaultier Le Beau Le Parfum",
+     "Calvin Klein Eternity for Men EDT"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8.25,
+    "public_rating": 8,
+    "overall_rating": 20.325,
+    "max_rating": 25,
+    "normalized_rating": 0.813,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Beau-Flower-Edition-101156.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "jpg-le-beau-narcisse",
+   "slug": "jpg-le-beau-narcisse",
+   "url": "/fragrances/jpg-le-beau-narcisse/",
+   "brand": "Jean Paul Gaultier",
+   "name": "Le Beau Narcisse Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/jpg-le-beau-narcisse.webp",
+    "card": "/assets/cards/jpg-le-beau-narcisse.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2026,
+    "perfumer": "Quentin Bisch",
+    "notes": {
+     "top": [
+      "bergamot",
+      "coconut"
+     ],
+     "heart": [
+      "musk",
+      "orange blossom"
+     ],
+     "base": [
+      "vanilla",
+      "tonka bean",
+      "vetiver"
+     ]
+    },
+    "families": [
+     "Sweet",
+     "Musky",
+     "Woody"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Le Beau Flower Edition",
+     "Le Beau Paradise Garden",
+     "Le Beau Le Parfum"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8.25,
+    "public_rating": 8,
+    "overall_rating": 20.325,
+    "max_rating": 25,
+    "normalized_rating": 0.813,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Beau-Narcisse-122215.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "jimmy-choo-man-blue-edt",
+   "slug": "jimmy-choo-man-blue-edt",
+   "url": "/fragrances/jimmy-choo-man-blue-edt/",
+   "brand": "Jimmy Choo",
+   "name": "Jimmy Choo Man Blue Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/jimmy-choo-man-blue-edt.webp",
+    "card": "/assets/cards/jimmy-choo-man-blue-edt.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2018,
+    "perfumer": "Nathalie Lorson",
+    "notes": {
+     "top": [
+      "lavender",
+      "black pepper",
+      "clary sage",
+      "bergamot"
+     ],
+     "heart": [
+      "ambergris",
+      "leather",
+      "cypress",
+      "apple",
+      "pineapple"
+     ],
+     "base": [
+      "vanilla",
+      "sandalwood",
+      "vetiver",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Aromatic",
+     "Fruity"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "Dior Sauvage",
+     "YSL La Nuit de L'Homme EDT"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8,
+    "public_rating": 7,
+    "overall_rating": 18.8,
+    "max_rating": 25,
+    "normalized_rating": 0.752,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Jimmy-Choo/Jimmy-Choo-Man-Blue-49723.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "emporio-armani-stronger-with-you-intensely",
+   "slug": "emporio-armani-stronger-with-you-intensely",
+   "url": "/fragrances/emporio-armani-stronger-with-you-intensely/",
+   "brand": "Emporio Armani",
+   "name": "Stronger With You Intensely Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/emporio-armani-stronger-with-you-intensely.webp",
+    "card": "/assets/cards/emporio-armani-stronger-with-you-intensely.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2019,
+    "perfumer": "Cécile Matton",
+    "notes": {
+     "top": [
+      "pink pepper",
+      "juniper",
+      "violet"
+     ],
+     "heart": [
+      "toffee",
+      "cinnamon",
+      "lavender",
+      "sage"
+     ],
+     "base": [
+      "vanilla",
+      "amber",
+      "tonka bean",
+      "suede"
+     ]
+    },
+    "families": [
+     "Sweet",
+     "Aromatic",
+     "Spicy"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Emporio Armani Stronger With You",
+     "Emporio Armani Stronger With You Absolutely",
+     "Azzaro The Most Wanted Eau de Parfum Intense"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8.5,
+    "public_rating": 9,
+    "overall_rating": 21.85,
+    "max_rating": 25,
+    "normalized_rating": 0.874,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Giorgio-Armani/Emporio-Armani-Stronger-With-You-Intensely-52802.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "vulcan-feu",
+   "slug": "vulcan-feu",
+   "url": "/fragrances/vulcan-feu/",
+   "brand": "French Avenue",
+   "name": "Vulcan Feu Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/vulcan-feu.webp",
+    "card": "/assets/cards/vulcan-feu.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2025,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "mango",
+      "lemon",
+      "ginger",
+      "rhubarb"
+     ],
+     "heart": [
+      "pink pepper",
+      "jasmine",
+      "violet",
+      "praline"
+     ],
+     "base": [
+      "tonka bean",
+      "cedarwood",
+      "ambergris",
+      "moss"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Sweet",
+     "Floral"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Stéphane Humbert Lucas 777 God of Fire",
+     "French Avenue Opulent Dubai / Malachite"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 9,
+    "public_rating": 8,
+    "overall_rating": 17.9,
+    "max_rating": 21,
+    "normalized_rating": 0.852,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/French-Avenue/Vulcan-Feu-105520.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "ahmed-al-maghribi-ignite-oud",
+   "slug": "ahmed-al-maghribi-ignite-oud",
+   "url": "/fragrances/ahmed-al-maghribi-ignite-oud/",
+   "brand": "Ahmed Al Maghribi",
+   "name": "Ignite Oud Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/ahmed-al-maghribi-ignite-oud.webp",
+    "card": "/assets/cards/ahmed-al-maghribi-ignite-oud.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2024,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "leather",
+      "geranium"
+     ],
+     "heart": [
+      "patchouli",
+      "cedar"
+     ],
+     "base": [
+      "amber",
+      "sandalwood",
+      "musk",
+      "moss"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Amber",
+     "Musky"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Maison Crivelli Oud Maracujá",
+     "Frederic Malle Promise"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8.75,
+    "public_rating": 9,
+    "overall_rating": 18.625,
+    "max_rating": 21,
+    "normalized_rating": 0.887,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Ahmed-Al-Maghribi/Ignite-Oud-99960.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "french-avenue-aether",
+   "slug": "french-avenue-aether",
+   "url": "/fragrances/french-avenue-aether/",
+   "brand": "French Avenue",
+   "name": "Aether Extrait",
+   "concentration": "Extrait de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/french-avenue-aether.webp",
+    "card": "/assets/cards/french-avenue-aether.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2024,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "green apple",
+      "bergamot",
+      "mandarin orange"
+     ],
+     "heart": [
+      "cedar",
+      "petitgrain",
+      "cashmeran",
+      "violet"
+     ],
+     "base": [
+      "oakmoss",
+      "musk",
+      "amberwood"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Citrus",
+     "Musky"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Parfums de Marly Greenley",
+     "Lattafa Sherif"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 7,
+    "public_rating": 8,
+    "overall_rating": 15.7,
+    "max_rating": 21,
+    "normalized_rating": 0.748,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/French-Avenue/Aether-94702.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "afnan-rare-reef",
+   "slug": "afnan-rare-reef",
+   "url": "/fragrances/afnan-rare-reef/",
+   "brand": "Afnan",
+   "name": "Rare Reef Extrait de Parfum",
+   "concentration": "Extrait de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/afnan-rare-reef.webp",
+    "card": "/assets/cards/afnan-rare-reef.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2025,
+    "perfumer": "Lucas Sieuzac",
+    "notes": {
+     "top": [
+      "orange",
+      "mint",
+      "citron",
+      "grapefruit",
+      "blackcurrant",
+      "coriander"
+     ],
+     "heart": [
+      "apricot",
+      "basil",
+      "violet leaf",
+      "rose"
+     ],
+     "base": [
+      "fig",
+      "ambrette",
+      "amberwood",
+      "dates"
+     ]
+    },
+    "families": [
+     "Fruity",
+     "Aromatic",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Louis Vuitton Pacific Chill",
+     "Game of Spades Bonus / Pacific Aura"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 5.75,
+    "public_rating": 8,
+    "overall_rating": 14.325,
+    "max_rating": 21,
+    "normalized_rating": 0.682,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Afnan/Rare-Reef-106835.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "ferragamo-acqua-essenziale-blu-edt",
+   "slug": "ferragamo-acqua-essenziale-blu-edt",
+   "url": "/fragrances/ferragamo-acqua-essenziale-blu-edt/",
+   "brand": "Salvatore Ferragamo",
+   "name": "Acqua Essenziale Blu Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/ferragamo-acqua-essenziale-blu-edt.webp",
+    "card": "/assets/cards/ferragamo-acqua-essenziale-blu-edt.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2014,
+    "perfumer": "Alberto Morillas",
+    "notes": {
+     "top": [
+      "lemon",
+      "Calabrian bergamot",
+      "cardamom"
+     ],
+     "heart": [
+      "lavender",
+      "cypriol",
+      "Atlas cedar"
+     ],
+     "base": [
+      "tonka bean",
+      "ambroxan",
+      "benzoin",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Amber",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Versace Pour Homme Dylan Blue EDT",
+     "Bleu de Chanel Eau de Toilette",
+     "Salvatore Ferragamo Acqua Essenziale EDT"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8.25,
+    "public_rating": 8,
+    "overall_rating": 20.325,
+    "max_rating": 25,
+    "normalized_rating": 0.813,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Salvatore-Ferragamo/Acqua-Essenziale-Blu-24788.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "cartier-declaration-haute-fraicheur-edt",
+   "slug": "cartier-declaration-haute-fraicheur-edt",
+   "url": "/fragrances/cartier-declaration-haute-fraicheur-edt/",
+   "brand": "Cartier",
+   "name": "Déclaration Haute Fraîcheur Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/cartier-declaration-haute-fraicheur-edt.webp",
+    "card": "/assets/cards/cartier-declaration-haute-fraicheur-edt.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2021,
+    "perfumer": "Mathilde Laurent",
+    "notes": {
+     "top": [
+      "citrus leaf"
+     ],
+     "heart": [
+      "cardamom"
+     ],
+     "base": [
+      "cedar"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Spicy",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Cartier Déclaration Eau de Toilette",
+     "Mugler Cologne",
+     "Bvlgari Pour Homme"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8.5,
+    "public_rating": 8,
+    "overall_rating": 20.65,
+    "max_rating": 25,
+    "normalized_rating": 0.826,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Cartier/Declaration-Haute-Fraicheur-71441.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "ferragamo-uomo-signature-edp",
+   "slug": "ferragamo-uomo-signature-edp",
+   "url": "/fragrances/ferragamo-uomo-signature-edp/",
+   "brand": "Salvatore Ferragamo",
+   "name": "Uomo Signature Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/ferragamo-uomo-signature-edp.webp",
+    "card": "/assets/cards/ferragamo-uomo-signature-edp.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2018,
+    "perfumer": "Alberto Morillas",
+    "notes": {
+     "top": [
+      "Italian mandarin",
+      "pink pepper",
+      "grapefruit"
+     ],
+     "heart": [
+      "cinnamon",
+      "cardamom",
+      "cypress"
+     ],
+     "base": [
+      "tonka bean",
+      "leather",
+      "roasted coffee beans",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Spicy",
+     "Sweet",
+     "Citrus"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Salvatore Ferragamo Uomo EDT",
+     "Parfums de Marly Layton",
+     "CH Men Privé"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 7.5,
+    "public_rating": 8,
+    "overall_rating": 19.35,
+    "max_rating": 25,
+    "normalized_rating": 0.774,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Salvatore-Ferragamo/Uomo-Salvatore-Ferragamo-Signature-50797.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "ferragamo-f-by-ferragamo-pour-homme",
+   "slug": "ferragamo-f-by-ferragamo-pour-homme",
+   "url": "/fragrances/ferragamo-f-by-ferragamo-pour-homme/",
+   "brand": "Salvatore Ferragamo",
+   "name": "F by Ferragamo Pour Homme Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/ferragamo-f-by-ferragamo-pour-homme.webp",
+    "card": "/assets/cards/ferragamo-f-by-ferragamo-pour-homme.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2007,
+    "perfumer": "Olivier Polge",
+    "notes": {
+     "top": [
+      "lavender",
+      "apple"
+     ],
+     "heart": [
+      "black pepper"
+     ],
+     "base": [
+      "labdanum",
+      "leather",
+      "amber"
+     ]
+    },
+    "families": [
+     "Amber",
+     "Leather",
+     "Spicy"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "F by Ferragamo Pour Homme Black",
+     "YSL L'Homme EDT",
+     "Hermès Terre d'Hermès EDT"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 6.5,
+    "public_rating": 8,
+    "overall_rating": 18.05,
+    "max_rating": 25,
+    "normalized_rating": 0.722,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Salvatore-Ferragamo/F-by-Ferragamo-Pour-Homme-1699.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "dunhill-icon-edp",
+   "slug": "dunhill-icon-edp",
+   "url": "/fragrances/dunhill-icon-edp/",
+   "brand": "Dunhill",
+   "name": "Icon Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/dunhill-icon-edp.webp",
+    "card": "/assets/cards/dunhill-icon-edp.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2015,
+    "perfumer": "Carlos Benaïm",
+    "notes": {
+     "top": [
+      "neroli",
+      "bergamot",
+      "black pepper",
+      "petitgrain"
+     ],
+     "heart": [
+      "lavender",
+      "cardamom",
+      "juniper berries",
+      "sage"
+     ],
+     "base": [
+      "vetiver",
+      "oakmoss",
+      "iris",
+      "leather",
+      "oud"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Woody",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "Hermès Terre d'Hermès Eau de Toilette",
+     "Dunhill Icon Racing / Icon Elite",
+     "Maison Crivelli Kalan"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 6.75,
+    "public_rating": 8,
+    "overall_rating": 18.375,
+    "max_rating": 25,
+    "normalized_rating": 0.735,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Alfred-Dunhill/Icon-29229.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "chanel-bleu-de-chanel-edp",
+   "slug": "chanel-bleu-de-chanel-edp",
+   "url": "/fragrances/chanel-bleu-de-chanel-edp/",
+   "brand": "Chanel",
+   "name": "Bleu de Chanel Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/chanel-bleu-de-chanel-edp.webp",
+    "card": "/assets/cards/chanel-bleu-de-chanel-edp.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2014,
+    "perfumer": "Jacques Polge",
+    "notes": {
+     "top": [
+      "grapefruit",
+      "lemon",
+      "mint",
+      "bergamot",
+      "pink pepper",
+      "aldehydes",
+      "coriander"
+     ],
+     "heart": [
+      "ginger",
+      "jasmine",
+      "nutmeg",
+      "melon"
+     ],
+     "base": [
+      "incense",
+      "amber",
+      "cedar",
+      "sandalwood",
+      "amberwood",
+      "patchouli",
+      "labdanum"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Amber",
+     "Spicy"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Bleu de Chanel Parfum",
+     "Bleu de Chanel Eau de Toilette",
+     "Armaf Club de Nuit Blue Iconic"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 9,
+    "public_rating": 9,
+    "overall_rating": 22.5,
+    "max_rating": 25,
+    "normalized_rating": 0.9,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Chanel/Bleu-de-Chanel-Eau-de-Parfum-25967.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "chanel-bleu-de-chanel-edt",
+   "slug": "chanel-bleu-de-chanel-edt",
+   "url": "/fragrances/chanel-bleu-de-chanel-edt/",
+   "brand": "Chanel",
+   "name": "Bleu de Chanel Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/chanel-bleu-de-chanel-edt.webp",
+    "card": "/assets/cards/chanel-bleu-de-chanel-edt.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2010,
+    "perfumer": "Jacques Polge",
+    "notes": {
+     "top": [
+      "grapefruit",
+      "lemon",
+      "mint",
+      "pink pepper"
+     ],
+     "heart": [
+      "ginger",
+      "nutmeg",
+      "jasmine",
+      "Iso E Super"
+     ],
+     "base": [
+      "incense",
+      "cedar",
+      "vetiver",
+      "sandalwood",
+      "patchouli",
+      "labdanum",
+      "white musk"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Spicy",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Bleu de Chanel Eau de Parfum",
+     "Bleu de Chanel Parfum",
+     "Armaf Club de Nuit Blue Iconic",
+     "Al Haramain Amber Oud Bleu Edition"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8.5,
+    "public_rating": 8,
+    "overall_rating": 20.65,
+    "max_rating": 25,
+    "normalized_rating": 0.826,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Chanel/Bleu-de-Chanel-9099.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "armaf-club-de-nuit-intense-man-edt",
+   "slug": "armaf-club-de-nuit-intense-man-edt",
+   "url": "/fragrances/armaf-club-de-nuit-intense-man-edt/",
+   "brand": "Armaf",
+   "name": "Club de Nuit Intense Man Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/armaf-club-de-nuit-intense-man-edt.webp",
+    "card": "/assets/cards/armaf-club-de-nuit-intense-man-edt.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2015,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "lemon",
+      "pineapple",
+      "bergamot",
+      "blackcurrant",
+      "apple"
+     ],
+     "heart": [
+      "birch",
+      "jasmine",
+      "rose"
+     ],
+     "base": [
+      "musk",
+      "ambergris",
+      "patchouli",
+      "vanilla"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Fruity",
+     "Floral"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Creed Aventus",
+     "Armaf Club de Nuit Intense Man Eau de Parfum",
+     "Montblanc Explorer"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 6.75,
+    "public_rating": 8,
+    "overall_rating": 15.425,
+    "max_rating": 21,
+    "normalized_rating": 0.735,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Intense-Man-34696.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "armaf-club-de-nuit-untold",
+   "slug": "armaf-club-de-nuit-untold",
+   "url": "/fragrances/armaf-club-de-nuit-untold/",
+   "brand": "Armaf",
+   "name": "Club de Nuit Untold Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/armaf-club-de-nuit-untold.webp",
+    "card": "/assets/cards/armaf-club-de-nuit-untold.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2022,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "saffron",
+      "jasmine"
+     ],
+     "heart": [
+      "amberwood",
+      "ambergris"
+     ],
+     "base": [
+      "fir resin",
+      "cedar"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Aromatic",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum",
+     "Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum",
+     "Al Haramain Amber Oud Ruby Edition"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 5.5,
+    "public_rating": 8,
+    "overall_rating": 14.05,
+    "max_rating": 21,
+    "normalized_rating": 0.669,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Untold-78476.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "maison-alhambra-la-rouge-baroque",
+   "slug": "maison-alhambra-la-rouge-baroque",
+   "url": "/fragrances/maison-alhambra-la-rouge-baroque/",
+   "brand": "Maison Alhambra",
+   "name": "La Rouge Baroque Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/maison-alhambra-la-rouge-baroque.webp",
+    "card": "/assets/cards/maison-alhambra-la-rouge-baroque.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2021,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "saffron",
+      "pear",
+      "mandarin orange"
+     ],
+     "heart": [
+      "jasmine",
+      "ylang-ylang",
+      "lily"
+     ],
+     "base": [
+      "amber",
+      "cashmere wood",
+      "musk"
+     ]
+    },
+    "families": [
+     "Floral",
+     "Amber",
+     "Woody"
+    ],
+    "seasons": [
+     "spring",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum",
+     "Club de Nuit Untold",
+     "Al Haramain Amber Oud Ruby Edition"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 6.5,
+    "public_rating": 8,
+    "overall_rating": 15.15,
+    "max_rating": 21,
+    "normalized_rating": 0.721,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Maison-Alhambra/Baroque-Rouge-540-89849.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "orientica-amber-rouge",
+   "slug": "orientica-amber-rouge",
+   "url": "/fragrances/orientica-amber-rouge/",
+   "brand": "Orientica",
+   "name": "Amber Rouge Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/orientica-amber-rouge.webp",
+    "card": "/assets/cards/orientica-amber-rouge.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2021,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "jasmine",
+      "orange"
+     ],
+     "heart": [
+      "saffron",
+      "praline"
+     ],
+     "base": [
+      "oakmoss",
+      "amber",
+      "seaweed"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Amber",
+     "Spicy"
+    ],
+    "seasons": [
+     "spring",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum",
+     "Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum",
+     "Club de Nuit Untold",
+     "La Rouge Baroque"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 6.75,
+    "public_rating": 8,
+    "overall_rating": 15.425,
+    "max_rating": 21,
+    "normalized_rating": 0.735,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Orientica-Premium/Amber-Rouge-69364.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "rasasi-hawas-ice",
+   "slug": "rasasi-hawas-ice",
+   "url": "/fragrances/rasasi-hawas-ice/",
+   "brand": "Rasasi",
+   "name": "Hawas Ice",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/rasasi-hawas-ice.webp",
+    "card": "/assets/cards/rasasi-hawas-ice.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2023,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "frosted apple",
+      "Italian lemon",
+      "Sicilian bergamot",
+      "star anise"
+     ],
+     "heart": [
+      "plum",
+      "orange blossom",
+      "cardamom"
+     ],
+     "base": [
+      "musk",
+      "amber",
+      "driftwood",
+      "moss"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Spicy",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Rasasi Hawas for Him",
+     "Paco Rabanne Invictus Aqua",
+     "Paco Rabanne Invictus Eau de Toilette"
+    ],
+    "inspired_by": "Paco Rabanne Invictus, especially Invictus Aqua"
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8.5,
+    "public_rating": 8,
+    "overall_rating": 17.35,
+    "max_rating": 21,
+    "normalized_rating": 0.826,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Ice-89050.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "rasasi-hawas-for-him",
+   "slug": "rasasi-hawas-for-him",
+   "url": "/fragrances/rasasi-hawas-for-him/",
+   "brand": "Rasasi",
+   "name": "Hawas For Him",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/rasasi-hawas-for-him.webp",
+    "card": "/assets/cards/rasasi-hawas-for-him.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2015,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "apple",
+      "bergamot",
+      "lemon",
+      "cinnamon"
+     ],
+     "heart": [
+      "watery notes",
+      "plum",
+      "orange blossom",
+      "cardamom"
+     ],
+     "base": [
+      "ambergris",
+      "musk",
+      "patchouli",
+      "driftwood"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Fruity",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Paco Rabanne Invictus",
+     "Paco Rabanne Invictus Aqua",
+     "Hawas Ice"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8,
+    "public_rating": 8,
+    "overall_rating": 16.8,
+    "max_rating": 21,
+    "normalized_rating": 0.8,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-for-Him-46890.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "glenn-perri-unpredictable-pure",
+   "slug": "glenn-perri-unpredictable-pure",
+   "url": "/fragrances/glenn-perri-unpredictable-pure/",
+   "brand": "Glenn Perri",
+   "name": "Unpredictable Pure Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/glenn-perri-unpredictable-pure.webp",
+    "card": "/assets/cards/glenn-perri-unpredictable-pure.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "lime",
+      "patchouli"
+     ],
+     "heart": [
+      "absinthe",
+      "black pepper",
+      "ozonic notes"
+     ],
+     "base": [
+      "cedar",
+      "amber"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Amber",
+     "Aromatic"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "other Glenn Perri Unpredictable flankers — different juices",
+     "woody amber fresh-spicy colognes with lime, pepper, and cedar"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 5.5,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrancenet.com/cologne/glenn-perri/glenn-perri-unpredictable-pure/eau-de-parfum",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "english-laundry-cambridge-knight",
+   "slug": "english-laundry-cambridge-knight",
+   "url": "/fragrances/english-laundry-cambridge-knight/",
+   "brand": "English Laundry",
+   "name": "Cambridge Knight Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/english-laundry-cambridge-knight.webp",
+    "card": "/assets/cards/english-laundry-cambridge-knight.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2015,
+    "perfumer": "Christopher Wicks",
+    "notes": {
+     "top": [
+      "blackcurrant",
+      "sea notes",
+      "grapefruit",
+      "musk",
+      "lily"
+     ],
+     "heart": [
+      "bay leaf",
+      "guaiac wood",
+      "jasmine"
+     ],
+     "base": [
+      "cedar",
+      "oakmoss",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Floral",
+     "Aromatic"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "fresh fruity woody-marine colognes"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 6,
+    "public_rating": 8,
+    "overall_rating": 14.6,
+    "max_rating": 21,
+    "normalized_rating": 0.695,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/English-Laundry/Cambridge-Knight-49229.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "jean-rish-azul-pour-homme",
+   "slug": "jean-rish-azul-pour-homme",
+   "url": "/fragrances/jean-rish-azul-pour-homme/",
+   "brand": "Jean Rish",
+   "name": "Azul Pour Homme Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/jean-rish-azul-pour-homme.webp",
+    "card": "/assets/cards/jean-rish-azul-pour-homme.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "grapefruit",
+      "lemon",
+      "mint",
+      "pink pepper"
+     ],
+     "heart": [
+      "ginger",
+      "jasmine",
+      "nutmeg"
+     ],
+     "base": [
+      "incense",
+      "sandalwood",
+      "patchouli",
+      "white musk"
+     ]
+    },
+    "families": [
+     "Spicy",
+     "Woody",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Bleu de Chanel Eau de Toilette",
+     "Bleu de Chanel Eau de Parfum",
+     "Bleu de Chanel Parfum"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 5,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.amazon.com/Jean-Rish-Azul-Homme-Toilette/dp/B0DB8448WF",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "lattafa-dynasty",
+   "slug": "lattafa-dynasty",
+   "url": "/fragrances/lattafa-dynasty/",
+   "brand": "Lattafa",
+   "name": "Dynasty Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/lattafa-dynasty.webp",
+    "card": "/assets/cards/lattafa-dynasty.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2025,
+    "perfumer": "Alex Lee",
+    "notes": {
+     "top": [
+      "bergamot",
+      "ginger",
+      "clary sage",
+      "raspberry",
+      "nutmeg"
+     ],
+     "heart": [
+      "rooibos tea",
+      "suede"
+     ],
+     "base": [
+      "cedarwood",
+      "cashmeran",
+      "amberwood"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Aromatic",
+     "Spicy"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "Clive Christian L Red Tea Vetiver",
+     "Louis Vuitton Imagination",
+     "Creed Silver Mountain Water / Armaf Sillage",
+     "Parfums de Marly / Essential Parfums Bois Impérial"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8.75,
+    "public_rating": 8,
+    "overall_rating": 17.625,
+    "max_rating": 21,
+    "normalized_rating": 0.839,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Dynasty-112859.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "afnan-turathi-blue",
+   "slug": "afnan-turathi-blue",
+   "url": "/fragrances/afnan-turathi-blue/",
+   "brand": "Afnan",
+   "name": "Turathi Blue Homme Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/afnan-turathi-blue.webp",
+    "card": "/assets/cards/afnan-turathi-blue.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2021,
+    "perfumer": "Imran Fazlani",
+    "notes": {
+     "top": [
+      "bergamot",
+      "mandarin"
+     ],
+     "heart": [
+      "amber",
+      "woody notes"
+     ],
+     "base": [
+      "musk",
+      "patchouli",
+      "fresh spices"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Citrus",
+     "Musky"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Bvlgari Le Gemme Tygar",
+     "Sospiro Vibrato",
+     "Fragrance World Théorème pour Homme",
+     "Montabaco Verano",
+     "Bleu de Chanel EDP"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 9,
+    "public_rating": 8,
+    "overall_rating": 17.9,
+    "max_rating": 21,
+    "normalized_rating": 0.852,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Afnan/Turathi-Blue-70839.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "lattafa-atlas",
+   "slug": "lattafa-atlas",
+   "url": "/fragrances/lattafa-atlas/",
+   "brand": "Lattafa",
+   "name": "Atlas Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/lattafa-atlas.webp",
+    "card": "/assets/cards/lattafa-atlas.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2024,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "sea notes",
+      "salt",
+      "lemon"
+     ],
+     "heart": [
+      "davana",
+      "iris"
+     ],
+     "base": [
+      "ambergris",
+      "oakmoss",
+      "sandalwood"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Aquatic",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Orto Parisi Megamare",
+     "Jo Malone Wood Sage & Sea Salt",
+     "D&G Light Blue Pour Homme"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 5.5,
+    "public_rating": 8,
+    "overall_rating": 14.05,
+    "max_rating": 21,
+    "normalized_rating": 0.669,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Atlas-89765.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "lattafa-maahir-legacy",
+   "slug": "lattafa-maahir-legacy",
+   "url": "/fragrances/lattafa-maahir-legacy/",
+   "brand": "Lattafa",
+   "name": "Maahir Legacy Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/lattafa-maahir-legacy.webp",
+    "card": "/assets/cards/lattafa-maahir-legacy.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2023,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "lime",
+      "mint",
+      "grapefruit",
+      "lavender",
+      "pineapple"
+     ],
+     "heart": [
+      "black pepper",
+      "rosemary",
+      "juniper berry",
+      "geranium",
+      "frankincense"
+     ],
+     "base": [
+      "ambroxan",
+      "vetiver",
+      "oakmoss",
+      "cashmeran",
+      "tonka bean"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Woody",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Parfums de Marly Sedley",
+     "Yves Saint Laurent Y Iced Cologne",
+     "Xerjoff Torino21"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 7.0,
+    "public_rating": 8,
+    "overall_rating": 15.7,
+    "max_rating": 21,
+    "normalized_rating": 0.748,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Maahir-Legacy-82727.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "coach-platinum",
+   "slug": "coach-platinum",
+   "url": "/fragrances/coach-platinum/",
+   "brand": "Coach",
+   "name": "Coach Platinum Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/coach-platinum.webp",
+    "card": "/assets/cards/coach-platinum.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2018,
+    "perfumer": "Bruno Jovanovic",
+    "notes": {
+     "top": [
+      "pineapple",
+      "black pepper",
+      "juniper berries"
+     ],
+     "heart": [
+      "cashmeran",
+      "sage",
+      "geranium"
+     ],
+     "base": [
+      "vanilla",
+      "leather",
+      "sandalwood",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Aromatic",
+     "Sweet"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "Dior Sauvage EDP",
+     "Armaf Club de Nuit Urban Man Elixir",
+     "Creed Aventus",
+     "Rabanne Phantom"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 7.5,
+    "public_rating": 8,
+    "overall_rating": 19.35,
+    "max_rating": 25,
+    "normalized_rating": 0.774,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Coach/Coach-Platinum-50777.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "dior-sauvage-edt",
+   "slug": "dior-sauvage-edt",
+   "url": "/fragrances/dior-sauvage-edt/",
+   "brand": "Dior",
+   "name": "Sauvage Eau de Toilette",
+   "concentration": "Eau de Toilette",
+   "images": {
+    "bottle": "/assets/bottles/dior-sauvage-edt.webp",
+    "card": "/assets/cards/dior-sauvage-edt.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2015,
+    "perfumer": "François Demachy",
+    "notes": {
+     "top": [
+      "Calabrian bergamot",
+      "pepper"
+     ],
+     "heart": [
+      "Sichuan pepper",
+      "lavender",
+      "pink pepper",
+      "vetiver",
+      "patchouli",
+      "geranium",
+      "elemi"
+     ],
+     "base": [
+      "ambroxan",
+      "cedar",
+      "labdanum"
+     ]
+    },
+    "families": [
+     "Amber",
+     "Spicy",
+     "Woody"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Dior Sauvage Eau de Parfum",
+     "Prada Luna Rossa Carbon",
+     "Aromara Savage Essence"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8.5,
+    "public_rating": 8,
+    "overall_rating": 20.65,
+    "max_rating": 25,
+    "normalized_rating": 0.826,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Dior/Sauvage-31861.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "armaf-odyssey-aqua",
+   "slug": "armaf-odyssey-aqua",
+   "url": "/fragrances/armaf-odyssey-aqua/",
+   "brand": "Armaf",
+   "name": "Odyssey Aqua Edition Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/armaf-odyssey-aqua.webp",
+    "card": "/assets/cards/armaf-odyssey-aqua.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2023,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "orange",
+      "grapefruit",
+      "artemisia"
+     ],
+     "heart": [
+      "mint",
+      "lavender"
+     ],
+     "base": [
+      "ambroxan",
+      "cypress",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Citrus",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Paco Rabanne Invictus Platinum",
+     "Rasasi Hawas Ice"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 6,
+    "public_rating": 9,
+    "overall_rating": 15.6,
+    "max_rating": 21,
+    "normalized_rating": 0.743,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Aqua-Edition-83134.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "armaf-odyssey-mandarin-sky",
+   "slug": "armaf-odyssey-mandarin-sky",
+   "url": "/fragrances/armaf-odyssey-mandarin-sky/",
+   "brand": "Armaf",
+   "name": "Odyssey Mandarin Sky Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/armaf-odyssey-mandarin-sky.webp",
+    "card": "/assets/cards/armaf-odyssey-mandarin-sky.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2023,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "mandarin orange",
+      "orange",
+      "saffron",
+      "sage"
+     ],
+     "heart": [
+      "caramel",
+      "tonka bean",
+      "marigold (tagetes)"
+     ],
+     "base": [
+      "ambroxan",
+      "cedar",
+      "vetiver"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Sweet",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Jean Paul Gaultier Scandal Pour Homme",
+     "Jean Paul Gaultier Scandal Pour Homme Le Parfum",
+     "Paco Rabanne 1 Million EDT"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 8.5,
+    "public_rating": 8,
+    "overall_rating": 17.35,
+    "max_rating": 21,
+    "normalized_rating": 0.826,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Mandarin-Sky-83132.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "english-laundry-london",
+   "slug": "english-laundry-london",
+   "url": "/fragrances/english-laundry-london/",
+   "brand": "English Laundry",
+   "name": "London Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/english-laundry-london.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2018,
+    "perfumer": "Christopher Wicks",
+    "notes": {
+     "top": [
+      "pineapple",
+      "blackberry",
+      "apple"
+     ],
+     "heart": [
+      "juniper",
+      "patchouli",
+      "bergamot",
+      "ambergris"
+     ],
+     "base": [
+      "oakmoss",
+      "musk",
+      "jasmine",
+      "vanilla"
+     ]
+    },
+    "families": [
+     "Fruity",
+     "Woody",
+     "Musky"
+    ],
+    "seasons": [
+     "spring",
+     "summer",
+     "fall"
+    ],
+    "similar_to": [
+     "Creed Aventus",
+     "Armaf Club de Nuit Intense Man Eau de Toilette",
+     "Montblanc Explorer",
+     "Al Haramain L'Aventure"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "randy_rating": 7,
+    "public_rating": 8,
+    "overall_rating": 15.7,
+    "max_rating": 21,
+    "normalized_rating": 0.748,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/English-Laundry/London-53368.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  }
+ ]
+}
