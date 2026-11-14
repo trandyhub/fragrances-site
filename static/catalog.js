@@ -50,16 +50,19 @@
   function readURL(){var p=new URLSearchParams(location.search);q=(p.get('q')||'').trim().toLowerCase();if(qInput)qInput.value=p.get('q')||'';
     FACETS.forEach(function(f){p.getAll(f).forEach(function(v){sel[f].add(v);var i=document.querySelector('.facet[data-facet="'+f+'"] input[value="'+CSS.escape(v)+'"]');if(i)i.checked=true})});
     if(p.get('sort')&&sorters[p.get('sort')]){sortKey=p.get('sort');sortSel.value=sortKey}}
-  document.querySelectorAll('.facet input').forEach(function(i){i.addEventListener('change',function(){
+  document.querySelectorAll('.facet input[type=checkbox]').forEach(function(i){i.addEventListener('change',function(){
     var f=i.name;if(i.checked)sel[f].add(i.value);else sel[f].delete(i.value);render(true)})});
   sortSel.addEventListener('change',function(){sortKey=sortSel.value;render(true)});
   var form=document.querySelector('form.search');
   if(form){form.addEventListener('submit',function(e){e.preventDefault();q=qInput.value.trim().toLowerCase();render(true)});
     qInput.addEventListener('input',function(){q=qInput.value.trim().toLowerCase();render(true)})}
-  function clearAll(){q='';if(qInput)qInput.value='';FACETS.forEach(function(f){sel[f].clear()});document.querySelectorAll('.facet input').forEach(function(i){i.checked=false});render(true)}
+  function clearAll(){q='';if(qInput)qInput.value='';FACETS.forEach(function(f){sel[f].clear()});document.querySelectorAll('.facet input[type=checkbox]').forEach(function(i){i.checked=false});document.querySelectorAll('.fsearch').forEach(function(s){s.value='';filterOpts(s)});render(true)}
   document.getElementById('clearAll').onclick=clearAll;document.getElementById('clearAll2').onclick=clearAll;
   document.getElementById('openF').onclick=function(){document.body.classList.add('fopen')};
   document.getElementById('closeF').onclick=document.getElementById('scrim').onclick=function(){document.body.classList.remove('fopen')};
+  // brand search box: narrows the option list (checked brands always stay visible)
+  function filterOpts(s){var t=s.value.trim().toLowerCase();s.parentNode.querySelectorAll('.fopt').forEach(function(l){var i=l.querySelector('input');l.classList.toggle('fhide',!!t&&!i.checked&&l.querySelector('.ftxt').textContent.toLowerCase().indexOf(t)<0)})}
+  document.querySelectorAll('.fsearch').forEach(function(s){s.addEventListener('input',function(){filterOpts(s)});s.addEventListener('keydown',function(e){if(e.key==='Enter')e.preventDefault()})});
   // highlight nav for preset filters
   readURL();render(false);
 })();

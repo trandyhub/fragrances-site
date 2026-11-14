@@ -291,3 +291,11 @@ button.cal-cell{cursor:pointer}button.cal-cell:hover{background:#fbf8f1}
 .gmain.card .tag-new .star,.fhero-img.card .tag-new .star,.feat-img.card .tag-new .star{color:#f3d57e;
   text-shadow:0 1px 2px rgba(0,0,0,.9),0 0 6px rgba(0,0,0,.7)}
 .fs-new .star{color:#f3d57e}
+
+/* Enhancer type (layering boosters): own pill colour, no scores */
+.g-enhancer{background:#3f6f7a}
+.prate.enh .lbl{font-style:italic;letter-spacing:.02em;text-transform:none}
+.enh-note{margin:18px 0;padding:14px 16px;border:1px solid var(--line);border-left:4px solid #3f6f7a;border-radius:6px;font-size:14px;line-height:1.55;background:rgba(63,111,122,.06)}
+/* Brand filter search box */
+.fsearch{width:100%;box-sizing:border-box;margin:0 0 8px;padding:7px 10px;font:inherit;font-size:13px;border:1px solid var(--line);border-radius:6px;background:transparent;color:inherit}
+.fopt.fhide{display:none}

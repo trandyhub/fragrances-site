@@ -8,6 +8,7 @@
    "slug": "chanel-bleu-de-chanel-parfum",
    "url": "/fragrances/chanel-bleu-de-chanel-parfum/",
    "brand": "Chanel",
+   "house": "Chanel",
    "name": "Bleu de Chanel Parfum",
    "concentration": "Parfum",
    "images": {
@@ -77,6 +78,7 @@
    "slug": "armaf-king-checkmate",
    "url": "/fragrances/armaf-king-checkmate/",
    "brand": "Armaf",
+   "house": "Armaf",
    "name": "King Checkmate",
    "concentration": "",
    "images": {
@@ -143,6 +145,7 @@
    "slug": "roja-elysium-pour-homme-parfum",
    "url": "/fragrances/roja-elysium-pour-homme-parfum/",
    "brand": "Roja Parfums",
+   "house": "Roja Parfums",
    "name": "Elysium Pour Homme Parfum",
    "concentration": "Parfum",
    "images": {
@@ -224,6 +227,7 @@
    "slug": "creed-wild-vetiver",
    "url": "/fragrances/creed-wild-vetiver/",
    "brand": "Creed",
+   "house": "Creed",
    "name": "Wild Vetiver",
    "concentration": "",
    "images": {
@@ -289,6 +293,7 @@
    "slug": "parfums-de-marly-percival",
    "url": "/fragrances/parfums-de-marly-percival/",
    "brand": "Parfums de Marly",
+   "house": "Parfums de Marly",
    "name": "Percival",
    "concentration": "",
    "images": {
@@ -356,6 +361,7 @@
    "slug": "dior-homme-intense",
    "url": "/fragrances/dior-homme-intense/",
    "brand": "Dior",
+   "house": "Dior",
    "name": "Dior Homme Intense",
    "concentration": "",
    "images": {
@@ -418,6 +424,7 @@
    "slug": "viktor-and-rolf-spicebomb-extreme",
    "url": "/fragrances/viktor-and-rolf-spicebomb-extreme/",
    "brand": "Viktor & Rolf",
+   "house": "Viktor & Rolf",
    "name": "Spicebomb Extreme",
    "concentration": "",
    "images": {
@@ -484,6 +491,7 @@
    "slug": "jean-paul-gaultier-le-male-le-parfum",
    "url": "/fragrances/jean-paul-gaultier-le-male-le-parfum/",
    "brand": "Jean Paul Gaultier",
+   "house": "Jean Paul Gaultier",
    "name": "Le Male Le Parfum",
    "concentration": "Parfum",
    "images": {
@@ -546,6 +554,7 @@
    "slug": "mancera-cedrat-boise",
    "url": "/fragrances/mancera-cedrat-boise/",
    "brand": "Mancera",
+   "house": "Mancera",
    "name": "Cedrat Boise",
    "concentration": "",
    "images": {
@@ -616,6 +625,7 @@
    "slug": "acqua-di-parma-arancia-di-capri",
    "url": "/fragrances/acqua-di-parma-arancia-di-capri/",
    "brand": "Acqua di Parma",
+   "house": "Acqua di Parma",
    "name": "Arancia di Capri",
    "concentration": "",
    "images": {
@@ -679,6 +689,7 @@
    "slug": "parfums-de-marly-althair",
    "url": "/fragrances/parfums-de-marly-althair/",
    "brand": "Parfums de Marly",
+   "house": "Parfums de Marly",
    "name": "Althaïr",
    "concentration": "",
    "images": {
@@ -744,6 +755,7 @@
    "slug": "byredo-bal-dafrique-absolu",
    "url": "/fragrances/byredo-bal-dafrique-absolu/",
    "brand": "Byredo",
+   "house": "Byredo",
    "name": "Bal d'Afrique Absolu de Parfum",
    "concentration": "Absolu de Parfum",
    "images": {
@@ -811,6 +823,7 @@
    "slug": "bdk-gris-charnel",
    "url": "/fragrances/bdk-gris-charnel/",
    "brand": "BDK Parfums",
+   "house": "BDK Parfums",
    "name": "Gris Charnel Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -875,6 +888,7 @@
    "slug": "amouage-reflection-45",
    "url": "/fragrances/amouage-reflection-45/",
    "brand": "Amouage",
+   "house": "Amouage",
    "name": "Reflection 45 Man",
    "concentration": "",
    "images": {
@@ -951,6 +965,7 @@
    "slug": "prada-luna-rossa-ocean-edp",
    "url": "/fragrances/prada-luna-rossa-ocean-edp/",
    "brand": "Prada",
+   "house": "Prada",
    "name": "Luna Rossa Ocean Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -1014,6 +1029,7 @@
    "slug": "lattafa-emeer",
    "url": "/fragrances/lattafa-emeer/",
    "brand": "Lattafa",
+   "house": "Lattafa",
    "name": "Emeer Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -1083,6 +1099,7 @@
    "slug": "dior-sauvage-edp",
    "url": "/fragrances/dior-sauvage-edp/",
    "brand": "Dior",
+   "house": "Dior",
    "name": "Sauvage Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -1149,6 +1166,7 @@
    "slug": "ysl-la-nuit-de-lhomme-edt",
    "url": "/fragrances/ysl-la-nuit-de-lhomme-edt/",
    "brand": "Yves Saint Laurent",
+   "house": "Yves Saint Laurent",
    "name": "La Nuit de L'Homme Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -1213,6 +1231,7 @@
    "slug": "versace-dylan-blue-edt",
    "url": "/fragrances/versace-dylan-blue-edt/",
    "brand": "Versace",
+   "house": "Versace",
    "name": "Versace Pour Homme Dylan Blue Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -1284,6 +1303,7 @@
    "slug": "versace-eros-edt",
    "url": "/fragrances/versace-eros-edt/",
    "brand": "Versace",
+   "house": "Versace",
    "name": "Eros Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -1353,6 +1373,7 @@
    "slug": "versace-eros-energy-edp",
    "url": "/fragrances/versace-eros-energy-edp/",
    "brand": "Versace",
+   "house": "Versace",
    "name": "Eros Energy Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -1422,6 +1443,7 @@
    "slug": "versace-lhomme-edt",
    "url": "/fragrances/versace-lhomme-edt/",
    "brand": "Versace",
+   "house": "Versace",
    "name": "Versace L'Homme Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -1498,6 +1520,7 @@
    "slug": "versace-the-dreamer-edt",
    "url": "/fragrances/versace-the-dreamer-edt/",
    "brand": "Versace",
+   "house": "Versace",
    "name": "The Dreamer Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -1562,6 +1585,7 @@
    "slug": "jpg-le-beau-flower-edition",
    "url": "/fragrances/jpg-le-beau-flower-edition/",
    "brand": "Jean Paul Gaultier",
+   "house": "Jean Paul Gaultier",
    "name": "Le Beau Flower Edition Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -1626,6 +1650,7 @@
    "slug": "jpg-le-beau-narcisse",
    "url": "/fragrances/jpg-le-beau-narcisse/",
    "brand": "Jean Paul Gaultier",
+   "house": "Jean Paul Gaultier",
    "name": "Le Beau Narcisse Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -1691,6 +1716,7 @@
    "slug": "jimmy-choo-man-blue-edt",
    "url": "/fragrances/jimmy-choo-man-blue-edt/",
    "brand": "Jimmy Choo",
+   "house": "Jimmy Choo",
    "name": "Jimmy Choo Man Blue Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -1760,6 +1786,7 @@
    "slug": "emporio-armani-stronger-with-you-intensely",
    "url": "/fragrances/emporio-armani-stronger-with-you-intensely/",
    "brand": "Emporio Armani",
+   "house": "Emporio Armani",
    "name": "Stronger With You Intensely Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -1828,6 +1855,7 @@
    "slug": "vulcan-feu",
    "url": "/fragrances/vulcan-feu/",
    "brand": "French Avenue",
+   "house": "French Avenue",
    "name": "Vulcan Feu Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -1896,6 +1924,7 @@
    "slug": "ahmed-al-maghribi-ignite-oud",
    "url": "/fragrances/ahmed-al-maghribi-ignite-oud/",
    "brand": "Ahmed Al Maghribi",
+   "house": "Ahmed Al Maghribi",
    "name": "Ignite Oud Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -1960,6 +1989,7 @@
    "slug": "french-avenue-aether",
    "url": "/fragrances/french-avenue-aether/",
    "brand": "French Avenue",
+   "house": "French Avenue",
    "name": "Aether Extrait",
    "concentration": "Extrait de Parfum",
    "images": {
@@ -2026,6 +2056,7 @@
    "slug": "afnan-rare-reef",
    "url": "/fragrances/afnan-rare-reef/",
    "brand": "Afnan",
+   "house": "Afnan",
    "name": "Rare Reef Extrait de Parfum",
    "concentration": "Extrait de Parfum",
    "images": {
@@ -2096,6 +2127,7 @@
    "slug": "ferragamo-acqua-essenziale-blu-edt",
    "url": "/fragrances/ferragamo-acqua-essenziale-blu-edt/",
    "brand": "Salvatore Ferragamo",
+   "house": "Salvatore Ferragamo",
    "name": "Acqua Essenziale Blu Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -2164,6 +2196,7 @@
    "slug": "cartier-declaration-haute-fraicheur-edt",
    "url": "/fragrances/cartier-declaration-haute-fraicheur-edt/",
    "brand": "Cartier",
+   "house": "Cartier",
    "name": "Déclaration Haute Fraîcheur Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -2224,6 +2257,7 @@
    "slug": "ferragamo-uomo-signature-edp",
    "url": "/fragrances/ferragamo-uomo-signature-edp/",
    "brand": "Salvatore Ferragamo",
+   "house": "Salvatore Ferragamo",
    "name": "Uomo Signature Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -2291,6 +2325,7 @@
    "slug": "ferragamo-f-by-ferragamo-pour-homme",
    "url": "/fragrances/ferragamo-f-by-ferragamo-pour-homme/",
    "brand": "Salvatore Ferragamo",
+   "house": "Salvatore Ferragamo",
    "name": "F by Ferragamo Pour Homme Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -2354,6 +2389,7 @@
    "slug": "dunhill-icon-edp",
    "url": "/fragrances/dunhill-icon-edp/",
    "brand": "Dunhill",
+   "house": "Dunhill",
    "name": "Icon Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -2424,6 +2460,7 @@
    "slug": "chanel-bleu-de-chanel-edp",
    "url": "/fragrances/chanel-bleu-de-chanel-edp/",
    "brand": "Chanel",
+   "house": "Chanel",
    "name": "Bleu de Chanel Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -2500,6 +2537,7 @@
    "slug": "chanel-bleu-de-chanel-edt",
    "url": "/fragrances/chanel-bleu-de-chanel-edt/",
    "brand": "Chanel",
+   "house": "Chanel",
    "name": "Bleu de Chanel Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -2574,6 +2612,7 @@
    "slug": "armaf-club-de-nuit-intense-man-edt",
    "url": "/fragrances/armaf-club-de-nuit-intense-man-edt/",
    "brand": "Armaf",
+   "house": "Armaf",
    "name": "Club de Nuit Intense Man Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -2644,6 +2683,7 @@
    "slug": "armaf-club-de-nuit-untold",
    "url": "/fragrances/armaf-club-de-nuit-untold/",
    "brand": "Armaf",
+   "house": "Armaf",
    "name": "Club de Nuit Untold Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -2708,6 +2748,7 @@
    "slug": "maison-alhambra-la-rouge-baroque",
    "url": "/fragrances/maison-alhambra-la-rouge-baroque/",
    "brand": "Maison Alhambra",
+   "house": "Maison Alhambra",
    "name": "La Rouge Baroque Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -2775,6 +2816,7 @@
    "slug": "orientica-amber-rouge",
    "url": "/fragrances/orientica-amber-rouge/",
    "brand": "Orientica",
+   "house": "Orientica",
    "name": "Amber Rouge Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -2841,6 +2883,7 @@
    "slug": "rasasi-hawas-ice",
    "url": "/fragrances/rasasi-hawas-ice/",
    "brand": "Rasasi",
+   "house": "Rasasi",
    "name": "Hawas Ice",
    "concentration": "",
    "images": {
@@ -2910,6 +2953,7 @@
    "slug": "rasasi-hawas-for-him",
    "url": "/fragrances/rasasi-hawas-for-him/",
    "brand": "Rasasi",
+   "house": "Rasasi",
    "name": "Hawas For Him",
    "concentration": "",
    "images": {
@@ -2980,6 +3024,7 @@
    "slug": "glenn-perri-unpredictable-pure",
    "url": "/fragrances/glenn-perri-unpredictable-pure/",
    "brand": "Glenn Perri",
+   "house": "Glenn Perri",
    "name": "Unpredictable Pure Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -3044,6 +3089,7 @@
    "slug": "english-laundry-cambridge-knight",
    "url": "/fragrances/english-laundry-cambridge-knight/",
    "brand": "English Laundry",
+   "house": "English Laundry",
    "name": "Cambridge Knight Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -3110,6 +3156,7 @@
    "slug": "jean-rish-azul-pour-homme",
    "url": "/fragrances/jean-rish-azul-pour-homme/",
    "brand": "Jean Rish",
+   "house": "Jean Rish",
    "name": "Azul Pour Homme Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -3179,6 +3226,7 @@
    "slug": "lattafa-dynasty",
    "url": "/fragrances/lattafa-dynasty/",
    "brand": "Lattafa",
+   "house": "Lattafa",
    "name": "Dynasty Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -3247,6 +3295,7 @@
    "slug": "afnan-turathi-blue",
    "url": "/fragrances/afnan-turathi-blue/",
    "brand": "Afnan",
+   "house": "Afnan",
    "name": "Turathi Blue Homme Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -3314,6 +3363,7 @@
    "slug": "lattafa-atlas",
    "url": "/fragrances/lattafa-atlas/",
    "brand": "Lattafa",
+   "house": "Lattafa",
    "name": "Atlas Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -3379,6 +3429,7 @@
    "slug": "lattafa-maahir-legacy",
    "url": "/fragrances/lattafa-maahir-legacy/",
    "brand": "Lattafa",
+   "house": "Lattafa",
    "name": "Maahir Legacy Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -3451,6 +3502,7 @@
    "slug": "coach-platinum",
    "url": "/fragrances/coach-platinum/",
    "brand": "Coach",
+   "house": "Coach",
    "name": "Coach Platinum Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -3519,6 +3571,7 @@
    "slug": "dior-sauvage-edt",
    "url": "/fragrances/dior-sauvage-edt/",
    "brand": "Dior",
+   "house": "Dior",
    "name": "Sauvage Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -3589,6 +3642,7 @@
    "slug": "armaf-odyssey-aqua",
    "url": "/fragrances/armaf-odyssey-aqua/",
    "brand": "Armaf",
+   "house": "Armaf",
    "name": "Odyssey Aqua Edition Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -3653,6 +3707,7 @@
    "slug": "armaf-odyssey-mandarin-sky",
    "url": "/fragrances/armaf-odyssey-mandarin-sky/",
    "brand": "Armaf",
+   "house": "Armaf",
    "name": "Odyssey Mandarin Sky Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -3721,11 +3776,12 @@
    "slug": "english-laundry-london",
    "url": "/fragrances/english-laundry-london/",
    "brand": "English Laundry",
+   "house": "English Laundry",
    "name": "London Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/english-laundry-london.webp",
-    "card": null
+    "card": "/assets/cards/english-laundry-london.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -3791,6 +3847,7 @@
    "slug": "roja-elysium-pour-homme-parfum-cologne",
    "url": "/fragrances/roja-elysium-pour-homme-parfum-cologne/",
    "brand": "Roja Parfums",
+   "house": "Roja Parfums",
    "name": "Elysium Pour Homme Parfum Cologne",
    "concentration": "Parfum",
    "images": {
@@ -3870,11 +3927,12 @@
    "slug": "khadlaj-shiyaaka-sky",
    "url": "/fragrances/khadlaj-shiyaaka-sky/",
    "brand": "Khadlaj",
+   "house": "Khadlaj",
    "name": "Shiyaaka Sky Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/khadlaj-shiyaaka-sky.webp",
-    "card": null
+    "card": "/assets/cards/khadlaj-shiyaaka-sky.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -3937,6 +3995,7 @@
    "slug": "roja-elysium-noir",
    "url": "/fragrances/roja-elysium-noir/",
    "brand": "Roja Parfums",
+   "house": "Roja Parfums",
    "name": "Elysium Noir Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -4014,11 +4073,12 @@
    "slug": "hugo-boss-the-scent-edt",
    "url": "/fragrances/hugo-boss-the-scent-edt/",
    "brand": "Hugo Boss",
+   "house": "Hugo Boss",
    "name": "Boss The Scent Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
     "bottle": "/assets/bottles/hugo-boss-the-scent-edt.webp",
-    "card": null
+    "card": "/assets/cards/hugo-boss-the-scent-edt.webp"
    },
    "attributes": {
     "type": "designer",
@@ -4077,6 +4137,7 @@
    "slug": "maison-asrar-belgravia",
    "url": "/fragrances/maison-asrar-belgravia/",
    "brand": "Maison Asrar",
+   "house": "Maison Asrar",
    "name": "Belgravia Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -4145,6 +4206,7 @@
    "slug": "ysl-myslf-edp",
    "url": "/fragrances/ysl-myslf-edp/",
    "brand": "Yves Saint Laurent",
+   "house": "Yves Saint Laurent",
    "name": "MYSLF Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -4209,6 +4271,7 @@
    "slug": "ysl-babycat-raw-bourbon",
    "url": "/fragrances/ysl-babycat-raw-bourbon/",
    "brand": "Yves Saint Laurent",
+   "house": "Yves Saint Laurent",
    "name": "Babycat Raw Bourbon Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -4273,11 +4336,12 @@
    "slug": "hugo-boss-bottled-absolu",
    "url": "/fragrances/hugo-boss-bottled-absolu/",
    "brand": "Hugo Boss",
+   "house": "Hugo Boss",
    "name": "Boss Bottled Absolu Parfum Intense",
    "concentration": "Absolu de Parfum",
    "images": {
     "bottle": "/assets/bottles/hugo-boss-bottled-absolu.webp",
-    "card": null
+    "card": "/assets/cards/hugo-boss-bottled-absolu.webp"
    },
    "attributes": {
     "type": "designer",
@@ -4336,6 +4400,7 @@
    "slug": "dior-sauvage-elixir",
    "url": "/fragrances/dior-sauvage-elixir/",
    "brand": "Dior",
+   "house": "Dior",
    "name": "Sauvage Elixir",
    "concentration": "",
    "images": {
@@ -4403,6 +4468,7 @@
    "slug": "ysl-myslf-le-parfum",
    "url": "/fragrances/ysl-myslf-le-parfum/",
    "brand": "Yves Saint Laurent",
+   "house": "Yves Saint Laurent",
    "name": "MYSLF Le Parfum",
    "concentration": "Parfum",
    "images": {
@@ -4467,6 +4533,7 @@
    "slug": "lattafa-musamam-white-intense",
    "url": "/fragrances/lattafa-musamam-white-intense/",
    "brand": "Lattafa",
+   "house": "Lattafa",
    "name": "Musamam White Intense Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -4534,11 +4601,12 @@
    "slug": "fragrance-story-deadly-men",
    "url": "/fragrances/fragrance-story-deadly-men/",
    "brand": "Fragrance Story",
+   "house": "Fragrance Story",
    "name": "Deadly Men Parfum",
    "concentration": "Parfum",
    "images": {
     "bottle": "/assets/bottles/fragrance-story-deadly-men.webp",
-    "card": null
+    "card": "/assets/cards/fragrance-story-deadly-men.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -4602,6 +4670,7 @@
    "slug": "xerjoff-naxos",
    "url": "/fragrances/xerjoff-naxos/",
    "brand": "Xerjoff",
+   "house": "Xerjoff",
    "name": "XJ 1861 Naxos Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -4669,6 +4738,7 @@
    "slug": "creed-silver-mountain-water",
    "url": "/fragrances/creed-silver-mountain-water/",
    "brand": "Creed",
+   "house": "Creed",
    "name": "Silver Mountain Water Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -4734,6 +4804,7 @@
    "slug": "roja-isola-blu-parfum",
    "url": "/fragrances/roja-isola-blu-parfum/",
    "brand": "Roja Parfums",
+   "house": "Roja Parfums",
    "name": "Isola Blu Parfum",
    "concentration": "Parfum",
    "images": {
@@ -4820,6 +4891,7 @@
    "slug": "tumi-19-degree",
    "url": "/fragrances/tumi-19-degree/",
    "brand": "Tumi",
+   "house": "Tumi",
    "name": "19 Degree Extrait de Parfum",
    "concentration": "Extrait de Parfum",
    "images": {
@@ -4885,6 +4957,7 @@
    "slug": "sospiro-vibrato",
    "url": "/fragrances/sospiro-vibrato/",
    "brand": "Sospiro",
+   "house": "Sospiro",
    "name": "Vibrato Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -4955,6 +5028,7 @@
    "slug": "afnan-lynked-freedom",
    "url": "/fragrances/afnan-lynked-freedom/",
    "brand": "Afnan",
+   "house": "Afnan",
    "name": "Lynked Freedom Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -5021,6 +5095,7 @@
    "slug": "ajmal-gold-vi",
    "url": "/fragrances/ajmal-gold-vi/",
    "brand": "Ajmal",
+   "house": "Ajmal",
    "name": "Gold Collection VI Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -5090,6 +5165,7 @@
    "slug": "ajmal-song-of-oud",
    "url": "/fragrances/ajmal-song-of-oud/",
    "brand": "Ajmal",
+   "house": "Ajmal",
    "name": "Song of Oud Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -5155,6 +5231,7 @@
    "slug": "roja-burlington-1819",
    "url": "/fragrances/roja-burlington-1819/",
    "brand": "Roja Parfums",
+   "house": "Roja Parfums",
    "name": "Burlington 1819 Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -5230,6 +5307,7 @@
    "slug": "rasasi-hawas-tropical",
    "url": "/fragrances/rasasi-hawas-tropical/",
    "brand": "Rasasi",
+   "house": "Rasasi",
    "name": "Hawas Tropical Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -5296,6 +5374,7 @@
    "slug": "coach-for-men-edp",
    "url": "/fragrances/coach-for-men-edp/",
    "brand": "Coach",
+   "house": "Coach",
    "name": "Coach for Men Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -5358,6 +5437,7 @@
    "slug": "nishane-hacivat",
    "url": "/fragrances/nishane-hacivat/",
    "brand": "Nishane",
+   "house": "Nishane",
    "name": "Hacivat Extrait de Parfum",
    "concentration": "Extrait de Parfum",
    "images": {
@@ -5425,6 +5505,7 @@
    "slug": "afnan-turathi-electric",
    "url": "/fragrances/afnan-turathi-electric/",
    "brand": "Afnan",
+   "house": "Afnan",
    "name": "Turathi Electric Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -5493,6 +5574,7 @@
    "slug": "parfums-de-marly-perseus",
    "url": "/fragrances/parfums-de-marly-perseus/",
    "brand": "Parfums de Marly",
+   "house": "Parfums de Marly",
    "name": "Perseus Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -5562,6 +5644,7 @@
    "slug": "antonio-banderas-blue-seduction-for-men",
    "url": "/fragrances/antonio-banderas-blue-seduction-for-men/",
    "brand": "Antonio Banderas",
+   "house": "Antonio Banderas",
    "name": "Blue Seduction for Men Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -5629,6 +5712,7 @@
    "slug": "panama-jack-for-him",
    "url": "/fragrances/panama-jack-for-him/",
    "brand": "Panama Jack",
+   "house": "Panama Jack",
    "name": "Panama Jack for Him Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -5697,6 +5781,7 @@
    "slug": "antonio-banderas-the-icon",
    "url": "/fragrances/antonio-banderas-the-icon/",
    "brand": "Antonio Banderas",
+   "house": "Antonio Banderas",
    "name": "The Icon Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -5760,6 +5845,7 @@
    "slug": "whiskey-and-leather-cypress-and-sage",
    "url": "/fragrances/whiskey-and-leather-cypress-and-sage/",
    "brand": "Sand + Fog",
+   "house": "Sand + Fog",
    "name": "Whiskey and Leather Cypress & Sage",
    "concentration": "",
    "images": {
@@ -5814,7 +5900,8 @@
    "id": "tuscan-vetiver-eau-de-cologne",
    "slug": "tuscan-vetiver-eau-de-cologne",
    "url": "/fragrances/tuscan-vetiver-eau-de-cologne/",
-   "brand": "Tru Fragrance",
+   "brand": "Tru Fragrance & Beauty",
+   "house": "Tru Fragrance",
    "name": "Tuscan Vetiver Eau de Cologne",
    "concentration": "",
    "images": {
@@ -5872,6 +5959,7 @@
    "slug": "nautica-voyage-edt",
    "url": "/fragrances/nautica-voyage-edt/",
    "brand": "Nautica",
+   "house": "Nautica",
    "name": "Nautica Voyage Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -5936,6 +6024,7 @@
    "slug": "emberforge-eau-de-cologne",
    "url": "/fragrances/emberforge-eau-de-cologne/",
    "brand": "Tru Fragrance & Beauty",
+   "house": "Tru Fragrance & Beauty",
    "name": "Emberforge Eau de Cologne",
    "concentration": "",
    "images": {
@@ -5981,7 +6070,8 @@
    "id": "ministry-of-gourmand-coconut-lagoon",
    "slug": "ministry-of-gourmand-coconut-lagoon",
    "url": "/fragrances/ministry-of-gourmand-coconut-lagoon/",
-   "brand": "Ministry of Gourmand (Paris Corner)",
+   "brand": "Paris Corner",
+   "house": "Ministry of Gourmand (Paris Corner)",
    "name": "Coconut Lagoon Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -6046,6 +6136,7 @@
    "slug": "armaf-club-de-nuit-precieux-i",
    "url": "/fragrances/armaf-club-de-nuit-precieux-i/",
    "brand": "Armaf",
+   "house": "Armaf",
    "name": "Club de Nuit Précieux I Extrait de Parfum",
    "concentration": "Extrait de Parfum",
    "images": {
@@ -6123,6 +6214,7 @@
    "slug": "carolina-herrera-212-men-nyc-edt",
    "url": "/fragrances/carolina-herrera-212-men-nyc-edt/",
    "brand": "Carolina Herrera",
+   "house": "Carolina Herrera",
    "name": "212 Men NYC Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -6198,6 +6290,7 @@
    "slug": "prince-parfums-story-of-majestic-oudh",
    "url": "/fragrances/prince-parfums-story-of-majestic-oudh/",
    "brand": "Prince Parfums Dubai",
+   "house": "Prince Parfums Dubai",
    "name": "Story of Majestic Oudh Extrait de Parfum",
    "concentration": "Extrait de Parfum",
    "images": {
@@ -6260,11 +6353,12 @@
    "slug": "fomo-illusion-d-un-soir",
    "url": "/fragrances/fomo-illusion-d-un-soir/",
    "brand": "FOMO",
+   "house": "FOMO",
    "name": "Illusion d'Un Soir Extrait de Parfum",
    "concentration": "Extrait de Parfum",
    "images": {
     "bottle": "/assets/bottles/fomo-illusion-d-un-soir.webp",
-    "card": null
+    "card": "/assets/cards/fomo-illusion-d-un-soir.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -6329,11 +6423,12 @@
    "slug": "fomo-garys-den-le-parfum",
    "url": "/fragrances/fomo-garys-den-le-parfum/",
    "brand": "FOMO",
+   "house": "FOMO",
    "name": "Gary's Den Le Parfum",
    "concentration": "Parfum",
    "images": {
     "bottle": "/assets/bottles/fomo-garys-den-le-parfum.webp",
-    "card": null
+    "card": "/assets/cards/fomo-garys-den-le-parfum.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -6397,6 +6492,7 @@
    "slug": "police-to-be-the-king",
    "url": "/fragrances/police-to-be-the-king/",
    "brand": "Police",
+   "house": "Police",
    "name": "TO BE The King Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -6467,11 +6563,12 @@
    "slug": "fomo-a-fragheads-asylum",
    "url": "/fragrances/fomo-a-fragheads-asylum/",
    "brand": "FOMO",
+   "house": "FOMO",
    "name": "A Fraghead's Asylum Extrait de Parfum",
    "concentration": "Extrait de Parfum",
    "images": {
     "bottle": "/assets/bottles/fomo-a-fragheads-asylum.webp",
-    "card": null
+    "card": "/assets/cards/fomo-a-fragheads-asylum.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -6531,11 +6628,12 @@
    "slug": "jo-milano-levante-exclusive",
    "url": "/fragrances/jo-milano-levante-exclusive/",
    "brand": "Jo Milano Paris",
+   "house": "Jo Milano Paris",
    "name": "Levante Exclusive (Perfuadictos Edition)",
    "concentration": "",
    "images": {
     "bottle": "/assets/bottles/jo-milano-levante-exclusive.webp",
-    "card": null
+    "card": "/assets/cards/jo-milano-levante-exclusive.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -6610,7 +6708,8 @@
    "id": "paris-corner-emir-voux-elegante",
    "slug": "paris-corner-emir-voux-elegante",
    "url": "/fragrances/paris-corner-emir-voux-elegante/",
-   "brand": "Emir (Paris Corner)",
+   "brand": "Paris Corner",
+   "house": "Emir (Paris Corner)",
    "name": "Voux Elegante Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -6675,7 +6774,8 @@
    "id": "lattafa-pride-eternal-oud",
    "slug": "lattafa-pride-eternal-oud",
    "url": "/fragrances/lattafa-pride-eternal-oud/",
-   "brand": "Lattafa Pride",
+   "brand": "Lattafa",
+   "house": "Lattafa Pride",
    "name": "Eternal Oud Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -6743,6 +6843,7 @@
    "slug": "lattafa-ejaazi",
    "url": "/fragrances/lattafa-ejaazi/",
    "brand": "Lattafa",
+   "house": "Lattafa",
    "name": "Ejaazi Eau de Parfum (Lil Rijal)",
    "concentration": "Eau de Parfum",
    "images": {
@@ -6816,6 +6917,7 @@
    "slug": "lattafa-khamrah-qahwa",
    "url": "/fragrances/lattafa-khamrah-qahwa/",
    "brand": "Lattafa",
+   "house": "Lattafa",
    "name": "Khamrah Qahwa Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -6884,6 +6986,7 @@
    "slug": "lattafa-asad",
    "url": "/fragrances/lattafa-asad/",
    "brand": "Lattafa",
+   "house": "Lattafa",
    "name": "Asad Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -6952,6 +7055,7 @@
    "slug": "vince-camuto-virtu",
    "url": "/fragrances/vince-camuto-virtu/",
    "brand": "Vince Camuto",
+   "house": "Vince Camuto",
    "name": "Virtu Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -7020,6 +7124,7 @@
    "slug": "velixir-icarus",
    "url": "/fragrances/velixir-icarus/",
    "brand": "Velixir",
+   "house": "Velixir",
    "name": "Icarus Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -7087,11 +7192,12 @@
    "slug": "khadlaj-island-dreams",
    "url": "/fragrances/khadlaj-island-dreams/",
    "brand": "Khadlaj",
+   "house": "Khadlaj",
    "name": "Island Dreams",
    "concentration": "",
    "images": {
     "bottle": "/assets/bottles/khadlaj-island-dreams.webp",
-    "card": null
+    "card": "/assets/cards/khadlaj-island-dreams.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -7148,6 +7254,7 @@
    "slug": "arabiyat-prestige-marwa",
    "url": "/fragrances/arabiyat-prestige-marwa/",
    "brand": "Arabiyat Prestige",
+   "house": "Arabiyat Prestige",
    "name": "Marwa Eau de Parfum",
    "concentration": "Eau de Parfum",
    "images": {
@@ -7215,6 +7322,7 @@
    "slug": "prada-luna-rossa-edt",
    "url": "/fragrances/prada-luna-rossa-edt/",
    "brand": "Prada",
+   "house": "Prada",
    "name": "Luna Rossa Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -7277,6 +7385,7 @@
    "slug": "tru-fragrance-jet-set-black",
    "url": "/fragrances/tru-fragrance-jet-set-black/",
    "brand": "Tru Fragrance & Beauty",
+   "house": "Tru Fragrance & Beauty",
    "name": "002: Jet Set Black Eau de Cologne",
    "concentration": "",
    "images": {
@@ -7325,7 +7434,8 @@
    "id": "manifest-fragrances-confidence",
    "slug": "manifest-fragrances-confidence",
    "url": "/fragrances/manifest-fragrances-confidence/",
-   "brand": "Manifest Fragrances (Tru Fragrance & Beauty)",
+   "brand": "Tru Fragrance & Beauty",
+   "house": "Manifest Fragrances (Tru Fragrance & Beauty)",
    "name": "Confidence Eau de Cologne for Men",
    "concentration": "",
    "images": {
@@ -7376,6 +7486,7 @@
    "slug": "tru-fragrance-amplify",
    "url": "/fragrances/tru-fragrance-amplify/",
    "brand": "Tru Fragrance & Beauty",
+   "house": "Tru Fragrance & Beauty",
    "name": "Amplify Eau de Cologne",
    "concentration": "",
    "images": {
@@ -7419,6 +7530,7 @@
    "slug": "guess-seductive-homme-body-spray",
    "url": "/fragrances/guess-seductive-homme-body-spray/",
    "brand": "Guess",
+   "house": "Guess",
    "name": "Seductive Homme Deodorizing Body Spray",
    "concentration": "",
    "images": {
@@ -7487,6 +7599,7 @@
    "slug": "ford-mustang-red-body-spray",
    "url": "/fragrances/ford-mustang-red-body-spray/",
    "brand": "Ford Mustang",
+   "house": "Ford Mustang",
    "name": "Mustang Red Deodorant Body Spray",
    "concentration": "",
    "images": {
@@ -7549,6 +7662,7 @@
    "slug": "tribute8-elementic-scent-01",
    "url": "/fragrances/tribute8-elementic-scent-01/",
    "brand": "TRiBUTE8",
+   "house": "TRiBUTE8",
    "name": "Elementic Scent 01 (Iso E Super) - Layering Enhancer",
    "concentration": "",
    "images": {
@@ -7556,8 +7670,8 @@
     "card": null
    },
    "attributes": {
-    "type": "dupe or inspired by",
-    "grade": "Gamma",
+    "type": "enhancer",
+    "grade": "Enhancer",
     "year": null,
     "perfumer": null,
     "notes": {
@@ -7583,9 +7697,9 @@
     "randy_rating": null,
     "public_rating": null,
     "overall_rating": null,
-    "max_rating": 21,
+    "max_rating": null,
     "normalized_rating": null,
-    "comment": "Enhancer / layering booster;"
+    "comment": ""
    },
    "reference_link": "https://tribute8.com/products/elementic-scent-01-iso-e-super-100ml",
    "commerce": {
@@ -7598,6 +7712,7 @@
    "slug": "mary-kay-domain",
    "url": "/fragrances/mary-kay-domain/",
    "brand": "Mary Kay",
+   "house": "Mary Kay",
    "name": "Domain Cologne Spray",
    "concentration": "",
    "images": {
@@ -7657,6 +7772,7 @@
    "slug": "aubusson-reserve-44-gunshot-bourbon",
    "url": "/fragrances/aubusson-reserve-44-gunshot-bourbon/",
    "brand": "Aubusson",
+   "house": "Aubusson",
    "name": "Reserve #44 Gunshot & Bourbon Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
@@ -7700,6 +7816,7 @@
    "slug": "aubusson-reserve-22-bitter-orange-rye",
    "url": "/fragrances/aubusson-reserve-22-bitter-orange-rye/",
    "brand": "Aubusson",
+   "house": "Aubusson",
    "name": "Reserve Fragrance No. 22 Bitter Orange & Rye Eau de Toilette",
    "concentration": "Eau de Toilette",
    "images": {
