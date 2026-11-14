@@ -23,7 +23,7 @@
 <div class="wrap">
   <div class="crumbs"><a href="../../">Home</a><span>/</span><a href="../../">Fragrances</a><span>/</span><a href="../../?house=Rasasi">Rasasi</a><span>/</span>Hawas Tropical Eau de Parfum</div>
   <div class="pdp">
-    <div class="gallery"><div class="gmain bottle"><span class="tagstack"><span class="tag tag-future">Future buy</span></span><img id="gimg" src="../../assets/bottles/rasasi-hawas-tropical.webp" alt="Rasasi Hawas Tropical Eau de Parfum bottle"></div><div class="thumbs"></div></div>
+    <div class="gallery"><div class="gmain bottle"><span class="tagstack"><span class="tag tag-future">Future buy</span></span><span class="imgbox"><img id="gimg" src="../../assets/bottles/rasasi-hawas-tropical.webp" alt="Rasasi Hawas Tropical Eau de Parfum bottle"></span></div><div class="thumbs"></div></div>
     <div class="pinfo">
       <a class="pdp-house" href="../../?house=Rasasi">Rasasi</a>
       <h1 class="pdp-name">Hawas Tropical Eau de Parfum</h1>
@@ -94,7 +94,7 @@
 <script>
 document.querySelectorAll('.thumb').forEach(function(b){b.addEventListener('click',function(){
  document.querySelectorAll('.thumb').forEach(function(x){x.classList.remove('on')});b.classList.add('on');
- var g=document.getElementById('gimg');g.src=b.dataset.src;g.parentNode.className='gmain '+b.dataset.kind;})});
+ var g=document.getElementById('gimg');g.src=b.dataset.src;g.closest('.gmain').className='gmain '+b.dataset.kind;})});
 </script></main>
 <footer class="foot"><div class="wrap">
   <div><span class="logo-main sm">TARAGA</span> <span class="muted">Fragrance Collection</span></div>

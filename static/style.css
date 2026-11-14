@@ -249,3 +249,45 @@ button.cal-cell{cursor:pointer}button.cal-cell:hover{background:#fbf8f1}
 .tag-sig .star{font-style:normal;font-family:var(--sans);font-size:10.5px;position:relative;top:-1px}
 .gmain .tagstack .tag.tag-sig{font-size:15.5px;padding:5px 11px 6px}
 .tag.tag-sig.inline{font-size:13.5px}
+
+/* new banner */
+.tag-new{background:linear-gradient(90deg,#0b4a37 0%,#11694e 100%);color:#ecd07a;border:1px solid #c9a24b;box-shadow:0 1px 3px rgba(0,0,0,.18)}
+.tag.tag-new{font-family:var(--serif);font-style:italic;font-weight:700;font-size:14px;letter-spacing:.03em;text-transform:none;line-height:1;padding:4px 9px 5px}
+.tag-new .star{color:#f2cf6b;font-style:normal;font-family:var(--sans);font-size:10.5px;margin-right:5px;position:relative;top:-1px}
+.gmain .tagstack .tag.tag-new{font-size:15.5px;padding:5px 11px 6px}
+.tag.inline.tag-new,.tag.inline.tag-sig{font-size:13.5px}
+.feat-img,.fhero-img{position:relative}
+.feat-img .tagstack .tag,.fhero-img .tagstack .tag{position:static}
+.fs-new,.fs-sig{font-style:italic;font-family:var(--serif);font-weight:700;color:#ecd07a;font-size:13px;margin-left:4px;white-space:nowrap}
+.tagstack.right{left:auto;right:0;align-items:flex-end}
+.gmain .tagstack.right{right:0}
+
+/* New banner v2: plain italic serif text, no box */
+.tag.tag-new{background:none;border:0;box-shadow:none;color:#0c5e45;padding:2px 2px 3px;font-size:16px;letter-spacing:.02em;
+  text-shadow:0 0 2px #fff,0 0 5px rgba(255,255,255,.95),0 0 9px rgba(255,255,255,.8)}
+.tag-new .star{color:#0c5e45;font-size:12px;margin-right:4px}
+.tagstack.right{top:6px;right:6px}
+.gmain .tagstack.right{top:10px;right:10px}
+.gmain .tagstack .tag.tag-new{font-size:19px;padding:2px 3px 3px}
+.feat-img .tagstack.right .tag.tag-new,.fhero-img .tagstack.right .tag.tag-new{font-size:18px}
+.tag.inline.tag-new{font-size:15px;padding:0 2px;text-shadow:none;vertical-align:middle}
+.fs-new{color:#ecd07a;text-shadow:none}
+/* on Randy's card artwork (usually dark): gold text with a soft dark shadow */
+.gmain.card .tag.tag-new,.fhero-img.card .tag.tag-new,.feat-img.card .tag.tag-new{color:#f3d57e;
+  text-shadow:0 1px 2px rgba(0,0,0,.9),0 0 6px rgba(0,0,0,.75),0 0 12px rgba(0,0,0,.5)}
+.gmain.card .tag-new .star,.fhero-img.card .tag-new .star,.feat-img.card .tag-new .star{color:#f3d57e}
+.gmain.card .tagstack.right,.fhero-img.card .tagstack.right,.feat-img.card .tagstack.right{top:10px;right:12px}
+/* New mark sits on the picture's own top-right corner */
+.imgbox{position:relative;display:inline-flex;max-width:100%;line-height:0}
+.imgbox img{display:block;max-width:100%}
+.fhero-img .imgbox img,.feat-img .imgbox img{width:auto}
+.imgbox .tagstack.right{top:8px;right:8px;line-height:1.2}
+/* New mark v3: gold star, ~1.35x the text, word unchanged */
+.tag.tag-new .star,.gmain .tag-new .star,.fhero-img .tag-new .star,.feat-img .tag-new .star,.fs-new .star{
+  font-family:var(--sans);font-style:normal;font-size:1.35em;line-height:0;color:#c9a24b;
+  position:relative;top:.06em;margin-right:.22em;vertical-align:baseline}
+.tag.tag-new .star{text-shadow:0 0 2px #fff,0 0 4px rgba(255,255,255,.9),0 0 1px rgba(110,80,20,.35)}
+.tag.inline.tag-new .star{text-shadow:none}
+.gmain.card .tag-new .star,.fhero-img.card .tag-new .star,.feat-img.card .tag-new .star{color:#f3d57e;
+  text-shadow:0 1px 2px rgba(0,0,0,.9),0 0 6px rgba(0,0,0,.7)}
+.fs-new .star{color:#f3d57e}

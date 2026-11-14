@@ -23,7 +23,7 @@
 <div class="wrap">
   <div class="crumbs"><a href="../../">Home</a><span>/</span><a href="../../">Fragrances</a><span>/</span><a href="../../?house=Acqua di Parma">Acqua di Parma</a><span>/</span>Arancia di Capri</div>
   <div class="pdp">
-    <div class="gallery"><div class="gmain card"><img id="gimg" src="../../assets/cards/acqua-di-parma-arancia-di-capri.webp" alt="Randy&#x27;s card for Acqua di Parma Arancia di Capri"></div><div class="thumbs"><button type="button" class="thumb on" data-src="../../assets/cards/acqua-di-parma-arancia-di-capri.webp" data-kind="card" aria-label="Show card"><img src="../../assets/cards/acqua-di-parma-arancia-di-capri.webp" alt="" loading="lazy"></button><button type="button" class="thumb" data-src="../../assets/bottles/acqua-di-parma-arancia-di-capri.webp" data-kind="bottle" aria-label="Show bottle"><img src="../../assets/bottles/acqua-di-parma-arancia-di-capri.webp" alt="" loading="lazy"></button></div></div>
+    <div class="gallery"><div class="gmain card"><span class="imgbox"><img id="gimg" src="../../assets/cards/acqua-di-parma-arancia-di-capri.webp" alt="Randy&#x27;s card for Acqua di Parma Arancia di Capri"></span></div><div class="thumbs"><button type="button" class="thumb on" data-src="../../assets/cards/acqua-di-parma-arancia-di-capri.webp" data-kind="card" aria-label="Show card"><img src="../../assets/cards/acqua-di-parma-arancia-di-capri.webp" alt="" loading="lazy"></button><button type="button" class="thumb" data-src="../../assets/bottles/acqua-di-parma-arancia-di-capri.webp" data-kind="bottle" aria-label="Show bottle"><img src="../../assets/bottles/acqua-di-parma-arancia-di-capri.webp" alt="" loading="lazy"></button></div></div>
     <div class="pinfo">
       <a class="pdp-house" href="../../?house=Acqua di Parma">Acqua di Parma</a>
       <h1 class="pdp-name">Arancia di Capri</h1>
@@ -94,7 +94,7 @@
 <script>
 document.querySelectorAll('.thumb').forEach(function(b){b.addEventListener('click',function(){
  document.querySelectorAll('.thumb').forEach(function(x){x.classList.remove('on')});b.classList.add('on');
- var g=document.getElementById('gimg');g.src=b.dataset.src;g.parentNode.className='gmain '+b.dataset.kind;})});
+ var g=document.getElementById('gimg');g.src=b.dataset.src;g.closest('.gmain').className='gmain '+b.dataset.kind;})});
 </script></main>
 <footer class="foot"><div class="wrap">
   <div><span class="logo-main sm">TARAGA</span> <span class="muted">Fragrance Collection</span></div>

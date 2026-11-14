@@ -57,6 +57,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": true,
     "randy_rating": 9.5,
     "public_rating": 9,
     "overall_rating": 23.15,
@@ -121,6 +123,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8,
     "public_rating": 9,
     "overall_rating": 17.8,
@@ -200,6 +204,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": true,
+    "is_new": false,
     "randy_rating": 9.75,
     "public_rating": 9,
     "overall_rating": 26.325,
@@ -263,6 +269,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": true,
+    "is_new": false,
     "randy_rating": 9.5,
     "public_rating": 8,
     "overall_rating": 24.65,
@@ -328,6 +336,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8,
     "public_rating": 8,
     "overall_rating": 22.4,
@@ -388,6 +398,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8.75,
     "public_rating": 9,
     "overall_rating": 22.175,
@@ -452,6 +464,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8.75,
     "public_rating": 9,
     "overall_rating": 22.175,
@@ -512,6 +526,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8.75,
     "public_rating": 9,
     "overall_rating": 22.175,
@@ -580,6 +596,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 7,
     "public_rating": 8,
     "overall_rating": 20.9,
@@ -641,6 +659,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 7,
     "public_rating": 8,
     "overall_rating": 20.9,
@@ -704,6 +724,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8.5,
     "public_rating": 9,
     "overall_rating": 24.45,
@@ -769,6 +791,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 9.5,
     "public_rating": 9,
     "overall_rating": 25.95,
@@ -831,6 +855,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8,
     "public_rating": 8,
     "overall_rating": 22.4,
@@ -905,6 +931,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8,
     "public_rating": 9,
     "overall_rating": 23.7,
@@ -966,6 +994,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8,
     "public_rating": 8,
     "overall_rating": 20,
@@ -1033,6 +1063,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 7.5,
     "public_rating": 8,
     "overall_rating": 16.25,
@@ -1097,6 +1129,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 9,
     "public_rating": 8,
     "overall_rating": 21.3,
@@ -1159,6 +1193,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 9,
     "public_rating": 9,
     "overall_rating": 22.5,
@@ -1228,6 +1264,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 7.5,
     "public_rating": 8,
     "overall_rating": 19.35,
@@ -1295,6 +1333,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8,
     "public_rating": 8,
     "overall_rating": 20,
@@ -1362,6 +1402,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8,
     "public_rating": 8,
     "overall_rating": 20,
@@ -1436,6 +1478,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 5.75,
     "public_rating": 8,
     "overall_rating": 17.075,
@@ -1498,6 +1542,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 5.5,
     "public_rating": 8,
     "overall_rating": 16.75,
@@ -1560,6 +1606,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8.25,
     "public_rating": 8,
     "overall_rating": 20.325,
@@ -1623,6 +1671,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": true,
     "randy_rating": 8.25,
     "public_rating": 8,
     "overall_rating": 20.325,
@@ -1690,6 +1740,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8,
     "public_rating": 7,
     "overall_rating": 18.8,
@@ -1756,6 +1808,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8.5,
     "public_rating": 9,
     "overall_rating": 21.85,
@@ -1822,6 +1876,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 9,
     "public_rating": 8,
     "overall_rating": 17.9,
@@ -1884,6 +1940,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8.75,
     "public_rating": 9,
     "overall_rating": 18.625,
@@ -1948,6 +2006,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 7,
     "public_rating": 8,
     "overall_rating": 15.7,
@@ -2016,6 +2076,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 5.75,
     "public_rating": 8,
     "overall_rating": 14.325,
@@ -2082,6 +2144,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8.25,
     "public_rating": 8,
     "overall_rating": 20.325,
@@ -2140,6 +2204,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8.5,
     "public_rating": 8,
     "overall_rating": 20.65,
@@ -2205,6 +2271,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 7.5,
     "public_rating": 8,
     "overall_rating": 19.35,
@@ -2266,6 +2334,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 6.5,
     "public_rating": 8,
     "overall_rating": 18.05,
@@ -2334,6 +2404,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 6.75,
     "public_rating": 8,
     "overall_rating": 18.375,
@@ -2408,6 +2480,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 9,
     "public_rating": 9,
     "overall_rating": 22.5,
@@ -2480,6 +2554,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8.5,
     "public_rating": 8,
     "overall_rating": 20.65,
@@ -2548,6 +2624,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 6.75,
     "public_rating": 8,
     "overall_rating": 15.425,
@@ -2610,6 +2688,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 5.5,
     "public_rating": 8,
     "overall_rating": 14.05,
@@ -2675,6 +2755,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 6.5,
     "public_rating": 8,
     "overall_rating": 15.15,
@@ -2739,6 +2821,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 6.75,
     "public_rating": 8,
     "overall_rating": 15.425,
@@ -2806,6 +2890,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8.5,
     "public_rating": 8,
     "overall_rating": 17.35,
@@ -2874,6 +2960,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8,
     "public_rating": 8,
     "overall_rating": 16.8,
@@ -2936,6 +3024,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 5.5,
     "public_rating": null,
     "overall_rating": null,
@@ -3000,6 +3090,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 6,
     "public_rating": 8,
     "overall_rating": 14.6,
@@ -3067,6 +3159,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 5,
     "public_rating": null,
     "overall_rating": null,
@@ -3133,6 +3227,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": true,
     "randy_rating": 8.75,
     "public_rating": 8,
     "overall_rating": 17.625,
@@ -3198,6 +3294,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 9,
     "public_rating": 8,
     "overall_rating": 17.9,
@@ -3261,6 +3359,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 5.5,
     "public_rating": 8,
     "overall_rating": 14.05,
@@ -3331,6 +3431,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 7.0,
     "public_rating": 8,
     "overall_rating": 15.7,
@@ -3397,6 +3499,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 7.5,
     "public_rating": 8,
     "overall_rating": 19.35,
@@ -3465,6 +3569,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8.5,
     "public_rating": 8,
     "overall_rating": 20.65,
@@ -3527,6 +3633,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 6,
     "public_rating": 9,
     "overall_rating": 15.6,
@@ -3593,6 +3701,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 8.5,
     "public_rating": 8,
     "overall_rating": 17.35,
@@ -3661,6 +3771,8 @@
    },
    "collection": {
     "status": "owned",
+    "signature": false,
+    "is_new": false,
     "randy_rating": 7,
     "public_rating": 8,
     "overall_rating": 15.7,
@@ -3738,6 +3850,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 9,
     "overall_rating": null,
@@ -3803,6 +3917,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 8,
     "overall_rating": null,
@@ -3878,6 +3994,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 7,
     "overall_rating": null,
@@ -3939,6 +4057,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 7,
     "overall_rating": null,
@@ -4005,6 +4125,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 9,
     "overall_rating": null,
@@ -4067,6 +4189,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 9,
     "overall_rating": null,
@@ -4129,6 +4253,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 9,
     "overall_rating": null,
@@ -4190,6 +4316,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 9,
     "overall_rating": null,
@@ -4255,6 +4383,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 8,
     "overall_rating": null,
@@ -4317,6 +4447,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 8,
     "overall_rating": null,
@@ -4382,6 +4514,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 8,
     "overall_rating": null,
@@ -4448,6 +4582,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": null,
     "overall_rating": null,
@@ -4513,6 +4649,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 9,
     "overall_rating": null,
@@ -4576,6 +4714,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 8,
     "overall_rating": null,
@@ -4660,6 +4800,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 9,
     "overall_rating": null,
@@ -4723,6 +4865,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 9,
     "overall_rating": null,
@@ -4791,6 +4935,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 9,
     "overall_rating": null,
@@ -4855,6 +5001,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 9,
     "overall_rating": null,
@@ -4922,6 +5070,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": null,
     "overall_rating": null,
@@ -4985,6 +5135,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 8,
     "overall_rating": null,
@@ -5058,6 +5210,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 9,
     "overall_rating": null,
@@ -5122,6 +5276,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 9,
     "overall_rating": null,
@@ -5182,6 +5338,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 8,
     "overall_rating": null,
@@ -5247,6 +5405,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 8,
     "overall_rating": null,
@@ -5313,6 +5473,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 8,
     "overall_rating": null,
@@ -5380,6 +5542,8 @@
    },
    "collection": {
     "status": "prospective",
+    "signature": false,
+    "is_new": false,
     "randy_rating": null,
     "public_rating": 8,
     "overall_rating": null,

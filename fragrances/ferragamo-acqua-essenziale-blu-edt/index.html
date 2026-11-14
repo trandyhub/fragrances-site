@@ -23,7 +23,7 @@
 <div class="wrap">
   <div class="crumbs"><a href="../../">Home</a><span>/</span><a href="../../">Fragrances</a><span>/</span><a href="../../?house=Salvatore Ferragamo">Salvatore Ferragamo</a><span>/</span>Acqua Essenziale Blu Eau de Toilette</div>
   <div class="pdp">
-    <div class="gallery"><div class="gmain card"><img id="gimg" src="../../assets/cards/ferragamo-acqua-essenziale-blu-edt.webp" alt="Randy&#x27;s card for Salvatore Ferragamo Acqua Essenziale Blu Eau de Toilette"></div><div class="thumbs"><button type="button" class="thumb on" data-src="../../assets/cards/ferragamo-acqua-essenziale-blu-edt.webp" data-kind="card" aria-label="Show card"><img src="../../assets/cards/ferragamo-acqua-essenziale-blu-edt.webp" alt="" loading="lazy"></button><button type="button" class="thumb" data-src="../../assets/bottles/ferragamo-acqua-essenziale-blu-edt.webp" data-kind="bottle" aria-label="Show bottle"><img src="../../assets/bottles/ferragamo-acqua-essenziale-blu-edt.webp" alt="" loading="lazy"></button></div></div>
+    <div class="gallery"><div class="gmain card"><span class="imgbox"><img id="gimg" src="../../assets/cards/ferragamo-acqua-essenziale-blu-edt.webp" alt="Randy&#x27;s card for Salvatore Ferragamo Acqua Essenziale Blu Eau de Toilette"></span></div><div class="thumbs"><button type="button" class="thumb on" data-src="../../assets/cards/ferragamo-acqua-essenziale-blu-edt.webp" data-kind="card" aria-label="Show card"><img src="../../assets/cards/ferragamo-acqua-essenziale-blu-edt.webp" alt="" loading="lazy"></button><button type="button" class="thumb" data-src="../../assets/bottles/ferragamo-acqua-essenziale-blu-edt.webp" data-kind="bottle" aria-label="Show bottle"><img src="../../assets/bottles/ferragamo-acqua-essenziale-blu-edt.webp" alt="" loading="lazy"></button></div></div>
     <div class="pinfo">
       <a class="pdp-house" href="../../?house=Salvatore Ferragamo">Salvatore Ferragamo</a>
       <h1 class="pdp-name">Acqua Essenziale Blu Eau de Toilette</h1>
@@ -62,8 +62,8 @@
     <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:65.0%"></span></span><b>6.5</b></div>
     <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.722</b></span></div>
     <div class="nbar" title="Normalized score N = 0.722"><span style="width:72.2%"></span></div>
-  </div></a></li><li class="pcard" data-house="Chanel" data-grade="Beta" data-status="owned" data-sig="" data-season="fall|winter" data-family="Woody|Aromatic|Citrus" data-rb="9 – 10" data-pb="9 / 10" data-r="9.5" data-p="9" data-n="0.926" data-name="bleu de chanel parfum" data-housename="chanel bleu de chanel parfum" data-added="2026-11-05" data-search="bleu de chanel parfum chanel olivier polge designer beta lemon zest bergamot mint artemisia lavender pineapple geranium green notes sandalwood cedar amberwood iso e super tonka bean bleu de chanel eau de parfum bleu de chanel eau de toilette woody aromatic citrus"><a href="../../fragrances/chanel-bleu-de-chanel-parfum/">
-  <div class="pimg"><img src="../../assets/bottles/chanel-bleu-de-chanel-parfum.webp" alt="Chanel Bleu de Chanel Parfum bottle" loading="lazy" width="400" height="400"></div>
+  </div></a></li><li class="pcard" data-house="Chanel" data-grade="Beta" data-status="owned" data-sig="new" data-season="fall|winter" data-family="Woody|Aromatic|Citrus" data-rb="9 – 10" data-pb="9 / 10" data-r="9.5" data-p="9" data-n="0.926" data-name="bleu de chanel parfum" data-housename="chanel bleu de chanel parfum" data-added="2026-11-05" data-search="bleu de chanel parfum chanel olivier polge designer beta lemon zest bergamot mint artemisia lavender pineapple geranium green notes sandalwood cedar amberwood iso e super tonka bean bleu de chanel eau de parfum bleu de chanel eau de toilette woody aromatic citrus"><a href="../../fragrances/chanel-bleu-de-chanel-parfum/">
+  <div class="pimg"><img src="../../assets/bottles/chanel-bleu-de-chanel-parfum.webp" alt="Chanel Bleu de Chanel Parfum bottle" loading="lazy" width="400" height="400"><span class="tagstack right"><span class="tag tag-new"><span class="star" aria-hidden="true">✦</span>New</span></span></div>
   <div class="pbody">
     <div class="phouse">Chanel</div>
     <div class="pname">Bleu de Chanel Parfum</div>
@@ -94,7 +94,7 @@
 <script>
 document.querySelectorAll('.thumb').forEach(function(b){b.addEventListener('click',function(){
  document.querySelectorAll('.thumb').forEach(function(x){x.classList.remove('on')});b.classList.add('on');
- var g=document.getElementById('gimg');g.src=b.dataset.src;g.parentNode.className='gmain '+b.dataset.kind;})});
+ var g=document.getElementById('gimg');g.src=b.dataset.src;g.closest('.gmain').className='gmain '+b.dataset.kind;})});
 </script></main>
 <footer class="foot"><div class="wrap">
   <div><span class="logo-main sm">TARAGA</span> <span class="muted">Fragrance Collection</span></div>

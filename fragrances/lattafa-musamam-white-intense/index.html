@@ -23,7 +23,7 @@
 <div class="wrap">
   <div class="crumbs"><a href="../../">Home</a><span>/</span><a href="../../">Fragrances</a><span>/</span><a href="../../?house=Lattafa">Lattafa</a><span>/</span>Musamam White Intense Eau de Parfum</div>
   <div class="pdp">
-    <div class="gallery"><div class="gmain bottle"><span class="tagstack"><span class="tag tag-future">Future buy</span></span><img id="gimg" src="../../assets/bottles/lattafa-musamam-white-intense.webp" alt="Lattafa Musamam White Intense Eau de Parfum bottle"></div><div class="thumbs"></div></div>
+    <div class="gallery"><div class="gmain bottle"><span class="tagstack"><span class="tag tag-future">Future buy</span></span><span class="imgbox"><img id="gimg" src="../../assets/bottles/lattafa-musamam-white-intense.webp" alt="Lattafa Musamam White Intense Eau de Parfum bottle"></span></div><div class="thumbs"></div></div>
     <div class="pinfo">
       <a class="pdp-house" href="../../?house=Lattafa">Lattafa</a>
       <h1 class="pdp-name">Musamam White Intense Eau de Parfum</h1>
@@ -53,8 +53,8 @@
     <div class="prate"><span class="lbl">Randy</span><span class="stars" aria-hidden="true"><span style="width:75.0%"></span></span><b>7.5</b></div>
     <div class="prate2"><span>Public <b>8</b></span><span>N <b>0.774</b></span></div>
     <div class="nbar" title="Normalized score N = 0.774"><span style="width:77.4%"></span></div>
-  </div></a></li><li class="pcard" data-house="Lattafa" data-grade="Gamma" data-status="owned" data-sig="" data-season="spring|fall" data-family="Woody|Aromatic|Spicy" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8.75" data-p="8" data-n="0.839" data-name="dynasty eau de parfum" data-housename="lattafa dynasty eau de parfum" data-added="2026-11-12" data-search="dynasty eau de parfum lattafa alex lee inspired by gamma bergamot ginger clary sage raspberry nutmeg rooibos tea suede cedarwood cashmeran amberwood clive christian l red tea vetiver louis vuitton imagination creed silver mountain water / armaf sillage parfums de marly / essential parfums bois impérial woody aromatic spicy"><a href="../../fragrances/lattafa-dynasty/">
-  <div class="pimg"><img src="../../assets/bottles/lattafa-dynasty.webp" alt="Lattafa Dynasty Eau de Parfum bottle" loading="lazy" width="400" height="400"></div>
+  </div></a></li><li class="pcard" data-house="Lattafa" data-grade="Gamma" data-status="owned" data-sig="new" data-season="spring|fall" data-family="Woody|Aromatic|Spicy" data-rb="8 – 8.99" data-pb="8 / 10" data-r="8.75" data-p="8" data-n="0.839" data-name="dynasty eau de parfum" data-housename="lattafa dynasty eau de parfum" data-added="2026-11-12" data-search="dynasty eau de parfum lattafa alex lee inspired by gamma bergamot ginger clary sage raspberry nutmeg rooibos tea suede cedarwood cashmeran amberwood clive christian l red tea vetiver louis vuitton imagination creed silver mountain water / armaf sillage parfums de marly / essential parfums bois impérial woody aromatic spicy"><a href="../../fragrances/lattafa-dynasty/">
+  <div class="pimg"><img src="../../assets/bottles/lattafa-dynasty.webp" alt="Lattafa Dynasty Eau de Parfum bottle" loading="lazy" width="400" height="400"><span class="tagstack right"><span class="tag tag-new"><span class="star" aria-hidden="true">✦</span>New</span></span></div>
   <div class="pbody">
     <div class="phouse">Lattafa</div>
     <div class="pname">Dynasty Eau de Parfum</div>
@@ -94,7 +94,7 @@
 <script>
 document.querySelectorAll('.thumb').forEach(function(b){b.addEventListener('click',function(){
  document.querySelectorAll('.thumb').forEach(function(x){x.classList.remove('on')});b.classList.add('on');
- var g=document.getElementById('gimg');g.src=b.dataset.src;g.parentNode.className='gmain '+b.dataset.kind;})});
+ var g=document.getElementById('gimg');g.src=b.dataset.src;g.closest('.gmain').className='gmain '+b.dataset.kind;})});
 </script></main>
 <footer class="foot"><div class="wrap">
   <div><span class="logo-main sm">TARAGA</span> <span class="muted">Fragrance Collection</span></div>
