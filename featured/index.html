@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Today&#x27;s Featured · Taraga Fragrance Collection</title>
+<meta name="description" content="The fragrances Randy is wearing today.">
+<meta property="og:title" content="Today&#x27;s Featured · Taraga Fragrance Collection"><meta property="og:site_name" content="Taraga Fragrance Collection"><meta property="og:description" content="The fragrances Randy is wearing today.">
+<link rel="icon" href="../static/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../static/style.css">
+
+</head><body>
+<div class="topbar">Randy G&#x27;s fragrance collection, notes and ratings</div>
+<header class="masthead"><div class="wrap mh">
+  <a class="logo" href="../"><span class="logo-main">TARAGA</span><span class="logo-sub">Fragrance Collection</span></a>
+  <form class="search" action="../" method="get" role="search">
+    <input type="search" name="q" id="q" placeholder="Search by name, house, note or perfumer" autocomplete="off" aria-label="Search">
+    <button type="submit" aria-label="Search"><svg viewBox="0 0 24 24" width="18" height="18"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+  </form>
+</div>
+<nav class="catnav"><div class="wrap"><a href="../" data-k="catalogue">Catalogue</a><a href="../featured/" data-k="featured" class=on>Today&#x27;s Featured</a><a href="../?grade=Alpha" data-k="Alpha">Niche</a><a href="../?grade=Beta" data-k="Beta">Designer</a><a href="../?grade=Gamma" data-k="Gamma">Inspired by</a><a href="../?status=prospective" data-k="prospective">Future buys</a><a href="../rating-formula/" data-k="formula">Rating formula</a></div></nav></header>
+<main>
+<div class="wrap" style="--th-bg1:#46181e;--th-bg2:#7a4016;--th-acc:#e8b25c;--th-fg:#ffffff;--th-muted:#e2d5cc;--th-ink:#8d6d37;--th-tint:rgba(122,64,22,.07)">
+  <div class="crumbs"><a href="../">Home</a><span>/</span>Today's Featured</div>
+  <div class="feat-head themed-head"><h1>Today's Featured</h1><p class="feat-date">Saturday, November 14, 2026</p>
+  <p class="lede">The fragrances Randy is wearing today: his cologne of the day, and when he picks them, a workout scent and a night-time scent.</p></div>
+  <div class="feat-empty"><div class="fe-icon">✦</div><h2>Today's picks are coming soon</h2>
+<p>Randy's cologne of the day, plus his workout and night-time scents, will appear here once they're chosen.</p>
+<a class="btn-outline" href="../">Browse the catalogue</a></div>
+  
+<section class="cal" id="cal" aria-label="Fragrance calendar">
+  <div class="cal-head">
+    <h2>What Randy wore</h2>
+    <div class="cal-nav"><button type="button" id="calPrev" aria-label="Previous month">‹</button>
+    <span id="calTitle"></span><button type="button" id="calNext" aria-label="Next month">›</button></div>
+  </div>
+  <div class="cal-legend"><span><i class="lg day"></i>Cologne of the Day</span><span><i class="lg gym"></i>Workout</span><span><i class="lg sleep"></i>Night Time</span></div>
+  <div class="cal-grid" id="calGrid"></div>
+  <div class="cal-detail" id="calDetail" hidden></div>
+</section>
+</div>
+<script type="application/json" id="calData">{}</script>
+
+<script>
+(function(){
+var D=JSON.parse(document.getElementById('calData').textContent),ROOT='../';
+var LBL={day:'Cologne of the Day',gym:'Workout',sleep:'Night Time'},ORDER=['day','gym','sleep'];
+function nyToday(){var p=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());return p}
+var today=nyToday(),cur=new Date(+today.slice(0,4),+today.slice(5,7)-1,1),sel=null;
+function iso(y,m,d){return y+'-'+String(m+1).padStart(2,'0')+'-'+String(d).padStart(2,'0')}
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function render(){
+  var y=cur.getFullYear(),m=cur.getMonth();
+  document.getElementById('calTitle').textContent=cur.toLocaleString('en-US',{month:'long',year:'numeric'});
+  var g=document.getElementById('calGrid'),h='';
+  ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'].forEach(function(w){h+='<div class="cal-dow">'+w+'</div>'});
+  var first=new Date(y,m,1).getDay(),n=new Date(y,m+1,0).getDate();
+  for(var i=0;i<first;i++)h+='<div class="cal-cell blank"></div>';
+  for(var d=1;d<=n;d++){var k=iso(y,m,d),rec=D[k],cls='cal-cell'+(k===today?' today':'')+(rec?' has':'')+(k===sel?' sel':'');
+    var th='';if(rec)ORDER.forEach(function(s){var p=rec[s];if(p)th+='<span class="ct '+s+'" title="'+esc(LBL[s]+': '+p.house+' '+p.name)+'">'+(p.img?'<img src="'+ROOT+p.img+'" alt="">':esc(p.ini))+'</span>'});
+    h+=rec?'<button type="button" class="'+cls+'" data-k="'+k+'"><span class="cd">'+d+'</span><span class="cts">'+th+'</span></button>':'<div class="'+cls+'"><span class="cd">'+d+'</span></div>'}
+  g.innerHTML=h;
+  g.querySelectorAll('button.cal-cell').forEach(function(b){b.onclick=function(){sel=b.dataset.k;render();show(sel)}});
+}
+function show(k){var rec=D[k],box=document.getElementById('calDetail');if(!rec){box.hidden=true;return}
+  var dt=new Date(+k.slice(0,4),+k.slice(5,7)-1,+k.slice(8,10));
+  var h='<h3>'+dt.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'})+'</h3><div class="cd-picks">';
+  ORDER.forEach(function(s){var p=rec[s];if(!p)return;
+    h+='<a class="cd-pick '+s+'" href="'+ROOT+p.url+'">'+(p.img?'<img src="'+ROOT+p.img+'" alt="">':'<span class="cd-ini">'+esc(p.ini)+'</span>')+
+    '<span><small>'+LBL[s]+'</small><b>'+esc(p.house)+'</b> '+esc(p.name)+(p.r!=null?'<em>Randy '+p.r+'/10</em>':'')+'</span></a>'});
+  box.innerHTML=h+'</div>';box.hidden=false}
+document.getElementById('calPrev').onclick=function(){cur=new Date(cur.getFullYear(),cur.getMonth()-1,1);render()};
+document.getElementById('calNext').onclick=function(){cur=new Date(cur.getFullYear(),cur.getMonth()+1,1);render()};
+render();if(D[today]){sel=today;render();show(today)}
+})();
+</script></main>
+<footer class="foot"><div class="wrap">
+  <div><span class="logo-main sm">TARAGA</span> <span class="muted">Fragrance Collection</span></div>
+  <p class="muted">Randy G&#x27;s fragrance collection, notes and ratings. Notes and public ratings are drawn from Fragrantica and Parfumo; personal ratings are Randy's own.
+  Bottle photos belong to their brands and retailers.</p>
+</div></footer>
+</body></html>
