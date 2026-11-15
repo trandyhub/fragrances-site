@@ -3852,7 +3852,7 @@
    "concentration": "Parfum",
    "images": {
     "bottle": "/assets/bottles/roja-elysium-pour-homme-parfum-cologne.webp",
-    "card": null
+    "card": "/assets/cards/roja-elysium-pour-homme-parfum-cologne.webp"
    },
    "attributes": {
     "type": "niche",
@@ -4000,7 +4000,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/roja-elysium-noir.webp",
-    "card": null
+    "card": "/assets/cards/roja-elysium-noir.webp"
    },
    "attributes": {
     "type": "niche",
@@ -4142,7 +4142,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/maison-asrar-belgravia.webp",
-    "card": null
+    "card": "/assets/cards/maison-asrar-belgravia.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -4211,7 +4211,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/ysl-myslf-edp.webp",
-    "card": null
+    "card": "/assets/cards/ysl-myslf-edp.webp"
    },
    "attributes": {
     "type": "designer",
@@ -4276,7 +4276,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/ysl-babycat-raw-bourbon.webp",
-    "card": null
+    "card": "/assets/cards/ysl-babycat-raw-bourbon.webp"
    },
    "attributes": {
     "type": "designer",
@@ -4473,7 +4473,7 @@
    "concentration": "Parfum",
    "images": {
     "bottle": "/assets/bottles/ysl-myslf-le-parfum.webp",
-    "card": null
+    "card": "/assets/cards/ysl-myslf-le-parfum.webp"
    },
    "attributes": {
     "type": "designer",
@@ -4538,7 +4538,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/lattafa-musamam-white-intense.webp",
-    "card": null
+    "card": "/assets/cards/lattafa-musamam-white-intense.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -4675,7 +4675,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/xerjoff-naxos.webp",
-    "card": null
+    "card": "/assets/cards/xerjoff-naxos.webp"
    },
    "attributes": {
     "type": "niche",
@@ -4809,7 +4809,7 @@
    "concentration": "Parfum",
    "images": {
     "bottle": "/assets/bottles/roja-isola-blu-parfum.webp",
-    "card": null
+    "card": "/assets/cards/roja-isola-blu-parfum.webp"
    },
    "attributes": {
     "type": "niche",
@@ -4896,7 +4896,7 @@
    "concentration": "Extrait de Parfum",
    "images": {
     "bottle": "/assets/bottles/tumi-19-degree.webp",
-    "card": null
+    "card": "/assets/cards/tumi-19-degree.webp"
    },
    "attributes": {
     "type": "designer",
@@ -4962,7 +4962,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/sospiro-vibrato.webp",
-    "card": null
+    "card": "/assets/cards/sospiro-vibrato.webp"
    },
    "attributes": {
     "type": "niche",
@@ -5236,7 +5236,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/roja-burlington-1819.webp",
-    "card": null
+    "card": "/assets/cards/roja-burlington-1819.webp"
    },
    "attributes": {
     "type": "niche",
@@ -5312,7 +5312,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/rasasi-hawas-tropical.webp",
-    "card": null
+    "card": "/assets/cards/rasasi-hawas-tropical.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -5442,7 +5442,7 @@
    "concentration": "Extrait de Parfum",
    "images": {
     "bottle": "/assets/bottles/nishane-hacivat.webp",
-    "card": null
+    "card": "/assets/cards/nishane-hacivat.webp"
    },
    "attributes": {
     "type": "niche",
@@ -5579,7 +5579,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/parfums-de-marly-perseus.webp",
-    "card": null
+    "card": "/assets/cards/parfums-de-marly-perseus.webp"
    },
    "attributes": {
     "type": "niche",
@@ -5717,7 +5717,7 @@
    "concentration": "Eau de Toilette",
    "images": {
     "bottle": "/assets/bottles/panama-jack-for-him.webp",
-    "card": null
+    "card": "/assets/cards/panama-jack-for-him.webp"
    },
    "attributes": {
     "type": "designer",
@@ -5850,7 +5850,7 @@
    "concentration": "",
    "images": {
     "bottle": null,
-    "card": null
+    "card": "/assets/cards/whiskey-and-leather-cypress-and-sage.webp"
    },
    "attributes": {
     "type": "designer",
@@ -5906,7 +5906,7 @@
    "concentration": "",
    "images": {
     "bottle": null,
-    "card": null
+    "card": "/assets/cards/tuscan-vetiver-eau-de-cologne.webp"
    },
    "attributes": {
     "type": "designer",
@@ -5964,7 +5964,7 @@
    "concentration": "Eau de Toilette",
    "images": {
     "bottle": "/assets/bottles/nautica-voyage-edt.webp",
-    "card": null
+    "card": "/assets/cards/nautica-voyage-edt.webp"
    },
    "attributes": {
     "type": "designer",
@@ -6029,7 +6029,7 @@
    "concentration": "",
    "images": {
     "bottle": "/assets/bottles/emberforge-eau-de-cologne.webp",
-    "card": null
+    "card": "/assets/cards/emberforge-eau-de-cologne.webp"
    },
    "attributes": {
     "type": "designer",
@@ -6076,7 +6076,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/ministry-of-gourmand-coconut-lagoon.webp",
-    "card": null
+    "card": "/assets/cards/ministry-of-gourmand-coconut-lagoon.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -6295,7 +6295,7 @@
    "concentration": "Extrait de Parfum",
    "images": {
     "bottle": "/assets/bottles/prince-parfums-story-of-majestic-oudh.webp",
-    "card": null
+    "card": "/assets/cards/prince-parfums-story-of-majestic-oudh.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -6497,7 +6497,7 @@
    "concentration": "Eau de Toilette",
    "images": {
     "bottle": "/assets/bottles/police-to-be-the-king.webp",
-    "card": null
+    "card": "/assets/cards/police-to-be-the-king.webp"
    },
    "attributes": {
     "type": "designer",
@@ -6780,7 +6780,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/lattafa-pride-eternal-oud.webp",
-    "card": null
+    "card": "/assets/cards/lattafa-pride-eternal-oud.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -6848,7 +6848,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/lattafa-ejaazi.webp",
-    "card": null
+    "card": "/assets/cards/lattafa-ejaazi.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -6922,7 +6922,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/lattafa-khamrah-qahwa.webp",
-    "card": null
+    "card": "/assets/cards/lattafa-khamrah-qahwa.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -6991,7 +6991,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/lattafa-asad.webp",
-    "card": null
+    "card": "/assets/cards/lattafa-asad.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -7060,7 +7060,7 @@
    "concentration": "Eau de Toilette",
    "images": {
     "bottle": "/assets/bottles/vince-camuto-virtu.webp",
-    "card": null
+    "card": "/assets/cards/vince-camuto-virtu.webp"
    },
    "attributes": {
     "type": "designer",
@@ -7129,7 +7129,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/velixir-icarus.webp",
-    "card": null
+    "card": "/assets/cards/velixir-icarus.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -7327,7 +7327,7 @@
    "concentration": "Eau de Toilette",
    "images": {
     "bottle": "/assets/bottles/prada-luna-rossa-edt.webp",
-    "card": null
+    "card": "/assets/cards/prada-luna-rossa-edt.webp"
    },
    "attributes": {
     "type": "designer",
@@ -7390,7 +7390,7 @@
    "concentration": "",
    "images": {
     "bottle": "/assets/bottles/tru-fragrance-jet-set-black.webp",
-    "card": null
+    "card": "/assets/cards/tru-fragrance-jet-set-black.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -7440,7 +7440,7 @@
    "concentration": "",
    "images": {
     "bottle": "/assets/bottles/manifest-fragrances-confidence.webp",
-    "card": null
+    "card": "/assets/cards/manifest-fragrances-confidence.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -7491,7 +7491,7 @@
    "concentration": "",
    "images": {
     "bottle": "/assets/bottles/tru-fragrance-amplify.webp",
-    "card": null
+    "card": "/assets/cards/tru-fragrance-amplify.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -7535,7 +7535,7 @@
    "concentration": "",
    "images": {
     "bottle": "/assets/bottles/guess-seductive-homme-body-spray.webp",
-    "card": null
+    "card": "/assets/cards/guess-seductive-homme-body-spray.webp"
    },
    "attributes": {
     "type": "designer",
@@ -7604,7 +7604,7 @@
    "concentration": "",
    "images": {
     "bottle": "/assets/bottles/ford-mustang-red-body-spray.webp",
-    "card": null
+    "card": "/assets/cards/ford-mustang-red-body-spray.webp"
    },
    "attributes": {
     "type": "designer",
@@ -7667,7 +7667,7 @@
    "concentration": "",
    "images": {
     "bottle": "/assets/bottles/tribute8-elementic-scent-01.webp",
-    "card": null
+    "card": "/assets/cards/tribute8-elementic-scent-01.webp"
    },
    "attributes": {
     "type": "enhancer",
@@ -7717,7 +7717,7 @@
    "concentration": "",
    "images": {
     "bottle": "/assets/bottles/mary-kay-domain.webp",
-    "card": null
+    "card": "/assets/cards/mary-kay-domain.webp"
    },
    "attributes": {
     "type": "designer",
@@ -7777,7 +7777,7 @@
    "concentration": "Eau de Toilette",
    "images": {
     "bottle": "/assets/bottles/aubusson-reserve-44-gunshot-bourbon.webp",
-    "card": null
+    "card": "/assets/cards/aubusson-reserve-44-gunshot-bourbon.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -7821,7 +7821,7 @@
    "concentration": "Eau de Toilette",
    "images": {
     "bottle": "/assets/bottles/aubusson-reserve-22-bitter-orange-rye.webp",
-    "card": null
+    "card": "/assets/cards/aubusson-reserve-22-bitter-orange-rye.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
