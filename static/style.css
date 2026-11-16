@@ -299,3 +299,8 @@ button.cal-cell{cursor:pointer}button.cal-cell:hover{background:#fbf8f1}
 /* Brand filter search box */
 .fsearch{width:100%;box-sizing:border-box;margin:0 0 8px;padding:7px 10px;font:inherit;font-size:13px;border:1px solid var(--line);border-radius:6px;background:transparent;color:inherit}
 .fopt.fhide{display:none}
+.nrange{padding:2px 0 12px}
+.nhead{display:flex;justify-content:space-between;font-size:13.5px;margin-bottom:6px}
+.nrange input[type=range]{width:100%;accent-color:var(--navy);margin:0}
+.nscale{display:flex;justify-content:space-between;color:var(--muted);font-size:11.5px;margin-top:2px}
+.nnote{color:var(--muted);font-size:12px;margin:6px 0 0;line-height:1.4}

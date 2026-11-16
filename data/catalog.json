@@ -1,7 +1,7 @@
 {
  "generated": "2026-11-15",
  "site": "fragrances.taraga.net",
- "count": 117,
+ "count": 120,
  "products": [
   {
    "id": "chanel-bleu-de-chanel-parfum",
@@ -1837,11 +1837,11 @@
     "status": "owned",
     "signature": false,
     "is_new": false,
-    "randy_rating": 8.5,
+    "randy_rating": 9,
     "public_rating": 9,
-    "overall_rating": 21.85,
+    "overall_rating": 22.5,
     "max_rating": 25,
-    "normalized_rating": 0.874,
+    "normalized_rating": 0.9,
     "comment": ""
    },
    "reference_link": "https://www.fragrantica.com/perfume/Giorgio-Armani/Emporio-Armani-Stronger-With-You-Intensely-52802.html",
@@ -2519,11 +2519,11 @@
     "status": "owned",
     "signature": false,
     "is_new": false,
-    "randy_rating": 9,
+    "randy_rating": 9.25,
     "public_rating": 9,
-    "overall_rating": 22.5,
+    "overall_rating": 22.825,
     "max_rating": 25,
-    "normalized_rating": 0.9,
+    "normalized_rating": 0.913,
     "comment": ""
    },
    "reference_link": "https://www.fragrantica.com/perfume/Chanel/Bleu-de-Chanel-Eau-de-Parfum-25967.html",
@@ -7850,6 +7850,200 @@
     "comment": ""
    },
    "reference_link": "",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "creed-iris-debonair",
+   "slug": "creed-iris-debonair",
+   "url": "/fragrances/creed-iris-debonair/",
+   "brand": "Creed",
+   "house": "Creed",
+   "name": "Iris Debonair Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/creed-iris-debonair.webp",
+    "card": "/assets/cards/creed-iris-debonair.webp"
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2026,
+    "perfumer": "Alberto Morillas, Nicolas Bonneville and Gabriela Chelariu (dsm-firmenich)",
+    "notes": {
+     "top": [
+      "bergamot",
+      "wormwood",
+      "pink pepper",
+      "cardamom"
+     ],
+     "heart": [
+      "lavender",
+      "violet leaf",
+      "fig"
+     ],
+     "base": [
+      "iris pallida",
+      "amberwood",
+      "ambrette"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Woody",
+     "Spicy"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "Dior Homme Intense",
+     "Dior Homme Parfum",
+     "BDK Gris Charnel"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 28,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Creed/Iris-Debonair-140448.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "valentino-uomo-born-in-roma-extradose",
+   "slug": "valentino-uomo-born-in-roma-extradose",
+   "url": "/fragrances/valentino-uomo-born-in-roma-extradose/",
+   "brand": "Valentino",
+   "house": "Valentino",
+   "name": "Uomo Born in Roma Extradose Parfum",
+   "concentration": "Parfum",
+   "images": {
+    "bottle": "/assets/bottles/valentino-uomo-born-in-roma-extradose.webp",
+    "card": "/assets/cards/valentino-uomo-born-in-roma-extradose.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2025,
+    "perfumer": "Guillaume Flavigny and Antoine Maisondieu (Givaudan), per Parfumo",
+    "notes": {
+     "top": [
+      "spices",
+      "bergamot",
+      "mandarin orange"
+     ],
+     "heart": [
+      "lavender",
+      "salty notes"
+     ],
+     "base": [
+      "vetiver",
+      "guaiac wood"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Aquatic",
+     "Citrus"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Valentino Uomo Born in Roma Intense",
+     "Valentino Uomo Born in Roma"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Valentino/Born-in-Roma-Extradose-Uomo-101383.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "chanel-bleu-de-chanel-lexclusif",
+   "slug": "chanel-bleu-de-chanel-lexclusif",
+   "url": "/fragrances/chanel-bleu-de-chanel-lexclusif/",
+   "brand": "Chanel",
+   "house": "Chanel",
+   "name": "Bleu de Chanel L'Exclusif",
+   "concentration": "",
+   "images": {
+    "bottle": "/assets/bottles/chanel-bleu-de-chanel-lexclusif.webp",
+    "card": "/assets/cards/chanel-bleu-de-chanel-lexclusif.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2025,
+    "perfumer": "Olivier Polge",
+    "notes": {
+     "top": [],
+     "heart": [],
+     "base": [
+      "amber",
+      "sandalwood",
+      "labdanum",
+      "leather",
+      "cedar",
+      "lavender",
+      "woody notes"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Amber",
+     "Leather"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Chanel Bleu de Chanel Parfum",
+     "Rayhaan Nocturno Elixir"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Chanel/Bleu-de-Chanel-L-Exclusif-113429.html",
    "commerce": {
     "sellable": false,
     "variants": []
