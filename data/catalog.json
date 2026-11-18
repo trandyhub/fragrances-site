@@ -1,7 +1,7 @@
 {
  "generated": "2026-11-17",
  "site": "fragrances.taraga.net",
- "count": 120,
+ "count": 121,
  "products": [
   {
    "id": "chanel-bleu-de-chanel-parfum",
@@ -8044,6 +8044,74 @@
     "comment": ""
    },
    "reference_link": "https://www.fragrantica.com/perfume/Chanel/Bleu-de-Chanel-L-Exclusif-113429.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "bujairami-too-damn-good",
+   "slug": "bujairami-too-damn-good",
+   "url": "/fragrances/bujairami-too-damn-good/",
+   "brand": "Bujairami",
+   "house": "Bujairami",
+   "name": "Too Damn Good Extrait de Parfum",
+   "concentration": "Extrait de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/bujairami-too-damn-good.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2026,
+    "perfumer": "Adam Bujairami",
+    "notes": {
+     "top": [
+      "blackcurrant",
+      "bergamot",
+      "lemon"
+     ],
+     "heart": [
+      "praline",
+      "musk",
+      "violet"
+     ],
+     "base": [
+      "black amber",
+      "cedarwood",
+      "vetiver"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Citrus",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Byredo Bal d'Afrique Absolu de Parfum",
+     "Khadlaj Gold Absolu",
+     "Maison Asrar Belgravia",
+     "Byredo Bal d'Afrique Eau de Parfum"
+    ],
+    "inspired_by": "Byredo Bal d'Afrique Absolu de Parfum"
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 8.5,
+    "public_rating": 9,
+    "overall_rating": 18.35,
+    "max_rating": 21,
+    "normalized_rating": 0.874,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Bujairami/Too-Damn-Good-135313.html",
    "commerce": {
     "sellable": false,
     "variants": []
