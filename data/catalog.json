@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-17",
+ "generated": "2026-11-18",
  "site": "fragrances.taraga.net",
- "count": 121,
+ "count": 128,
  "products": [
   {
    "id": "chanel-bleu-de-chanel-parfum",
@@ -8059,7 +8059,7 @@
    "concentration": "Extrait de Parfum",
    "images": {
     "bottle": "/assets/bottles/bujairami-too-damn-good.webp",
-    "card": null
+    "card": "/assets/cards/bujairami-too-damn-good.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -8112,6 +8112,488 @@
     "comment": ""
    },
    "reference_link": "https://www.fragrantica.com/perfume/Bujairami/Too-Damn-Good-135313.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "paris-corner-taskeen-wowie",
+   "slug": "paris-corner-taskeen-wowie",
+   "url": "/fragrances/paris-corner-taskeen-wowie/",
+   "brand": "Paris Corner",
+   "house": "Paris Corner",
+   "name": "Taskeen Wowie Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/paris-corner-taskeen-wowie.webp",
+    "card": "/assets/cards/paris-corner-taskeen-wowie.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2025,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "orange",
+      "mandarin orange",
+      "aldehydes"
+     ],
+     "heart": [
+      "cinnamon",
+      "rum",
+      "orris"
+     ],
+     "base": [
+      "caramel",
+      "butter",
+      "tonka bean"
+     ]
+    },
+    "families": [
+     "Sweet",
+     "Citrus",
+     "Spicy"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Roja Parfums Lost in Paris",
+     "The Dua Brand Wanderlust in Paris"
+    ],
+    "inspired_by": "Roja Parfums Lost in Paris"
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 7,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/PARIS-CORNER/Taskeen-Wowie-119819.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "ex-nihilo-blue-talisman",
+   "slug": "ex-nihilo-blue-talisman",
+   "url": "/fragrances/ex-nihilo-blue-talisman/",
+   "brand": "Ex Nihilo",
+   "house": "Ex Nihilo",
+   "name": "Blue Talisman Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/ex-nihilo-blue-talisman.webp",
+    "card": "/assets/cards/ex-nihilo-blue-talisman.webp"
+   },
+   "attributes": {
+    "type": "niche",
+    "grade": "Alpha",
+    "year": 2023,
+    "perfumer": "Jordi Fernández (Givaudan)",
+    "notes": {
+     "top": [
+      "pear",
+      "bergamot",
+      "mandarin orange",
+      "ginger"
+     ],
+     "heart": [
+      "orange blossom",
+      "Georgywood"
+     ],
+     "base": [
+      "musk",
+      "Ambrofix",
+      "Akigalawood",
+      "cedar"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Citrus",
+     "Musky"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Ex Nihilo Blue Talisman Extrait de Parfum",
+     "Maison Asrar Legacy",
+     "Velixir Icarus",
+     "Maison Alhambra True Word",
+     "Rasasi Hawas Sapphire"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 28,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Ex-Nihilo/Blue-Talisman-84224.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "versace-eros-flame-edp",
+   "slug": "versace-eros-flame-edp",
+   "url": "/fragrances/versace-eros-flame-edp/",
+   "brand": "Versace",
+   "house": "Versace",
+   "name": "Eros Flame Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/versace-eros-flame-edp.webp",
+    "card": "/assets/cards/versace-eros-flame-edp.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2018,
+    "perfumer": "Olivier Pescheux",
+    "notes": {
+     "top": [
+      "mandarin orange",
+      "chinotto",
+      "lemon",
+      "Madagascar pepper",
+      "rosemary"
+     ],
+     "heart": [
+      "pepperwood",
+      "geranium",
+      "rose"
+     ],
+     "base": [
+      "tonka bean",
+      "vanilla",
+      "patchouli",
+      "sandalwood",
+      "Texas cedar",
+      "vetiver",
+      "oakmoss"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Sweet",
+     "Spicy"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Versace Eros Eau de Toilette",
+     "Versace Eros Eau de Parfum",
+     "Maison Alhambra Jubilant Rouge",
+     "Fragrance World Des Tentations Flame",
+     "Bujairami La Flame"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Versace/Eros-Flame-52180.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "tom-ford-tobacco-vanille",
+   "slug": "tom-ford-tobacco-vanille",
+   "url": "/fragrances/tom-ford-tobacco-vanille/",
+   "brand": "Tom Ford",
+   "house": "Tom Ford",
+   "name": "Tobacco Vanille Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/tom-ford-tobacco-vanille.webp",
+    "card": "/assets/cards/tom-ford-tobacco-vanille.webp"
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2007,
+    "perfumer": "Olivier Gillotin",
+    "notes": {
+     "top": [
+      "tobacco leaf",
+      "spicy notes"
+     ],
+     "heart": [
+      "vanilla",
+      "cacao",
+      "tonka bean",
+      "tobacco blossom"
+     ],
+     "base": [
+      "dried fruits",
+      "woody notes"
+     ]
+    },
+    "families": [
+     "Sweet",
+     "Fruity",
+     "Woody"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Maison Alhambra Eternal Touch / Tobacco Touch",
+     "Al Haramain Amber Oud Tobacco Edition",
+     "Phaedon Tabac Rouge",
+     "Lou de Pre Amber Flame"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 25,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Tom-Ford/Tobacco-Vanille-1825.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "riiffs-zenith",
+   "slug": "riiffs-zenith",
+   "url": "/fragrances/riiffs-zenith/",
+   "brand": "Riiffs",
+   "house": "Riiffs",
+   "name": "Zenith Extrait de Parfum",
+   "concentration": "Extrait de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/riiffs-zenith.webp",
+    "card": "/assets/cards/riiffs-zenith.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2025,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "vanilla",
+      "coconut",
+      "whipped cream"
+     ],
+     "heart": [
+      "rum",
+      "saffron"
+     ],
+     "base": [
+      "vanilla",
+      "musk",
+      "cashmeran",
+      "tonka bean"
+     ]
+    },
+    "families": [
+     "Sweet",
+     "Musky",
+     "Woody"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Mind Games Queening",
+     "Commodity Milk Orchid"
+    ],
+    "inspired_by": "Mind Games Queening"
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Riiffs-Perfumes/Zenith-124649.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "rasasi-hawas-sapphire",
+   "slug": "rasasi-hawas-sapphire",
+   "url": "/fragrances/rasasi-hawas-sapphire/",
+   "brand": "Rasasi",
+   "house": "Rasasi",
+   "name": "Hawas Sapphire Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/rasasi-hawas-sapphire.webp",
+    "card": "/assets/cards/rasasi-hawas-sapphire.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2026,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "guava",
+      "blackcurrant",
+      "bergamot"
+     ],
+     "heart": [
+      "orange blossom",
+      "sandalwood"
+     ],
+     "base": [
+      "musk",
+      "tonka bean",
+      "ambergris"
+     ]
+    },
+    "families": [
+     "Musky",
+     "Sweet",
+     "Floral"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Ex Nihilo Blue Talisman",
+     "Ex Nihilo Demon Dancer",
+     "Lattafa Pride Art of Universe",
+     "Afnan Turathi Electric",
+     "Rasasi Hawas Ice / Hawas For Him"
+    ],
+    "inspired_by": "Ex Nihilo Blue Talisman"
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Sapphire-136382.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "armaf-club-de-nuit-intense-man-extrait",
+   "slug": "armaf-club-de-nuit-intense-man-extrait",
+   "url": "/fragrances/armaf-club-de-nuit-intense-man-extrait/",
+   "brand": "Armaf",
+   "house": "Armaf",
+   "name": "Club de Nuit Intense Man Extrait de Parfum",
+   "concentration": "Extrait de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/armaf-club-de-nuit-intense-man-extrait.webp",
+    "card": "/assets/cards/armaf-club-de-nuit-intense-man-extrait.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2025,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "pineapple",
+      "lemon",
+      "bergamot",
+      "blackcurrant",
+      "apple"
+     ],
+     "heart": [
+      "birch",
+      "rose",
+      "jasmine"
+     ],
+     "base": [
+      "patchouli",
+      "vanilla",
+      "ambergris",
+      "musk"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Fruity",
+     "Floral"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Creed Aventus",
+     "Armaf Club de Nuit Intense Man Limited Edition",
+     "Armaf Club de Nuit Intense Man Eau de Toilette"
+    ],
+    "inspired_by": "Creed Aventus"
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 9,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Armaf/Club-De-Nuit-Intense-Man-Extrait-102813.html",
    "commerce": {
     "sellable": false,
     "variants": []
