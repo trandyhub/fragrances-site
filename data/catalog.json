@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-18",
+ "generated": "2026-11-19",
  "site": "fragrances.taraga.net",
- "count": 128,
+ "count": 132,
  "products": [
   {
    "id": "chanel-bleu-de-chanel-parfum",
@@ -8109,7 +8109,7 @@
     "overall_rating": 18.35,
     "max_rating": 21,
     "normalized_rating": 0.874,
-    "comment": ""
+    "comment": "Wore it to sleep the night of Wednesday November 18, 2026."
    },
    "reference_link": "https://www.fragrantica.com/perfume/Bujairami/Too-Damn-Good-135313.html",
    "commerce": {
@@ -8594,6 +8594,280 @@
     "comment": ""
    },
    "reference_link": "https://www.fragrantica.com/perfume/Armaf/Club-De-Nuit-Intense-Man-Extrait-102813.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "rasasi-hawas-chrome",
+   "slug": "rasasi-hawas-chrome",
+   "url": "/fragrances/rasasi-hawas-chrome/",
+   "brand": "Rasasi",
+   "house": "Rasasi",
+   "name": "Hawas Chrome Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/rasasi-hawas-chrome.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2026,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "peach",
+      "yellow fruits",
+      "sweet orange"
+     ],
+     "heart": [
+      "fruits",
+      "passion fruit",
+      "mango",
+      "water notes"
+     ],
+     "base": [
+      "musk",
+      "amber",
+      "vanilla"
+     ]
+    },
+    "families": [
+     "Fruity",
+     "Musky",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Xerjoff Erba Pura",
+     "Xerjoff Erba Gold",
+     "Rasasi Hawas For Him / Hawas Ice"
+    ],
+    "inspired_by": "Xerjoff Erba Pura"
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Chrome-136922.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "rasasi-hawas-highness",
+   "slug": "rasasi-hawas-highness",
+   "url": "/fragrances/rasasi-hawas-highness/",
+   "brand": "Rasasi",
+   "house": "Rasasi",
+   "name": "Hawas Highness Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/rasasi-hawas-highness.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2026,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "citrus",
+      "spicy notes",
+      "amber"
+     ],
+     "heart": [
+      "jasmine",
+      "violet",
+      "rose"
+     ],
+     "base": [
+      "cedarwood",
+      "vetiver",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Floral",
+     "Citrus"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Sospiro Vibrato",
+     "Bvlgari Tygar",
+     "Afnan Turathi Blue",
+     "Arabiyat Aariz"
+    ],
+    "inspired_by": "Sospiro Vibrato"
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 9,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Highness-134749.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "rasasi-hawas-black",
+   "slug": "rasasi-hawas-black",
+   "url": "/fragrances/rasasi-hawas-black/",
+   "brand": "Rasasi",
+   "house": "Rasasi",
+   "name": "Hawas Black Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/rasasi-hawas-black.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2024,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "bergamot",
+      "pineapple",
+      "grapefruit"
+     ],
+     "heart": [
+      "patchouli",
+      "cedarwood",
+      "jasmine"
+     ],
+     "base": [
+      "oakmoss",
+      "woody notes",
+      "amber"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Citrus",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "fall"
+    ],
+    "similar_to": [
+     "Nishane Hacivat",
+     "Nishane Hacivat X",
+     "Ayat Black Amsterdam",
+     "Bujairami Darkness",
+     "Mancera Intense Cedrat Boise"
+    ],
+    "inspired_by": "Nishane Hacivat"
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Black-96817.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "chanel-allure-homme-sport-superleggera",
+   "slug": "chanel-allure-homme-sport-superleggera",
+   "url": "/fragrances/chanel-allure-homme-sport-superleggera/",
+   "brand": "Chanel",
+   "house": "Chanel",
+   "name": "Allure Homme Sport Superleggera Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/chanel-allure-homme-sport-superleggera.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "designer",
+    "grade": "Beta",
+    "year": 2024,
+    "perfumer": "Olivier Polge",
+    "notes": {
+     "top": [
+      "citrus",
+      "mandarin orange",
+      "grapefruit"
+     ],
+     "heart": [
+      "woody notes",
+      "cedarwood"
+     ],
+     "base": [
+      "white musk",
+      "amber",
+      "patchouli",
+      "sandalwood"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Citrus",
+     "Musky"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Chanel Allure Homme Sport Eau de Toilette",
+     "Creed Aventus Cologne",
+     "Velixir Ares",
+     "Versace pour Homme Eau de Toilette",
+     "Missoni Wave"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 8.5,
+    "public_rating": 8,
+    "overall_rating": 20.65,
+    "max_rating": 25,
+    "normalized_rating": 0.826,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Chanel/Allure-Homme-Sport-Superleggera-95753.html",
    "commerce": {
     "sellable": false,
     "variants": []
