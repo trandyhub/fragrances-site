@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-23",
+ "generated": "2026-11-24",
  "site": "fragrances.taraga.net",
- "count": 132,
+ "count": 136,
  "products": [
   {
    "id": "chanel-bleu-de-chanel-parfum",
@@ -8609,7 +8609,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/rasasi-hawas-chrome.webp",
-    "card": null
+    "card": "/assets/cards/rasasi-hawas-chrome.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -8677,7 +8677,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/rasasi-hawas-highness.webp",
-    "card": null
+    "card": "/assets/cards/rasasi-hawas-highness.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -8745,7 +8745,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/rasasi-hawas-black.webp",
-    "card": null
+    "card": "/assets/cards/rasasi-hawas-black.webp"
    },
    "attributes": {
     "type": "dupe or inspired by",
@@ -8814,7 +8814,7 @@
    "concentration": "Eau de Parfum",
    "images": {
     "bottle": "/assets/bottles/chanel-allure-homme-sport-superleggera.webp",
-    "card": null
+    "card": "/assets/cards/chanel-allure-homme-sport-superleggera.webp"
    },
    "attributes": {
     "type": "designer",
@@ -8868,6 +8868,284 @@
     "comment": ""
    },
    "reference_link": "https://www.fragrantica.com/perfume/Chanel/Allure-Homme-Sport-Superleggera-95753.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "paris-corner-rifaaqat-ume",
+   "slug": "paris-corner-rifaaqat-ume",
+   "url": "/fragrances/paris-corner-rifaaqat-ume/",
+   "brand": "Paris Corner",
+   "house": "Paris Corner",
+   "name": "Rifaaqat Ume Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/paris-corner-rifaaqat-ume.webp",
+    "card": "/assets/cards/paris-corner-rifaaqat-ume.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2026,
+    "perfumer": "Margherita Carini",
+    "notes": {
+     "top": [
+      "Japanese plum",
+      "cinnamon",
+      "bergamot"
+     ],
+     "heart": [
+      "jasmine",
+      "ylang-ylang"
+     ],
+     "base": [
+      "amber",
+      "sandalwood",
+      "cedarwood",
+      "tonka bean",
+      "vanilla"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Floral",
+     "Sweet"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Tom Ford Plum Japonais",
+     "Initio Side Effect Eau de Parfum",
+     "Lattafa Teriaq Intense"
+    ],
+    "inspired_by": "Tom Ford Plum Japonais"
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/PARIS-CORNER/Rifaaqat-Ume-146135.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "rasasi-hawas-ice-freeze",
+   "slug": "rasasi-hawas-ice-freeze",
+   "url": "/fragrances/rasasi-hawas-ice-freeze/",
+   "brand": "Rasasi",
+   "house": "Rasasi",
+   "name": "Hawas Ice Freeze Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/rasasi-hawas-ice-freeze.webp",
+    "card": "/assets/cards/rasasi-hawas-ice-freeze.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2026,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "mandarin",
+      "orange",
+      "bergamot"
+     ],
+     "heart": [
+      "ginger",
+      "lily of the valley",
+      "mint"
+     ],
+     "base": [
+      "musk",
+      "sandalwood",
+      "ambergris"
+     ]
+    },
+    "families": [
+     "Citrus",
+     "Musky",
+     "Woody"
+    ],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [
+     "Louis Vuitton Afternoon Swim",
+     "Rasasi Hawas Ice",
+     "YSL Y Iced"
+    ],
+    "inspired_by": "Louis Vuitton Afternoon Swim"
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Rasasi/Hawas-Ice-Freeze-144189.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "khadlaj-onyx-gold",
+   "slug": "khadlaj-onyx-gold",
+   "url": "/fragrances/khadlaj-onyx-gold/",
+   "brand": "Khadlaj",
+   "house": "Khadlaj",
+   "name": "Onyx Gold Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/khadlaj-onyx-gold.webp",
+    "card": "/assets/cards/khadlaj-onyx-gold.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2025,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "rum",
+      "bitter orange",
+      "cardamom",
+      "ginger"
+     ],
+     "heart": [
+      "dried fruits",
+      "sandalwood",
+      "osmanthus",
+      "white blossom"
+     ],
+     "base": [
+      "myrrh",
+      "vanilla",
+      "tonka",
+      "patchouli"
+     ]
+    },
+    "families": [
+     "Sweet",
+     "Woody",
+     "Spicy"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Clive Christian Blonde Amber",
+     "French Avenue Amber Empire",
+     "Maison Asrar Faris Al Arab",
+     "Lattafa Art of Arabia III"
+    ],
+    "inspired_by": "Clive Christian Blonde Amber"
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Khadlaj-Perfumes/Onyx-Gold-120486.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "lattafa-musamam-black-intense",
+   "slug": "lattafa-musamam-black-intense",
+   "url": "/fragrances/lattafa-musamam-black-intense/",
+   "brand": "Lattafa",
+   "house": "Lattafa",
+   "name": "Musamam Black Intense Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/lattafa-musamam-black-intense.webp",
+    "card": "/assets/cards/lattafa-musamam-black-intense.webp"
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2025,
+    "perfumer": "Jordi Fernández",
+    "notes": {
+     "top": [
+      "lavender",
+      "nutmeg",
+      "sage",
+      "bergamot"
+     ],
+     "heart": [
+      "cedarwood",
+      "geranium",
+      "Mahonial",
+      "Rosyfolia"
+     ],
+     "base": [
+      "Cocoapulse",
+      "tonka bean",
+      "maple",
+      "patchouli",
+      "Ambrofix"
+     ]
+    },
+    "families": [
+     "Aromatic",
+     "Woody",
+     "Sweet"
+    ],
+    "seasons": [
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Lattafa Musamam White Intense",
+     "Mugler A*Men Fantasm",
+     "Trussardi Primo",
+     "BDK Parfums Gris Charnel Extrait"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "prospective",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": null,
+    "public_rating": 8,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": "This SKU could not be resolved on earlier wishlist passes."
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Musamam-Black-Intense-119987.html",
    "commerce": {
     "sellable": false,
     "variants": []
