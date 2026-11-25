@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-24",
+ "generated": "2026-11-25",
  "site": "fragrances.taraga.net",
- "count": 136,
+ "count": 137,
  "products": [
   {
    "id": "chanel-bleu-de-chanel-parfum",
@@ -8445,14 +8445,14 @@
     "inspired_by": "Mind Games Queening"
    },
    "collection": {
-    "status": "prospective",
+    "status": "owned",
     "signature": false,
     "is_new": false,
-    "randy_rating": null,
+    "randy_rating": 7.5,
     "public_rating": 8,
-    "overall_rating": null,
+    "overall_rating": 16.25,
     "max_rating": 21,
-    "normalized_rating": null,
+    "normalized_rating": 0.774,
     "comment": ""
    },
    "reference_link": "https://www.fragrantica.com/perfume/Riiffs-Perfumes/Zenith-124649.html",
@@ -9146,6 +9146,75 @@
     "comment": "This SKU could not be resolved on earlier wishlist passes."
    },
    "reference_link": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Musamam-Black-Intense-119987.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "armaf-club-de-nuit-imperiale",
+   "slug": "armaf-club-de-nuit-imperiale",
+   "url": "/fragrances/armaf-club-de-nuit-imperiale/",
+   "brand": "Armaf",
+   "house": "Armaf",
+   "name": "Club de Nuit Impériale Eau de Parfum",
+   "concentration": "Eau de Parfum",
+   "images": {
+    "bottle": "/assets/bottles/armaf-club-de-nuit-imperiale.webp",
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": 2022,
+    "perfumer": null,
+    "notes": {
+     "top": [
+      "lychee",
+      "bergamot",
+      "nutmeg"
+     ],
+     "heart": [
+      "Turkish rose",
+      "peony",
+      "musk",
+      "vanilla"
+     ],
+     "base": [
+      "cashmeran",
+      "cedar",
+      "incense",
+      "vetiver"
+     ]
+    },
+    "families": [
+     "Woody",
+     "Floral",
+     "Amber"
+    ],
+    "seasons": [
+     "spring",
+     "fall",
+     "winter"
+    ],
+    "similar_to": [
+     "Parfums de Marly Delina Exclusif",
+     "Parfums de Marly Delina Eau de Parfum"
+    ],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 7,
+    "public_rating": 8,
+    "overall_rating": 15.7,
+    "max_rating": 21,
+    "normalized_rating": 0.748,
+    "comment": ""
+   },
+   "reference_link": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-White-Imperiale-78474.html",
    "commerce": {
     "sellable": false,
     "variants": []
