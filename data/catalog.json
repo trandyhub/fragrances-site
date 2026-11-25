@@ -1,7 +1,7 @@
 {
  "generated": "2026-11-25",
  "site": "fragrances.taraga.net",
- "count": 137,
+ "count": 138,
  "products": [
   {
    "id": "chanel-bleu-de-chanel-parfum",
@@ -9215,6 +9215,53 @@
     "comment": ""
    },
    "reference_link": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-White-Imperiale-78474.html",
+   "commerce": {
+    "sellable": false,
+    "variants": []
+   }
+  },
+  {
+   "id": "true-sun-surfing",
+   "slug": "true-sun-surfing",
+   "url": "/fragrances/true-sun-surfing/",
+   "brand": "Tru Fragrance & Beauty",
+   "house": "Tru Fragrance & Beauty",
+   "name": "Sun Surfing Eau de Cologne",
+   "concentration": "",
+   "images": {
+    "bottle": null,
+    "card": null
+   },
+   "attributes": {
+    "type": "dupe or inspired by",
+    "grade": "Gamma",
+    "year": null,
+    "perfumer": null,
+    "notes": {
+     "top": [],
+     "heart": [],
+     "base": []
+    },
+    "families": [],
+    "seasons": [
+     "spring",
+     "summer"
+    ],
+    "similar_to": [],
+    "inspired_by": null
+   },
+   "collection": {
+    "status": "owned",
+    "signature": false,
+    "is_new": false,
+    "randy_rating": 7,
+    "public_rating": null,
+    "overall_rating": null,
+    "max_rating": 21,
+    "normalized_rating": null,
+    "comment": ""
+   },
+   "reference_link": null,
    "commerce": {
     "sellable": false,
     "variants": []
