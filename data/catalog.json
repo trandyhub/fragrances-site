@@ -8447,7 +8447,7 @@
    "collection": {
     "status": "owned",
     "signature": false,
-    "is_new": false,
+    "is_new": true,
     "randy_rating": 7.5,
     "public_rating": 8,
     "overall_rating": 16.25,
@@ -9206,7 +9206,7 @@
    "collection": {
     "status": "owned",
     "signature": false,
-    "is_new": false,
+    "is_new": true,
     "randy_rating": 7,
     "public_rating": 8,
     "overall_rating": 15.7,
